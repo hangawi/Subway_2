@@ -1,0 +1,5550 @@
+{
+  "source": {
+    "site": "https://www.subway.co.kr",
+    "retrievedAt": "2026-10-08T01:51:25.902Z",
+    "notes": [
+      "메뉴별 영양: 공식 메뉴 상세의 영양성분표 (중량·열량·단백질·포화지방·당류·나트륨)",
+      "재료별 영양: 공식 신선한 재료 소개의 열량만",
+      "알레르기: 공식 알레르기 유발성분 표(이미지) — ● 포함 / ★ 포함 가능성",
+      "가격: 공식 주문 API의 매장 선택 전 기본가 (data/입력표/가격.csv). 매장마다 다를 수 있음. 추가 토핑 가격은 배달의민족 앱 캡처 (배달·픽업 같음, 2026-10-08)"
+    ]
+  },
+  "allergenList": [
+    "난류",
+    "우유",
+    "메밀",
+    "땅콩",
+    "대두",
+    "밀",
+    "고등어",
+    "게",
+    "새우",
+    "돼지고기",
+    "복숭아",
+    "토마토",
+    "아황산류",
+    "호두",
+    "닭고기",
+    "쇠고기",
+    "오징어",
+    "조개류",
+    "잣"
+  ],
+  "menus": [
+    {
+      "id": "menu_1611",
+      "officialIdx": "1611",
+      "name": "피자썹",
+      "nameEn": "Pizza Sub",
+      "kind": "SANDWICH",
+      "label": "NEW",
+      "summary": "토마토살사에 모차렐라치즈가 듬뿍, 간편하고 맛있게 즐기는 피자썹 (고정레시피 제품입니다)",
+      "nutrition15cm": {
+        "weightG": 205,
+        "energyKcal": 551,
+        "proteinG": 22.9,
+        "saturatedFatG": 9.5,
+        "sugarG": 5.9,
+        "sodiumMg": 1183,
+        "raw": [
+          "205",
+          "551",
+          "22.9(42%)",
+          "9.5(63%)",
+          "5.9",
+          "1183(59%)"
+        ],
+        "basis": "15cm, 위트빵·기본 야채 기준"
+      },
+      "allergens": {
+        "status": "KNOWN",
+        "contains": [
+          "난류",
+          "우유",
+          "대두",
+          "밀",
+          "돼지고기",
+          "토마토"
+        ],
+        "mayContain": [
+          "메밀",
+          "땅콩",
+          "고등어",
+          "게",
+          "새우",
+          "복숭아",
+          "아황산류",
+          "호두",
+          "닭고기",
+          "쇠고기",
+          "오징어",
+          "조개류",
+          "잣"
+        ],
+        "rows": [
+          "샌드위치/피자썹"
+        ]
+      },
+      "price": {
+        "status": "KNOWN",
+        "price15cm": 4300,
+        "price30cm": null,
+        "checkedAt": "2026-10-08",
+        "checkedWhere": "써브웨이 공식 주문 API (매장 선택 전 기본가)"
+      }
+    },
+    {
+      "id": "menu_1514",
+      "officialIdx": "1514",
+      "name": "안창 비프&머쉬룸",
+      "nameEn": "Beef & Mushroom",
+      "kind": "SANDWICH",
+      "label": "PREMIUM",
+      "summary": "부드럽고 풍미 넘치는 안창살과 담백하고 건강한 머쉬룸이 함께 어우러져 이루는 맛있는 조합의 샌드위치",
+      "nutrition15cm": {
+        "weightG": 235,
+        "energyKcal": 292,
+        "proteinG": 16.5,
+        "saturatedFatG": 2.5,
+        "sugarG": 8,
+        "sodiumMg": 598,
+        "raw": [
+          "안창비프&머쉬룸(F):235g",
+          "292",
+          "16.5(30%)",
+          "2.5(16%)",
+          "8",
+          "598(30%)"
+        ],
+        "basis": "15cm, 위트빵·기본 야채 기준"
+      },
+      "allergens": {
+        "status": "KNOWN",
+        "contains": [
+          "대두",
+          "밀",
+          "토마토",
+          "쇠고기"
+        ],
+        "mayContain": [
+          "난류",
+          "우유",
+          "메밀",
+          "땅콩",
+          "고등어",
+          "게",
+          "새우",
+          "돼지고기",
+          "복숭아",
+          "아황산류",
+          "호두",
+          "닭고기",
+          "오징어",
+          "조개류",
+          "잣"
+        ],
+        "rows": [
+          "샌드위치/안창 비프&New 머쉬룸(F)",
+          "샌드위치/안창 비프&New 머쉬룸(S)"
+        ]
+      },
+      "price": {
+        "status": "KNOWN",
+        "price15cm": 9200,
+        "price30cm": 17400,
+        "checkedAt": "2026-10-08",
+        "checkedWhere": "써브웨이 공식 주문 API (매장 선택 전 기본가)"
+      }
+    },
+    {
+      "id": "menu_1519",
+      "officialIdx": "1519",
+      "name": "스테이크 & 치즈",
+      "nameEn": "Steak & Cheese",
+      "kind": "SANDWICH",
+      "label": "PREMIUM",
+      "summary": "육즙이 쫙~풍부한 비프 스테이크의 풍미가 입안 한가득",
+      "nutrition15cm": {
+        "weightG": 245,
+        "energyKcal": 355,
+        "proteinG": 28.1,
+        "saturatedFatG": 4.2,
+        "sugarG": 8.8,
+        "sodiumMg": 780,
+        "raw": [
+          "245",
+          "355",
+          "28.1 (51%)",
+          "4.2 (28%)",
+          "8.8 (9%)",
+          "780 (39%)"
+        ],
+        "basis": "15cm, 위트빵·기본 야채 기준"
+      },
+      "allergens": {
+        "status": "KNOWN",
+        "contains": [
+          "우유",
+          "대두",
+          "밀",
+          "토마토",
+          "쇠고기"
+        ],
+        "mayContain": [
+          "난류"
+        ],
+        "rows": [
+          "샌드위치/스테이크&치즈(아메리칸치즈포함)"
+        ]
+      },
+      "price": {
+        "status": "KNOWN",
+        "price15cm": 8800,
+        "price30cm": 16600,
+        "checkedAt": "2026-10-08",
+        "checkedWhere": "써브웨이 공식 주문 API (매장 선택 전 기본가)"
+      }
+    },
+    {
+      "id": "menu_1528",
+      "officialIdx": "1528",
+      "name": "이탈리안 비엠티",
+      "nameEn": "Italian B.M.T.™",
+      "kind": "SANDWICH",
+      "label": "CLASSIC",
+      "summary": "페퍼로니, 살라미 그리고 햄이 만들어내는 최상의 조화 전세계가 사랑하는 써브웨이의 베스트셀러 Biggest Meatiest Tastiest, its’ B.M.T.",
+      "nutrition15cm": {
+        "weightG": 228,
+        "energyKcal": 388,
+        "proteinG": 21,
+        "saturatedFatG": 5.9,
+        "sugarG": 8.6,
+        "sodiumMg": 1064,
+        "raw": [
+          "228",
+          "388",
+          "21 (38%)",
+          "5.9 (39%)",
+          "8.6 (9%)",
+          "1064 (53%)"
+        ],
+        "basis": "15cm, 위트빵·기본 야채 기준"
+      },
+      "allergens": {
+        "status": "KNOWN",
+        "contains": [
+          "대두",
+          "밀",
+          "돼지고기",
+          "토마토"
+        ],
+        "mayContain": [
+          "난류",
+          "우유",
+          "메밀",
+          "땅콩",
+          "고등어",
+          "게",
+          "새우",
+          "복숭아",
+          "아황산류",
+          "호두",
+          "닭고기",
+          "쇠고기",
+          "오징어",
+          "조개류",
+          "잣"
+        ],
+        "rows": [
+          "샌드위치/이탈리안 비엠티",
+          "샌드위치/이탈리안 비엠티(J)"
+        ]
+      },
+      "price": {
+        "status": "KNOWN",
+        "price15cm": 7500,
+        "price30cm": 14200,
+        "checkedAt": "2026-10-08",
+        "checkedWhere": "써브웨이 공식 주문 API (매장 선택 전 기본가)"
+      }
+    },
+    {
+      "id": "menu_1406",
+      "officialIdx": "1406",
+      "name": "로티세리 바비큐 치킨",
+      "nameEn": "Rotisserie Barbecue Chicken",
+      "kind": "SANDWICH",
+      "label": "FLASH",
+      "summary": "촉촉한 바비큐 치킨의 풍미가득. 손으로 찢어 더욱 부드러운 치킨의 혁명",
+      "nutrition15cm": {
+        "weightG": 249,
+        "energyKcal": 327,
+        "proteinG": 29.1,
+        "saturatedFatG": 2.5,
+        "sugarG": 7.8,
+        "sodiumMg": 542,
+        "raw": [
+          "249",
+          "327",
+          "29.1 (53%)",
+          "2.5 (17%)",
+          "7.8 (8%)",
+          "542 (27%)"
+        ],
+        "basis": "15cm, 위트빵·기본 야채 기준"
+      },
+      "allergens": {
+        "status": "KNOWN",
+        "contains": [
+          "대두",
+          "밀",
+          "토마토",
+          "닭고기"
+        ],
+        "mayContain": [
+          "난류",
+          "우유"
+        ],
+        "rows": [
+          "샌드위치/로티세리 바비큐 치킨"
+        ]
+      },
+      "price": {
+        "status": "KNOWN",
+        "price15cm": 8000,
+        "price30cm": 15100,
+        "checkedAt": "2026-10-08",
+        "checkedWhere": "써브웨이 공식 주문 API (매장 선택 전 기본가)"
+      }
+    },
+    {
+      "id": "menu_1530",
+      "officialIdx": "1530",
+      "name": "에그마요",
+      "nameEn": "Egg Mayo",
+      "kind": "SANDWICH",
+      "label": "CLASSIC",
+      "summary": "부드러운 달걀과 고소한 마요네즈가 만나 더 부드러운 스테디셀러",
+      "nutrition15cm": {
+        "weightG": 238,
+        "energyKcal": 416,
+        "proteinG": 16.4,
+        "saturatedFatG": 4.8,
+        "sugarG": 7.7,
+        "sodiumMg": 554,
+        "raw": [
+          "238",
+          "416",
+          "16.4 (30%)",
+          "4.8 (32%)",
+          "7.7 (8%)",
+          "554 (28%)"
+        ],
+        "basis": "15cm, 위트빵·기본 야채 기준"
+      },
+      "allergens": {
+        "status": "KNOWN",
+        "contains": [
+          "난류",
+          "대두",
+          "밀",
+          "토마토"
+        ],
+        "mayContain": [
+          "우유",
+          "조개류"
+        ],
+        "rows": [
+          "샌드위치/에그마요"
+        ]
+      },
+      "price": {
+        "status": "KNOWN",
+        "price15cm": 6200,
+        "price30cm": 11800,
+        "checkedAt": "2026-10-08",
+        "checkedWhere": "써브웨이 공식 주문 API (매장 선택 전 기본가)"
+      }
+    },
+    {
+      "id": "menu_1515",
+      "officialIdx": "1515",
+      "name": "안창 비프",
+      "nameEn": "Beef",
+      "kind": "SANDWICH",
+      "label": "PREMIUM",
+      "summary": "안창살을 써브웨의만의 이국적인 특제 시즈닝을 더해 더 부드럽고, 더 풍미있게 즐기는 프리미엄 샌드위치",
+      "nutrition15cm": {
+        "weightG": 235,
+        "energyKcal": 342,
+        "proteinG": 21.6,
+        "saturatedFatG": 4.3,
+        "sugarG": 8.3,
+        "sodiumMg": 830,
+        "raw": [
+          "235",
+          "342",
+          "21.6(39%)",
+          "4.3(29%)",
+          "8.3",
+          "830(42%)"
+        ],
+        "basis": "15cm, 위트빵·기본 야채 기준"
+      },
+      "allergens": {
+        "status": "KNOWN",
+        "contains": [
+          "대두",
+          "밀",
+          "토마토",
+          "쇠고기"
+        ],
+        "mayContain": [
+          "난류",
+          "우유"
+        ],
+        "rows": [
+          "샌드위치/안창 비프"
+        ]
+      },
+      "price": {
+        "status": "KNOWN",
+        "price15cm": 11100,
+        "price30cm": 20900,
+        "checkedAt": "2026-10-08",
+        "checkedWhere": "써브웨이 공식 주문 API (매장 선택 전 기본가)"
+      }
+    },
+    {
+      "id": "menu_1571",
+      "officialIdx": "1571",
+      "name": "잠봉 플러스",
+      "nameEn": "Jambon Plus",
+      "kind": "SANDWICH",
+      "label": "NEW",
+      "summary": "깊게 번지는 잠봉의 풍미를 더욱 풍성하게 느껴보세요.",
+      "nutrition15cm": {
+        "weightG": 251,
+        "energyKcal": 475,
+        "proteinG": 24.3,
+        "saturatedFatG": 7.3,
+        "sugarG": 6.4,
+        "sodiumMg": 828,
+        "raw": [
+          "251",
+          "475",
+          "24.3(44%)",
+          "7.3(48%)",
+          "6.4",
+          "828(41%)"
+        ],
+        "basis": "15cm, 위트빵·기본 야채 기준"
+      },
+      "allergens": {
+        "status": "KNOWN",
+        "contains": [
+          "대두",
+          "밀",
+          "돼지고기",
+          "토마토"
+        ],
+        "mayContain": [
+          "난류",
+          "우유",
+          "메밀",
+          "땅콩",
+          "고등어",
+          "게",
+          "새우",
+          "복숭아",
+          "아황산류",
+          "호두",
+          "닭고기",
+          "쇠고기",
+          "오징어",
+          "조개류",
+          "잣"
+        ],
+        "rows": [
+          "샌드위치/잠봉 플러스"
+        ]
+      },
+      "price": {
+        "status": "KNOWN",
+        "price15cm": 8900,
+        "price30cm": 16800,
+        "checkedAt": "2026-10-08",
+        "checkedWhere": "써브웨이 공식 주문 API (매장 선택 전 기본가)"
+      }
+    },
+    {
+      "id": "menu_1448",
+      "officialIdx": "1448",
+      "name": "치킨 베이컨 아보카도",
+      "nameEn": "Chicken Bacon Avocado",
+      "kind": "SANDWICH",
+      "label": "FLASH",
+      "summary": "담백한 치킨 슬라이스에 고소한 베이컨과 아보카도까지 건강하고 든든하게",
+      "nutrition15cm": {
+        "weightG": 246,
+        "energyKcal": 355,
+        "proteinG": 20.2,
+        "saturatedFatG": 3.2,
+        "sugarG": 9,
+        "sodiumMg": 940,
+        "raw": [
+          "246",
+          "355",
+          "20.2 (36%)",
+          "3.2 (21%)",
+          "9.0 (9%)",
+          "940 (47%)"
+        ],
+        "basis": "15cm, 위트빵·기본 야채 기준"
+      },
+      "allergens": {
+        "status": "KNOWN",
+        "contains": [
+          "대두",
+          "밀",
+          "돼지고기",
+          "토마토",
+          "닭고기"
+        ],
+        "mayContain": [
+          "난류",
+          "우유"
+        ],
+        "rows": [
+          "샌드위치/치킨 베이컨 아보카도"
+        ]
+      },
+      "price": {
+        "status": "KNOWN",
+        "price15cm": 8500,
+        "price30cm": 16100,
+        "checkedAt": "2026-10-08",
+        "checkedWhere": "써브웨이 공식 주문 API (매장 선택 전 기본가)"
+      }
+    },
+    {
+      "id": "menu_1518",
+      "officialIdx": "1518",
+      "name": "스파이시 쉬림프",
+      "nameEn": "Spicy Shrimp",
+      "kind": "SANDWICH",
+      "label": "PREMIUM",
+      "summary": "탱글한 쉬림프에 이국적인 시즈닝을 더해 색다른 매콤함을 만나보세요!",
+      "nutrition15cm": {
+        "weightG": 213,
+        "energyKcal": 245,
+        "proteinG": 16.5,
+        "saturatedFatG": 0.9,
+        "sugarG": 9.1,
+        "sodiumMg": 570,
+        "raw": [
+          "213",
+          "245",
+          "16.5 (30%)",
+          "0.9 (6%)",
+          "9.1 (9%)",
+          "570 (29%)"
+        ],
+        "basis": "15cm, 위트빵·기본 야채 기준"
+      },
+      "allergens": {
+        "status": "KNOWN",
+        "contains": [
+          "우유",
+          "대두",
+          "밀",
+          "새우",
+          "토마토"
+        ],
+        "mayContain": [
+          "난류"
+        ],
+        "rows": [
+          "샌드위치/스파이시 쉬림프"
+        ]
+      },
+      "price": {
+        "status": "KNOWN",
+        "price15cm": 8400,
+        "price30cm": 15900,
+        "checkedAt": "2026-10-08",
+        "checkedWhere": "써브웨이 공식 주문 API (매장 선택 전 기본가)"
+      }
+    },
+    {
+      "id": "menu_1520",
+      "officialIdx": "1520",
+      "name": "쉬림프",
+      "nameEn": "Shrimp",
+      "kind": "SANDWICH",
+      "label": "PREMIUM",
+      "summary": "탱글한 쉬림프 5마리가 그대로, 신선하고 담백한 쉬림프의 맛 그대로 즐겨보세요!",
+      "nutrition15cm": {
+        "weightG": 209,
+        "energyKcal": 241,
+        "proteinG": 16.3,
+        "saturatedFatG": 0.6,
+        "sugarG": 7.9,
+        "sodiumMg": 415,
+        "raw": [
+          "209",
+          "241",
+          "16.3 (30%)",
+          "0.6 (4%)",
+          "7.9 (8%)",
+          "415 (21%)"
+        ],
+        "basis": "15cm, 위트빵·기본 야채 기준"
+      },
+      "allergens": {
+        "status": "KNOWN",
+        "contains": [
+          "대두",
+          "밀",
+          "새우",
+          "토마토"
+        ],
+        "mayContain": [
+          "난류",
+          "우유"
+        ],
+        "rows": [
+          "샌드위치/쉬림프"
+        ]
+      },
+      "price": {
+        "status": "KNOWN",
+        "price15cm": 8200,
+        "price30cm": 15500,
+        "checkedAt": "2026-10-08",
+        "checkedWhere": "써브웨이 공식 주문 API (매장 선택 전 기본가)"
+      }
+    },
+    {
+      "id": "menu_1401",
+      "officialIdx": "1401",
+      "name": "로스트 치킨",
+      "nameEn": "Roasted Chicken",
+      "kind": "SANDWICH",
+      "label": "FLASH",
+      "summary": "오븐에 구워 담백한 저칼로리 닭가슴살의 건강한 풍미",
+      "nutrition15cm": {
+        "weightG": 237,
+        "energyKcal": 300,
+        "proteinG": 26,
+        "saturatedFatG": 1.3,
+        "sugarG": 8.7,
+        "sodiumMg": 605,
+        "raw": [
+          "237",
+          "300",
+          "26 (47%)",
+          "1.3 (9%)",
+          "8.7 (9%)",
+          "605 (30%)"
+        ],
+        "basis": "15cm, 위트빵·기본 야채 기준"
+      },
+      "allergens": {
+        "status": "KNOWN",
+        "contains": [
+          "대두",
+          "밀",
+          "토마토",
+          "닭고기",
+          "쇠고기"
+        ],
+        "mayContain": [
+          "난류",
+          "우유"
+        ],
+        "rows": [
+          "샌드위치/로스트 치킨"
+        ]
+      },
+      "price": {
+        "status": "KNOWN",
+        "price15cm": 8000,
+        "price30cm": 15100,
+        "checkedAt": "2026-10-08",
+        "checkedWhere": "써브웨이 공식 주문 API (매장 선택 전 기본가)"
+      }
+    },
+    {
+      "id": "menu_1524",
+      "officialIdx": "1524",
+      "name": "풀드포크 바비큐",
+      "nameEn": "Pulled Pork Barbecue",
+      "kind": "SANDWICH",
+      "label": "PREMIUM",
+      "summary": "미국 스타일의 풀드 포크 바비큐가 가득 들어간 샌드위치",
+      "nutrition15cm": {
+        "weightG": 235,
+        "energyKcal": 327,
+        "proteinG": 24.8,
+        "saturatedFatG": 2.1,
+        "sugarG": 7.8,
+        "sodiumMg": 689,
+        "raw": [
+          "235",
+          "327",
+          "24.8 (45%)",
+          "2.1 (14%)",
+          "7.8 (8%)",
+          "689 (34%)"
+        ],
+        "basis": "15cm, 위트빵·기본 야채 기준"
+      },
+      "allergens": {
+        "status": "KNOWN",
+        "contains": [
+          "대두",
+          "밀",
+          "돼지고기",
+          "토마토"
+        ],
+        "mayContain": [
+          "난류",
+          "우유"
+        ],
+        "rows": [
+          "샌드위치/풀드포크 바비큐"
+        ]
+      },
+      "price": {
+        "status": "KNOWN",
+        "price15cm": 7900,
+        "price30cm": 14900,
+        "checkedAt": "2026-10-08",
+        "checkedWhere": "써브웨이 공식 주문 API (매장 선택 전 기본가)"
+      }
+    },
+    {
+      "id": "menu_1511",
+      "officialIdx": "1511",
+      "name": "써브웨이 클럽",
+      "nameEn": "Subway Club",
+      "kind": "SANDWICH",
+      "label": "PREMIUM",
+      "summary": "고소한 베이컨, 담백한 터키에 햄까지 더해 완벽해진 조화를 즐겨보세요.",
+      "nutrition15cm": {
+        "weightG": 216,
+        "energyKcal": 299,
+        "proteinG": 19.8,
+        "saturatedFatG": 2.4,
+        "sugarG": 8.53,
+        "sodiumMg": 853,
+        "raw": [
+          "216",
+          "299",
+          "19.8 (36%)",
+          "2.4 (16%)",
+          "8.53 (8%)",
+          "853 (43%)"
+        ],
+        "basis": "15cm, 위트빵·기본 야채 기준"
+      },
+      "allergens": {
+        "status": "KNOWN",
+        "contains": [
+          "대두",
+          "밀",
+          "돼지고기",
+          "토마토",
+          "닭고기"
+        ],
+        "mayContain": [
+          "난류",
+          "우유",
+          "메밀",
+          "땅콩",
+          "고등어",
+          "게",
+          "새우",
+          "복숭아",
+          "아황산류",
+          "호두",
+          "쇠고기",
+          "오징어",
+          "조개류",
+          "잣"
+        ],
+        "rows": [
+          "샌드위치/써브웨이 클럽(터키)",
+          "샌드위치/써브웨이 클럽(J)",
+          "샌드위치/써브웨이 클럽(JC)"
+        ]
+      },
+      "price": {
+        "status": "KNOWN",
+        "price15cm": 7800,
+        "price30cm": 14700,
+        "checkedAt": "2026-10-08",
+        "checkedWhere": "써브웨이 공식 주문 API (매장 선택 전 기본가)"
+      }
+    },
+    {
+      "id": "menu_1521",
+      "officialIdx": "1521",
+      "name": "치킨 데리야끼",
+      "nameEn": "Chicken Teriyaki",
+      "kind": "SANDWICH",
+      "label": "PREMIUM",
+      "summary": "담백한 치킨 스트립에 달콤짭쪼름한 써브웨이 특제 데리야끼 소스와의 환상적인 만남",
+      "nutrition15cm": {
+        "weightG": 255,
+        "energyKcal": 314,
+        "proteinG": 26.5,
+        "saturatedFatG": 1.2,
+        "sugarG": 10.1,
+        "sodiumMg": 698,
+        "raw": [
+          "255",
+          "314",
+          "26.5 (48%)",
+          "1.2 (8%)",
+          "10.1 (10%)",
+          "698 (35%)"
+        ],
+        "basis": "15cm, 위트빵·기본 야채 기준"
+      },
+      "allergens": {
+        "status": "KNOWN",
+        "contains": [
+          "대두",
+          "밀",
+          "토마토",
+          "닭고기"
+        ],
+        "mayContain": [
+          "난류",
+          "우유"
+        ],
+        "rows": [
+          "샌드위치/치킨 데리야끼"
+        ]
+      },
+      "price": {
+        "status": "KNOWN",
+        "price15cm": 7600,
+        "price30cm": 14400,
+        "checkedAt": "2026-10-08",
+        "checkedWhere": "써브웨이 공식 주문 API (매장 선택 전 기본가)"
+      }
+    },
+    {
+      "id": "menu_1522",
+      "officialIdx": "1522",
+      "name": "스파이시 이탈리안",
+      "nameEn": "Spicy Italian",
+      "kind": "SANDWICH",
+      "label": "PREMIUM",
+      "summary": "페퍼로니 & 살라미가 입안 가득, 페퍼로니의 부드러운 매콤함을 만나보세요!",
+      "nutrition15cm": {
+        "weightG": 224,
+        "energyKcal": 464,
+        "proteinG": 20.7,
+        "saturatedFatG": 9.1,
+        "sugarG": 8.7,
+        "sodiumMg": 1250,
+        "raw": [
+          "224",
+          "464",
+          "20.7 (38%)",
+          "9.1 (60%)",
+          "8.7 (9%)",
+          "1250 (63%)"
+        ],
+        "basis": "15cm, 위트빵·기본 야채 기준"
+      },
+      "allergens": {
+        "status": "KNOWN",
+        "contains": [
+          "대두",
+          "밀",
+          "돼지고기",
+          "토마토"
+        ],
+        "mayContain": [
+          "난류",
+          "우유"
+        ],
+        "rows": [
+          "샌드위치/스파이시 이탈리안"
+        ]
+      },
+      "price": {
+        "status": "KNOWN",
+        "price15cm": 7500,
+        "price30cm": 14200,
+        "checkedAt": "2026-10-08",
+        "checkedWhere": "써브웨이 공식 주문 API (매장 선택 전 기본가)"
+      }
+    },
+    {
+      "id": "menu_1570",
+      "officialIdx": "1570",
+      "name": "잠봉",
+      "nameEn": "Jambon",
+      "kind": "SANDWICH",
+      "label": "CLASSIC",
+      "summary": "깊게 번지는 잠봉의 풍미를 느껴보세요.",
+      "nutrition15cm": {
+        "weightG": 215,
+        "energyKcal": 376,
+        "proteinG": 18.3,
+        "saturatedFatG": 4.7,
+        "sugarG": 6,
+        "sodiumMg": 621,
+        "raw": [
+          "215",
+          "376",
+          "18.3(33%)",
+          "4.7(31%)",
+          "6",
+          "621(31%)"
+        ],
+        "basis": "15cm, 위트빵·기본 야채 기준"
+      },
+      "allergens": {
+        "status": "KNOWN",
+        "contains": [
+          "대두",
+          "밀",
+          "돼지고기",
+          "토마토"
+        ],
+        "mayContain": [
+          "난류",
+          "우유",
+          "메밀",
+          "땅콩",
+          "고등어",
+          "게",
+          "새우",
+          "복숭아",
+          "아황산류",
+          "호두",
+          "닭고기",
+          "쇠고기",
+          "오징어",
+          "조개류",
+          "잣"
+        ],
+        "rows": [
+          "샌드위치/잠봉"
+        ]
+      },
+      "price": {
+        "status": "KNOWN",
+        "price15cm": 7400,
+        "price30cm": 14100,
+        "checkedAt": "2026-10-08",
+        "checkedWhere": "써브웨이 공식 주문 API (매장 선택 전 기본가)"
+      }
+    },
+    {
+      "id": "menu_1529",
+      "officialIdx": "1529",
+      "name": "비엘티",
+      "nameEn": "B.L.T.",
+      "kind": "SANDWICH",
+      "label": "CLASSIC",
+      "summary": "오리지널 아메리칸 스타일 베이컨의 풍미와 바삭함 그대로~",
+      "nutrition15cm": {
+        "weightG": 182,
+        "energyKcal": 300,
+        "proteinG": 15.9,
+        "saturatedFatG": 3.7,
+        "sugarG": 7.9,
+        "sodiumMg": 666,
+        "raw": [
+          "182",
+          "300",
+          "15.9 (29%)",
+          "3.7 (25%)",
+          "7.9 (8%)",
+          "666 (33%)"
+        ],
+        "basis": "15cm, 위트빵·기본 야채 기준"
+      },
+      "allergens": {
+        "status": "KNOWN",
+        "contains": [
+          "대두",
+          "밀",
+          "돼지고기",
+          "토마토"
+        ],
+        "mayContain": [
+          "난류",
+          "우유"
+        ],
+        "rows": [
+          "샌드위치/비엘티"
+        ]
+      },
+      "price": {
+        "status": "KNOWN",
+        "price15cm": 7300,
+        "price30cm": 13800,
+        "checkedAt": "2026-10-08",
+        "checkedWhere": "써브웨이 공식 주문 API (매장 선택 전 기본가)"
+      }
+    },
+    {
+      "id": "menu_1449",
+      "officialIdx": "1449",
+      "name": "치킨 슬라이스",
+      "nameEn": "Chicken Slice",
+      "kind": "SANDWICH",
+      "label": "FLASH",
+      "summary": "담백한 치킨 슬라이스로 맛과 건강까지 한입에",
+      "nutrition15cm": {
+        "weightG": 221,
+        "energyKcal": 265,
+        "proteinG": 18.6,
+        "saturatedFatG": 0.9,
+        "sugarG": 8.7,
+        "sodiumMg": 751,
+        "raw": [
+          "221",
+          "265",
+          "18.6 (34%)",
+          "0.9 (6%)",
+          "8.7 (9%)",
+          "751 (37%)"
+        ],
+        "basis": "15cm, 위트빵·기본 야채 기준"
+      },
+      "allergens": {
+        "status": "KNOWN",
+        "contains": [
+          "대두",
+          "밀",
+          "토마토",
+          "닭고기"
+        ],
+        "mayContain": [
+          "난류",
+          "우유"
+        ],
+        "rows": [
+          "샌드위치/치킨 슬라이스"
+        ]
+      },
+      "price": {
+        "status": "KNOWN",
+        "price15cm": 6600,
+        "price30cm": 12500,
+        "checkedAt": "2026-10-08",
+        "checkedWhere": "써브웨이 공식 주문 API (매장 선택 전 기본가)"
+      }
+    },
+    {
+      "id": "menu_1526",
+      "officialIdx": "1526",
+      "name": "머쉬룸",
+      "nameEn": "Mushroom",
+      "kind": "SANDWICH",
+      "label": "FLASH",
+      "summary": "버섯의 건강함을 그대로 담아 신선한 야채와 함께 담백하게 즐기는 샌드위치",
+      "nutrition15cm": {
+        "weightG": 235,
+        "energyKcal": 245,
+        "proteinG": 11.8,
+        "saturatedFatG": 0.6,
+        "sugarG": 7.7,
+        "sodiumMg": 376,
+        "raw": [
+          "머쉬룸(F):235g",
+          "245",
+          "11.8(21%)",
+          "0.6(4%)",
+          "7.7",
+          "376(19%)"
+        ],
+        "basis": "15cm, 위트빵·기본 야채 기준"
+      },
+      "allergens": {
+        "status": "KNOWN",
+        "contains": [
+          "대두",
+          "밀",
+          "토마토"
+        ],
+        "mayContain": [
+          "난류",
+          "우유",
+          "메밀",
+          "땅콩",
+          "고등어",
+          "게",
+          "새우",
+          "돼지고기",
+          "복숭아",
+          "아황산류",
+          "호두",
+          "닭고기",
+          "쇠고기",
+          "오징어",
+          "조개류",
+          "잣"
+        ],
+        "rows": [
+          "샌드위치/New 머쉬룸(F)",
+          "샌드위치/New 머쉬룸(S)"
+        ]
+      },
+      "price": {
+        "status": "KNOWN",
+        "price15cm": 6600,
+        "price30cm": 12500,
+        "checkedAt": "2026-10-08",
+        "checkedWhere": "써브웨이 공식 주문 API (매장 선택 전 기본가)"
+      }
+    },
+    {
+      "id": "menu_1532",
+      "officialIdx": "1532",
+      "name": "참치",
+      "nameEn": "Tuna",
+      "kind": "SANDWICH",
+      "label": "CLASSIC",
+      "summary": "남녀노소 누구나 좋아하는 담백한 참치와 고소한 마요네즈의 완벽한 조화",
+      "nutrition15cm": {
+        "weightG": 238,
+        "energyKcal": 316,
+        "proteinG": 26.9,
+        "saturatedFatG": 1.4,
+        "sugarG": 7.6,
+        "sodiumMg": 535,
+        "raw": [
+          "238",
+          "316",
+          "26.9 (49%)",
+          "1.4 (9%)",
+          "7.6 (8%)",
+          "535 (27%)"
+        ],
+        "basis": "15cm, 위트빵·기본 야채 기준"
+      },
+      "allergens": {
+        "status": "KNOWN",
+        "contains": [
+          "난류",
+          "대두",
+          "밀",
+          "토마토"
+        ],
+        "mayContain": [
+          "우유"
+        ],
+        "rows": [
+          "샌드위치/참치"
+        ]
+      },
+      "price": {
+        "status": "KNOWN",
+        "price15cm": 6400,
+        "price30cm": 12100,
+        "checkedAt": "2026-10-08",
+        "checkedWhere": "써브웨이 공식 주문 API (매장 선택 전 기본가)"
+      }
+    },
+    {
+      "id": "menu_1403",
+      "officialIdx": "1403",
+      "name": "베지",
+      "nameEn": "Veggie Delite",
+      "kind": "SANDWICH",
+      "label": "FLASH",
+      "summary": "갓 구운 빵과 신선한 8가지 야채로 즐기는 깔끔한 한끼",
+      "nutrition15cm": {
+        "weightG": 164,
+        "energyKcal": 209,
+        "proteinG": 9.2,
+        "saturatedFatG": 0.6,
+        "sugarG": 7.6,
+        "sodiumMg": 262,
+        "raw": [
+          "164",
+          "209",
+          "9.2 (17%)",
+          "0.6 (4%)",
+          "7.6 (8%)",
+          "262 (13%)"
+        ],
+        "basis": "15cm, 위트빵·기본 야채 기준"
+      },
+      "allergens": {
+        "status": "KNOWN",
+        "contains": [
+          "대두",
+          "밀",
+          "토마토"
+        ],
+        "mayContain": [
+          "난류",
+          "우유"
+        ],
+        "rows": [
+          "샌드위치/베지"
+        ]
+      },
+      "price": {
+        "status": "KNOWN",
+        "price15cm": 5200,
+        "price30cm": 9900,
+        "checkedAt": "2026-10-08",
+        "checkedWhere": "써브웨이 공식 주문 API (매장 선택 전 기본가)"
+      }
+    },
+    {
+      "id": "menu_1585",
+      "officialIdx": "1585",
+      "name": "스테이크 & 머쉬룸 샐러드",
+      "nameEn": "Steak & Mushroom Salad",
+      "kind": "SALAD",
+      "label": "CLASSIC",
+      "summary": "스테이크, 머쉬룸, 슈레드 치즈와 5가지 야채, 블랙올리브 (소스 선택)",
+      "nutrition15cm": {
+        "weightG": 314,
+        "energyKcal": 193,
+        "proteinG": 20.2,
+        "saturatedFatG": 4,
+        "sugarG": 5.8,
+        "sodiumMg": 514,
+        "raw": [
+          "314",
+          "193",
+          "20.2 (37%)",
+          "4(27%)",
+          "5.8",
+          "514(26%)"
+        ],
+        "basis": "1회 제공량"
+      },
+      "allergens": {
+        "status": "KNOWN",
+        "contains": [
+          "우유",
+          "토마토",
+          "쇠고기"
+        ],
+        "mayContain": [
+          "난류",
+          "대두",
+          "밀"
+        ],
+        "rows": [
+          "샐러드/스테이크&머쉬룸"
+        ]
+      },
+      "price": {
+        "status": "KNOWN",
+        "price15cm": 13700,
+        "price30cm": null,
+        "checkedAt": "2026-10-08",
+        "checkedWhere": "써브웨이 공식 주문 API (매장 선택 전 기본가)"
+      }
+    },
+    {
+      "id": "menu_1584",
+      "officialIdx": "1584",
+      "name": "쉬림프 아보카도 샐러드",
+      "nameEn": "Shrimp Avocado Salad",
+      "kind": "SALAD",
+      "label": "CLASSIC",
+      "summary": "쉬림프, 아보카도, 슈레드 치즈와 5가지 야채, 블랙올리브 (소스 선택)",
+      "nutrition15cm": {
+        "weightG": 290,
+        "energyKcal": 182,
+        "proteinG": 12.6,
+        "saturatedFatG": 3.3,
+        "sugarG": 5.8,
+        "sodiumMg": 357,
+        "raw": [
+          "290",
+          "182",
+          "12.6(23%)",
+          "3.3(22%)",
+          "5.8",
+          "357(18%)"
+        ],
+        "basis": "1회 제공량"
+      },
+      "allergens": {
+        "status": "KNOWN",
+        "contains": [
+          "우유",
+          "새우",
+          "토마토"
+        ],
+        "mayContain": [
+          "난류",
+          "대두",
+          "밀"
+        ],
+        "rows": [
+          "샐러드/쉬림프 아보카도"
+        ]
+      },
+      "price": {
+        "status": "KNOWN",
+        "price15cm": 12900,
+        "price30cm": null,
+        "checkedAt": "2026-10-08",
+        "checkedWhere": "써브웨이 공식 주문 API (매장 선택 전 기본가)"
+      }
+    },
+    {
+      "id": "menu_1582",
+      "officialIdx": "1582",
+      "name": "로티세리 치킨 더블치즈 샐러드",
+      "nameEn": "Rotisserie Chicken Double Cheese Salad",
+      "kind": "SALAD",
+      "label": "CLASSIC",
+      "summary": "로티세리 치킨, 더블 슈레드 치즈와 5가지 야채, 블랙올리브 (소스 선택)",
+      "nutrition15cm": {
+        "weightG": 318,
+        "energyKcal": 294,
+        "proteinG": 30.4,
+        "saturatedFatG": 6.2,
+        "sugarG": 5.3,
+        "sodiumMg": 640,
+        "raw": [
+          "318",
+          "294",
+          "30.4(55%)",
+          "6.2(41%)",
+          "5.3",
+          "640(32%)"
+        ],
+        "basis": "1회 제공량"
+      },
+      "allergens": {
+        "status": "KNOWN",
+        "contains": [
+          "우유",
+          "대두",
+          "토마토",
+          "닭고기"
+        ],
+        "mayContain": [
+          "난류",
+          "밀"
+        ],
+        "rows": [
+          "샐러드/로티세리 치킨 더블치즈"
+        ]
+      },
+      "price": {
+        "status": "KNOWN",
+        "price15cm": 11200,
+        "price30cm": null,
+        "checkedAt": "2026-10-08",
+        "checkedWhere": "써브웨이 공식 주문 API (매장 선택 전 기본가)"
+      }
+    },
+    {
+      "id": "menu_1587",
+      "officialIdx": "1587",
+      "name": "풀드포크 타코 샐러드",
+      "nameEn": "Pulled Pork Taco Salad",
+      "kind": "SALAD",
+      "label": "TACO",
+      "summary": "풀드포크, 더블 슈레드 치즈, 아보카도, 살사, 각종 야채와 치폴레 & 랜치, 또띠야",
+      "nutrition15cm": {
+        "weightG": 526,
+        "energyKcal": 820,
+        "proteinG": 35.9,
+        "saturatedFatG": 15.9,
+        "sugarG": 12.5,
+        "sodiumMg": 1947,
+        "raw": [
+          "526",
+          "820",
+          "35.9(65%)",
+          "15.9(106%)",
+          "12.5",
+          "1947(97%)"
+        ],
+        "basis": "1회 제공량"
+      },
+      "allergens": {
+        "status": "KNOWN",
+        "contains": [
+          "난류",
+          "우유",
+          "대두",
+          "밀",
+          "돼지고기",
+          "토마토"
+        ],
+        "mayContain": [
+          "메밀",
+          "땅콩",
+          "고등어",
+          "게",
+          "새우",
+          "복숭아",
+          "아황산류",
+          "호두",
+          "닭고기",
+          "쇠고기",
+          "오징어",
+          "조개류",
+          "잣"
+        ],
+        "rows": [
+          "샐러드/풀드포크 타코"
+        ]
+      },
+      "price": {
+        "status": "KNOWN",
+        "price15cm": 11900,
+        "price30cm": null,
+        "checkedAt": "2026-10-08",
+        "checkedWhere": "써브웨이 공식 주문 API (매장 선택 전 기본가)"
+      }
+    },
+    {
+      "id": "menu_1589",
+      "officialIdx": "1589",
+      "name": "스파이시 쉬림프 타코 샐러드",
+      "nameEn": "Spicy Shrimp Taco Salad",
+      "kind": "SALAD",
+      "label": "TACO",
+      "summary": "스파이시 쉬림프, 더블 슈레드 치즈, 아보카도, 살사, 각종 야채와 치폴레 & 랜치, 또띠야",
+      "nutrition15cm": {
+        "weightG": 520,
+        "energyKcal": 713,
+        "proteinG": 27.4,
+        "saturatedFatG": 13.6,
+        "sugarG": 15.6,
+        "sodiumMg": 1841,
+        "raw": [
+          "520",
+          "713",
+          "27.4(50%)",
+          "13.6(91%)",
+          "15.6",
+          "1841(92%)"
+        ],
+        "basis": "1회 제공량"
+      },
+      "allergens": {
+        "status": "KNOWN",
+        "contains": [
+          "난류",
+          "우유",
+          "대두",
+          "밀",
+          "새우",
+          "토마토"
+        ],
+        "mayContain": [
+          "메밀",
+          "땅콩",
+          "고등어",
+          "게",
+          "돼지고기",
+          "복숭아",
+          "아황산류",
+          "호두",
+          "닭고기",
+          "쇠고기",
+          "오징어",
+          "조개류",
+          "잣"
+        ],
+        "rows": [
+          "샐러드/스파이시 쉬림프 타코"
+        ]
+      },
+      "price": {
+        "status": "KNOWN",
+        "price15cm": 13200,
+        "price30cm": null,
+        "checkedAt": "2026-10-08",
+        "checkedWhere": "써브웨이 공식 주문 API (매장 선택 전 기본가)"
+      }
+    },
+    {
+      "id": "menu_1588",
+      "officialIdx": "1588",
+      "name": "로티세리 치킨 타코 샐러드",
+      "nameEn": "Rotisserie chicken Taco Salad",
+      "kind": "SALAD",
+      "label": "TACO",
+      "summary": "로티세리 치킨, 더블 슈레드 치즈, 아보카도, 살사,각종 야채와 치폴레 & 랜치, 또띠야",
+      "nutrition15cm": {
+        "weightG": 526,
+        "energyKcal": 802,
+        "proteinG": 37.8,
+        "saturatedFatG": 14.4,
+        "sugarG": 12.4,
+        "sodiumMg": 1881,
+        "raw": [
+          "526",
+          "802",
+          "37.8(69%)",
+          "14.4(96%)",
+          "12.4",
+          "1881(94%)"
+        ],
+        "basis": "1회 제공량"
+      },
+      "allergens": {
+        "status": "KNOWN",
+        "contains": [
+          "난류",
+          "우유",
+          "대두",
+          "밀",
+          "토마토",
+          "닭고기"
+        ],
+        "mayContain": [
+          "메밀",
+          "땅콩",
+          "고등어",
+          "게",
+          "새우",
+          "돼지고기",
+          "복숭아",
+          "아황산류",
+          "호두",
+          "쇠고기",
+          "오징어",
+          "조개류",
+          "잣"
+        ],
+        "rows": [
+          "샐러드/로티세리 치킨 타코"
+        ]
+      },
+      "price": {
+        "status": "KNOWN",
+        "price15cm": 12500,
+        "price30cm": null,
+        "checkedAt": "2026-10-08",
+        "checkedWhere": "써브웨이 공식 주문 API (매장 선택 전 기본가)"
+      }
+    },
+    {
+      "id": "menu_1583",
+      "officialIdx": "1583",
+      "name": "로스트 치킨 베이컨 샐러드",
+      "nameEn": "Roast Chicken Bacon Salad",
+      "kind": "SALAD",
+      "label": "CLASSIC",
+      "summary": "로스트 치킨, 베이컨 비츠, 슈레드 치즈와 5가지 야채, 블랙올리브 (소스 선택)",
+      "nutrition15cm": {
+        "weightG": 296,
+        "energyKcal": 216,
+        "proteinG": 22.5,
+        "saturatedFatG": 4.1,
+        "sugarG": 5.8,
+        "sodiumMg": 704,
+        "raw": [
+          "296",
+          "216",
+          "22.5(41%)",
+          "4.1(28%)",
+          "5.8",
+          "704(35%)"
+        ],
+        "basis": "1회 제공량"
+      },
+      "allergens": {
+        "status": "KNOWN",
+        "contains": [
+          "우유",
+          "돼지고기",
+          "토마토",
+          "닭고기",
+          "쇠고기"
+        ],
+        "mayContain": [
+          "난류",
+          "대두",
+          "밀"
+        ],
+        "rows": [
+          "샐러드/로스트 치킨 베이컨"
+        ]
+      },
+      "price": {
+        "status": "KNOWN",
+        "price15cm": 11200,
+        "price30cm": null,
+        "checkedAt": "2026-10-08",
+        "checkedWhere": "써브웨이 공식 주문 API (매장 선택 전 기본가)"
+      }
+    },
+    {
+      "id": "menu_1581",
+      "officialIdx": "1581",
+      "name": "에그마요 베이컨 샐러드",
+      "nameEn": "Egg Mayo Bacon Salad",
+      "kind": "SALAD",
+      "label": "CLASSIC",
+      "summary": "에그마요, 베이컨 비츠, 슈레드 치즈와 5가지 야채, 블랙올리브 (소스 선택)",
+      "nutrition15cm": {
+        "weightG": 299,
+        "energyKcal": 352,
+        "proteinG": 15.5,
+        "saturatedFatG": 8.1,
+        "sugarG": 5.4,
+        "sodiumMg": 629,
+        "raw": [
+          "299",
+          "352",
+          "15.5(28%)",
+          "8.1(54%)",
+          "5.4",
+          "629(31%)"
+        ],
+        "basis": "1회 제공량"
+      },
+      "allergens": {
+        "status": "KNOWN",
+        "contains": [
+          "난류",
+          "우유",
+          "대두",
+          "돼지고기",
+          "토마토"
+        ],
+        "mayContain": [
+          "밀"
+        ],
+        "rows": [
+          "샐러드/에그마요 베이컨"
+        ]
+      },
+      "price": {
+        "status": "KNOWN",
+        "price15cm": 10400,
+        "price30cm": null,
+        "checkedAt": "2026-10-08",
+        "checkedWhere": "써브웨이 공식 주문 API (매장 선택 전 기본가)"
+      }
+    },
+    {
+      "id": "menu_1580",
+      "officialIdx": "1580",
+      "name": "참치 아보카도 샐러드",
+      "nameEn": "Tuna Avocado Salad",
+      "kind": "SALAD",
+      "label": "CLASSIC",
+      "summary": "참치, 아보카도, 슈레드 치즈와 5가지 야채, 블랙올리브 (소스 선택)",
+      "nutrition15cm": {
+        "weightG": 319,
+        "energyKcal": 255,
+        "proteinG": 23,
+        "saturatedFatG": 4.1,
+        "sugarG": 5.5,
+        "sodiumMg": 496,
+        "raw": [
+          "319",
+          "255",
+          "23(42%)",
+          "4.1(27%)",
+          "5.5",
+          "496(25%)"
+        ],
+        "basis": "1회 제공량"
+      },
+      "allergens": {
+        "status": "KNOWN",
+        "contains": [
+          "난류",
+          "우유",
+          "대두",
+          "토마토"
+        ],
+        "mayContain": [
+          "밀"
+        ],
+        "rows": [
+          "샐러드/참치 아보카도"
+        ]
+      },
+      "price": {
+        "status": "KNOWN",
+        "price15cm": 9800,
+        "price30cm": null,
+        "checkedAt": "2026-10-08",
+        "checkedWhere": "써브웨이 공식 주문 API (매장 선택 전 기본가)"
+      }
+    },
+    {
+      "id": "menu_1579",
+      "officialIdx": "1579",
+      "name": "그린 샐러드",
+      "nameEn": "Green Salad",
+      "kind": "SALAD",
+      "label": "CLASSIC",
+      "summary": "슈레드 치즈와 5가지 야채, 블랙올리브 (소스 선택)",
+      "nutrition15cm": {
+        "weightG": 214,
+        "energyKcal": 91.8,
+        "proteinG": 4.8,
+        "saturatedFatG": 2.5,
+        "sugarG": 5.1,
+        "sodiumMg": 111,
+        "raw": [
+          "214",
+          "91.8",
+          "4.8(9%)",
+          "2.5(17%)",
+          "5.1",
+          "111(6%)"
+        ],
+        "basis": "1회 제공량"
+      },
+      "allergens": {
+        "status": "KNOWN",
+        "contains": [
+          "우유",
+          "토마토"
+        ],
+        "mayContain": [
+          "난류",
+          "대두",
+          "밀"
+        ],
+        "rows": [
+          "샐러드/그린"
+        ]
+      },
+      "price": {
+        "status": "KNOWN",
+        "price15cm": 7400,
+        "price30cm": null,
+        "checkedAt": "2026-10-08",
+        "checkedWhere": "써브웨이 공식 주문 API (매장 선택 전 기본가)"
+      }
+    },
+    {
+      "id": "menu_1473",
+      "officialIdx": "1473",
+      "name": "미니 로티세리 치킨 샐러드",
+      "nameEn": "Mini Rotisserie Chicken Salad",
+      "kind": "SALAD",
+      "label": "NEW",
+      "summary": "신선함과 간편함을 한 컵에 담아, 가볍고 건강하게 즐기는 미니 샐러드",
+      "nutrition15cm": {
+        "weightG": 94,
+        "energyKcal": 42,
+        "proteinG": 5.3,
+        "saturatedFatG": 0.6,
+        "sugarG": 3,
+        "sodiumMg": 72,
+        "raw": [
+          "94",
+          "42",
+          "5.3(9.7%)",
+          "0.6(3.3%)",
+          "3",
+          "72(3.6%)"
+        ],
+        "basis": "1회 제공량"
+      },
+      "allergens": {
+        "status": "UNKNOWN",
+        "contains": [],
+        "mayContain": [],
+        "rows": []
+      },
+      "price": {
+        "status": "KNOWN",
+        "price15cm": 2900,
+        "price30cm": null,
+        "checkedAt": "2026-10-08",
+        "checkedWhere": "써브웨이 공식 주문 API (매장 선택 전 기본가)"
+      }
+    },
+    {
+      "id": "menu_1590",
+      "officialIdx": "1590",
+      "name": "스테이크 & 머쉬룸 그레인 샐러드",
+      "nameEn": "Steak & Mushroom Grain Salad",
+      "kind": "GRAIN_SALAD",
+      "label": "CLASSIC",
+      "summary": "스테이크, 머쉬룸, 그레인 믹스, 슈레드 치즈와 5가지 야채, 블랙올리브 (소스 선택)",
+      "nutrition15cm": {
+        "weightG": 374,
+        "energyKcal": 338,
+        "proteinG": 24,
+        "saturatedFatG": 4.4,
+        "sugarG": 6.2,
+        "sodiumMg": 568,
+        "raw": [
+          "374",
+          "338",
+          "24(44%)",
+          "4.4(29%)",
+          "6.2",
+          "568(28%)"
+        ],
+        "basis": "1회 제공량"
+      },
+      "allergens": {
+        "status": "KNOWN",
+        "contains": [
+          "우유",
+          "대두",
+          "토마토",
+          "쇠고기"
+        ],
+        "mayContain": [
+          "난류",
+          "밀"
+        ],
+        "rows": [
+          "샐러드/스테이크&머쉬룸(G)"
+        ]
+      },
+      "price": {
+        "status": "KNOWN",
+        "price15cm": 14900,
+        "price30cm": null,
+        "checkedAt": "2026-10-08",
+        "checkedWhere": "써브웨이 공식 주문 API (매장 선택 전 기본가)"
+      }
+    },
+    {
+      "id": "menu_1591",
+      "officialIdx": "1591",
+      "name": "쉬림프 아보카도 그레인 샐러드",
+      "nameEn": "Shrimp Avocado Grain Salad",
+      "kind": "GRAIN_SALAD",
+      "label": "CLASSIC",
+      "summary": "쉬림프, 아보카도, 그레인 믹스, 슈레드 치즈와 5가지 야채, 블랙올리브 (소스 선택)",
+      "nutrition15cm": {
+        "weightG": 350,
+        "energyKcal": 327,
+        "proteinG": 16.5,
+        "saturatedFatG": 3.7,
+        "sugarG": 6.2,
+        "sodiumMg": 411,
+        "raw": [
+          "350",
+          "327",
+          "16.5(30%)",
+          "3.7(25%)",
+          "6.2",
+          "411(21%)"
+        ],
+        "basis": "1회 제공량"
+      },
+      "allergens": {
+        "status": "KNOWN",
+        "contains": [
+          "우유",
+          "대두",
+          "새우",
+          "토마토"
+        ],
+        "mayContain": [
+          "난류",
+          "밀"
+        ],
+        "rows": [
+          "샐러드/쉬림프 아보카도(G)"
+        ]
+      },
+      "price": {
+        "status": "KNOWN",
+        "price15cm": 14100,
+        "price30cm": null,
+        "checkedAt": "2026-10-08",
+        "checkedWhere": "써브웨이 공식 주문 API (매장 선택 전 기본가)"
+      }
+    },
+    {
+      "id": "menu_1594",
+      "officialIdx": "1594",
+      "name": "로티세리 치킨 더블치즈 그레인 샐러드",
+      "nameEn": "Rotisserie Chicken Double Cheese Grain Salad",
+      "kind": "GRAIN_SALAD",
+      "label": "CLASSIC",
+      "summary": "로티세리 치킨, 그레인 믹스, 더블 슈레드 치즈와 5가지 야채, 블랙올리브 (소스 선택)",
+      "nutrition15cm": {
+        "weightG": 378,
+        "energyKcal": 439,
+        "proteinG": 34.2,
+        "saturatedFatG": 6.6,
+        "sugarG": 5.7,
+        "sodiumMg": 694,
+        "raw": [
+          "378",
+          "439",
+          "34.2(62%)",
+          "6.6(44%)",
+          "5.7",
+          "694(35%)"
+        ],
+        "basis": "1회 제공량"
+      },
+      "allergens": {
+        "status": "KNOWN",
+        "contains": [
+          "우유",
+          "대두",
+          "토마토",
+          "닭고기"
+        ],
+        "mayContain": [
+          "난류",
+          "밀"
+        ],
+        "rows": [
+          "샐러드/로티세리 치킨 더블치즈(G)"
+        ]
+      },
+      "price": {
+        "status": "KNOWN",
+        "price15cm": 12400,
+        "price30cm": null,
+        "checkedAt": "2026-10-08",
+        "checkedWhere": "써브웨이 공식 주문 API (매장 선택 전 기본가)"
+      }
+    },
+    {
+      "id": "menu_1599",
+      "officialIdx": "1599",
+      "name": "풀드포크 타코 그레인 샐러드",
+      "nameEn": "Pulled Pork Taco Grain Salad",
+      "kind": "GRAIN_SALAD",
+      "label": "TACO",
+      "summary": "풀드포크, 더블 슈레드 치즈, 아보카도, 그레인 믹스, 살사,각종 야채와 치폴레 & 랜치, 또띠야",
+      "nutrition15cm": {
+        "weightG": 606,
+        "energyKcal": 968,
+        "proteinG": 39.9,
+        "saturatedFatG": 16.3,
+        "sugarG": 13.3,
+        "sodiumMg": 2003,
+        "raw": [
+          "606",
+          "968",
+          "39.9(72%)",
+          "16.3(108%)",
+          "13.3",
+          "2003(100%)"
+        ],
+        "basis": "1회 제공량"
+      },
+      "allergens": {
+        "status": "KNOWN",
+        "contains": [
+          "난류",
+          "우유",
+          "대두",
+          "밀",
+          "돼지고기",
+          "토마토"
+        ],
+        "mayContain": [
+          "메밀",
+          "땅콩",
+          "고등어",
+          "게",
+          "새우",
+          "복숭아",
+          "아황산류",
+          "호두",
+          "닭고기",
+          "쇠고기",
+          "오징어",
+          "조개류",
+          "잣"
+        ],
+        "rows": [
+          "샐러드/풀드포크 타코(G)"
+        ]
+      },
+      "price": {
+        "status": "KNOWN",
+        "price15cm": 13100,
+        "price30cm": null,
+        "checkedAt": "2026-10-08",
+        "checkedWhere": "써브웨이 공식 주문 API (매장 선택 전 기본가)"
+      }
+    },
+    {
+      "id": "menu_1597",
+      "officialIdx": "1597",
+      "name": "스파이시 쉬림프 타코 그레인 샐러드",
+      "nameEn": "Spicy Shrimp Taco Grain Salad",
+      "kind": "GRAIN_SALAD",
+      "label": "TACO",
+      "summary": "스파이시 쉬림프, 더블 슈레드 치즈, 아보카도, 그레인 믹스, 살사, 각종 야채와 치폴레 & 랜치, 또띠야",
+      "nutrition15cm": {
+        "weightG": 600,
+        "energyKcal": 861,
+        "proteinG": 31.4,
+        "saturatedFatG": 14,
+        "sugarG": 16.4,
+        "sodiumMg": 2136,
+        "raw": [
+          "600",
+          "861",
+          "31.4(57%)",
+          "14(94%)",
+          "16.4",
+          "2136(107%)"
+        ],
+        "basis": "1회 제공량"
+      },
+      "allergens": {
+        "status": "KNOWN",
+        "contains": [
+          "난류",
+          "우유",
+          "대두",
+          "밀",
+          "새우",
+          "토마토"
+        ],
+        "mayContain": [
+          "메밀",
+          "땅콩",
+          "고등어",
+          "게",
+          "돼지고기",
+          "복숭아",
+          "아황산류",
+          "호두",
+          "닭고기",
+          "쇠고기",
+          "오징어",
+          "조개류",
+          "잣"
+        ],
+        "rows": [
+          "샐러드/스파이시 쉬림프 타코(G)"
+        ]
+      },
+      "price": {
+        "status": "KNOWN",
+        "price15cm": 14400,
+        "price30cm": null,
+        "checkedAt": "2026-10-08",
+        "checkedWhere": "써브웨이 공식 주문 API (매장 선택 전 기본가)"
+      }
+    },
+    {
+      "id": "menu_1598",
+      "officialIdx": "1598",
+      "name": "로티세리 치킨 타코 그레인 샐러드",
+      "nameEn": "Rotisserie chicken Taco Grain Salad",
+      "kind": "GRAIN_SALAD",
+      "label": "TACO",
+      "summary": "로티세리 치킨, 더블 슈레드 치즈, 아보카도, 그레인 믹스, 살사, 각종 야채와 치폴레 & 랜치, 또띠야",
+      "nutrition15cm": {
+        "weightG": 606,
+        "energyKcal": 951,
+        "proteinG": 41.8,
+        "saturatedFatG": 14.8,
+        "sugarG": 13.2,
+        "sodiumMg": 1937,
+        "raw": [
+          "606",
+          "951",
+          "41.8(76%)",
+          "14.8(98%)",
+          "13.2",
+          "1937(97%)"
+        ],
+        "basis": "1회 제공량"
+      },
+      "allergens": {
+        "status": "KNOWN",
+        "contains": [
+          "난류",
+          "우유",
+          "대두",
+          "밀",
+          "토마토",
+          "닭고기"
+        ],
+        "mayContain": [
+          "메밀",
+          "땅콩",
+          "고등어",
+          "게",
+          "새우",
+          "돼지고기",
+          "복숭아",
+          "아황산류",
+          "호두",
+          "쇠고기",
+          "오징어",
+          "조개류",
+          "잣"
+        ],
+        "rows": [
+          "샐러드/로티세리 치킨 타코(G)"
+        ]
+      },
+      "price": {
+        "status": "KNOWN",
+        "price15cm": 13700,
+        "price30cm": null,
+        "checkedAt": "2026-10-08",
+        "checkedWhere": "써브웨이 공식 주문 API (매장 선택 전 기본가)"
+      }
+    },
+    {
+      "id": "menu_1593",
+      "officialIdx": "1593",
+      "name": "로스트 치킨 베이컨 그레인 샐러드",
+      "nameEn": "Roast Chicken Bacon Grain Salad",
+      "kind": "GRAIN_SALAD",
+      "label": "CLASSIC",
+      "summary": "로스트 치킨, 베이컨 비츠, 그레인 믹스, 슈레드 치즈와 5가지 야채, 블랙올리브 (소스 선택)",
+      "nutrition15cm": {
+        "weightG": 356,
+        "energyKcal": 362,
+        "proteinG": 26.3,
+        "saturatedFatG": 4.5,
+        "sugarG": 6.2,
+        "sodiumMg": 758,
+        "raw": [
+          "356",
+          "362",
+          "26.3(48%)",
+          "4.5(30%)",
+          "6.2",
+          "758(38%)"
+        ],
+        "basis": "1회 제공량"
+      },
+      "allergens": {
+        "status": "KNOWN",
+        "contains": [
+          "우유",
+          "대두",
+          "돼지고기",
+          "토마토",
+          "닭고기",
+          "쇠고기"
+        ],
+        "mayContain": [
+          "난류",
+          "밀"
+        ],
+        "rows": [
+          "샐러드/로스트 치킨 베이컨(G)"
+        ]
+      },
+      "price": {
+        "status": "KNOWN",
+        "price15cm": 12400,
+        "price30cm": null,
+        "checkedAt": "2026-10-08",
+        "checkedWhere": "써브웨이 공식 주문 API (매장 선택 전 기본가)"
+      }
+    },
+    {
+      "id": "menu_1592",
+      "officialIdx": "1592",
+      "name": "에그마요 베이컨 그레인 샐러드",
+      "nameEn": "Egg Mayo Bacon Grain Salad",
+      "kind": "GRAIN_SALAD",
+      "label": "CLASSIC",
+      "summary": "에그마요, 베이컨 비츠, 그레인 믹스, 슈레드 치즈와 5가지 야채, 블랙올리브 (소스 선택)",
+      "nutrition15cm": {
+        "weightG": 359,
+        "energyKcal": 497,
+        "proteinG": 19.3,
+        "saturatedFatG": 8.5,
+        "sugarG": 5.8,
+        "sodiumMg": 683,
+        "raw": [
+          "359",
+          "497",
+          "19.3(35%)",
+          "8.5(57%)",
+          "5.8",
+          "683(34%)"
+        ],
+        "basis": "1회 제공량"
+      },
+      "allergens": {
+        "status": "KNOWN",
+        "contains": [
+          "난류",
+          "우유",
+          "대두",
+          "돼지고기",
+          "토마토"
+        ],
+        "mayContain": [
+          "밀"
+        ],
+        "rows": [
+          "샐러드/에그마요 베이컨(G)"
+        ]
+      },
+      "price": {
+        "status": "KNOWN",
+        "price15cm": 11600,
+        "price30cm": null,
+        "checkedAt": "2026-10-08",
+        "checkedWhere": "써브웨이 공식 주문 API (매장 선택 전 기본가)"
+      }
+    },
+    {
+      "id": "menu_1595",
+      "officialIdx": "1595",
+      "name": "참치 아보카도 그레인 샐러드",
+      "nameEn": "Tuna Avocado Grain Salad",
+      "kind": "GRAIN_SALAD",
+      "label": "CLASSIC",
+      "summary": "참치, 아보카도, 그레인 믹스, 슈레드 치즈와 5가지 야채, 블랙올리브 (소스 선택)",
+      "nutrition15cm": {
+        "weightG": 379,
+        "energyKcal": 400,
+        "proteinG": 26.9,
+        "saturatedFatG": 4.5,
+        "sugarG": 5.9,
+        "sodiumMg": 550,
+        "raw": [
+          "379",
+          "400",
+          "26.9(49%)",
+          "4.5(30%)",
+          "5.9",
+          "550(28%)"
+        ],
+        "basis": "1회 제공량"
+      },
+      "allergens": {
+        "status": "KNOWN",
+        "contains": [
+          "난류",
+          "우유",
+          "대두",
+          "토마토"
+        ],
+        "mayContain": [
+          "밀"
+        ],
+        "rows": [
+          "샐러드/참치 아보카도(G)"
+        ]
+      },
+      "price": {
+        "status": "KNOWN",
+        "price15cm": 11000,
+        "price30cm": null,
+        "checkedAt": "2026-10-08",
+        "checkedWhere": "써브웨이 공식 주문 API (매장 선택 전 기본가)"
+      }
+    },
+    {
+      "id": "menu_1596",
+      "officialIdx": "1596",
+      "name": "그린 그레인 샐러드",
+      "nameEn": "Green Grain Salad",
+      "kind": "GRAIN_SALAD",
+      "label": "CLASSIC",
+      "summary": "그레인 믹스, 슈레드 치즈와 5가지 야채, 블랙올리브 (소스 선택)",
+      "nutrition15cm": {
+        "weightG": 274,
+        "energyKcal": 237,
+        "proteinG": 8.6,
+        "saturatedFatG": 2.9,
+        "sugarG": 5.5,
+        "sodiumMg": 165,
+        "raw": [
+          "274",
+          "237",
+          "8.6(16%)",
+          "2.9(19%)",
+          "5.5",
+          "165(8%)"
+        ],
+        "basis": "1회 제공량"
+      },
+      "allergens": {
+        "status": "KNOWN",
+        "contains": [
+          "우유",
+          "대두",
+          "토마토"
+        ],
+        "mayContain": [
+          "난류",
+          "밀"
+        ],
+        "rows": [
+          "샐러드/그린(G)"
+        ]
+      },
+      "price": {
+        "status": "KNOWN",
+        "price15cm": 8600,
+        "price30cm": null,
+        "checkedAt": "2026-10-08",
+        "checkedWhere": "써브웨이 공식 주문 API (매장 선택 전 기본가)"
+      }
+    },
+    {
+      "id": "menu_1339",
+      "officialIdx": "1339",
+      "name": "잠봉, 에그&치즈",
+      "nameEn": "Jambon, Egg & Cheese",
+      "kind": "MORNING_SANDWICH",
+      "label": "SANDWICH",
+      "summary": "푹신한 오믈렛과 잠봉의 가장 클래식한 조화 ※ 아침메뉴 제공시간 : 오전 11시까지 ※ 본 메뉴에는 야채가 포함되지 않습니다.",
+      "nutrition15cm": {
+        "weightG": 181,
+        "energyKcal": 319,
+        "proteinG": 20.3,
+        "saturatedFatG": 3.2,
+        "sugarG": 6.5,
+        "sodiumMg": 951,
+        "raw": [
+          "181",
+          "319",
+          "20.3 (37%)",
+          "3.2 (22%)",
+          "6.5 (6%)",
+          "951 (48%)"
+        ],
+        "basis": "15cm, 위트빵·기본 야채 기준"
+      },
+      "allergens": {
+        "status": "KNOWN",
+        "contains": [
+          "난류",
+          "우유",
+          "대두",
+          "밀",
+          "돼지고기"
+        ],
+        "mayContain": [
+          "메밀",
+          "땅콩",
+          "고등어",
+          "게",
+          "새우",
+          "복숭아",
+          "토마토",
+          "아황산류",
+          "호두",
+          "닭고기",
+          "쇠고기",
+          "오징어",
+          "조개류",
+          "잣"
+        ],
+        "rows": [
+          "아침 메뉴 샌드위치/잠봉, 에그&치즈"
+        ]
+      },
+      "price": {
+        "status": "KNOWN",
+        "price15cm": 4200,
+        "price30cm": null,
+        "checkedAt": "2026-10-08",
+        "checkedWhere": "써브웨이 공식 주문 API (매장 선택 전 기본가)"
+      },
+      "defaultVegetables": []
+    },
+    {
+      "id": "menu_1340",
+      "officialIdx": "1340",
+      "name": "웨스턴, 에그 & 치즈",
+      "nameEn": "Western, Egg & Cheese",
+      "kind": "MORNING_SANDWICH",
+      "label": "SANDWICH",
+      "summary": "토마토, 피망, 양파 세가지 야채가 더해져 더욱 신선한 하루 시작 ※ 아침메뉴 제공시간 : 오전 11시까지 ※ 본 메뉴에는 토마토, 피망, 양파 이외의 야채가 포함되지 않습니다.",
+      "nutrition15cm": {
+        "weightG": 208,
+        "energyKcal": 315,
+        "proteinG": 18.2,
+        "saturatedFatG": 3.1,
+        "sugarG": 7.8,
+        "sodiumMg": 849,
+        "raw": [
+          "208",
+          "315",
+          "18.2 (33%)",
+          "3.1 (21%)",
+          "7.8 (8%)",
+          "849 (42%)"
+        ],
+        "basis": "15cm, 위트빵·기본 야채 기준"
+      },
+      "allergens": {
+        "status": "KNOWN",
+        "contains": [
+          "난류",
+          "우유",
+          "대두",
+          "밀",
+          "돼지고기",
+          "토마토"
+        ],
+        "mayContain": [
+          "메밀",
+          "땅콩",
+          "고등어",
+          "게",
+          "새우",
+          "복숭아",
+          "아황산류",
+          "호두",
+          "닭고기",
+          "쇠고기",
+          "오징어",
+          "조개류",
+          "잣"
+        ],
+        "rows": [
+          "아침 메뉴 샌드위치/웨스턴, 에그&치즈",
+          "아침 메뉴 샌드위치/웨스턴, 에그&치즈(J)"
+        ]
+      },
+      "price": {
+        "status": "KNOWN",
+        "price15cm": 4200,
+        "price30cm": null,
+        "checkedAt": "2026-10-08",
+        "checkedWhere": "써브웨이 공식 주문 API (매장 선택 전 기본가)"
+      },
+      "defaultVegetables": [
+        "vegetable:토마토",
+        "vegetable:피망(파프리카)",
+        "vegetable:양파"
+      ]
+    },
+    {
+      "id": "menu_1335",
+      "officialIdx": "1335",
+      "name": "잠봉, 에그 & 치즈 랩",
+      "nameEn": "Jambon, Egg & Cheese Wrap",
+      "kind": "MORNING_WRAP",
+      "label": "WRAP",
+      "summary": "이제 랩으로 즐기세요! 푹신한 오믈렛과 잠봉의 가장 클래식한 조화 ※아침메뉴 제공시간 : 오전 11시까지",
+      "nutrition15cm": {
+        "weightG": 171,
+        "energyKcal": 288,
+        "proteinG": 8,
+        "saturatedFatG": 1,
+        "sugarG": 6,
+        "sodiumMg": 667,
+        "raw": [
+          "171",
+          "288",
+          "8 (15%)",
+          "1 (3%)",
+          "6",
+          "667 (33%)"
+        ],
+        "basis": "랩 1개"
+      },
+      "allergens": {
+        "status": "KNOWN",
+        "contains": [
+          "난류",
+          "우유",
+          "대두",
+          "밀",
+          "돼지고기",
+          "토마토"
+        ],
+        "mayContain": [
+          "메밀",
+          "땅콩",
+          "고등어",
+          "게",
+          "새우",
+          "복숭아",
+          "아황산류",
+          "호두",
+          "닭고기",
+          "쇠고기",
+          "오징어",
+          "조개류",
+          "잣"
+        ],
+        "rows": [
+          "아침 메뉴 랩/그릴드 랩/잠봉, 에그&치즈 랩 or 그릴드 랩"
+        ]
+      },
+      "price": {
+        "status": "KNOWN",
+        "price15cm": 4200,
+        "price30cm": null,
+        "checkedAt": "2026-10-08",
+        "checkedWhere": "써브웨이 공식 주문 API (매장 선택 전 기본가)"
+      }
+    },
+    {
+      "id": "menu_1336",
+      "officialIdx": "1336",
+      "name": "웨스턴, 에그 & 치즈 랩",
+      "nameEn": "Western, Egg & Cheese Wrap",
+      "kind": "MORNING_WRAP",
+      "label": "WRAP",
+      "summary": "이제 랩으로 즐기세요! 토마토, 피망, 양파 세가지 야채가 더해져 더욱 신선한 하루 시작 ※아침메뉴 제공시간 : 오전 11시까지",
+      "nutrition15cm": {
+        "weightG": 198,
+        "energyKcal": 298,
+        "proteinG": 8,
+        "saturatedFatG": 1,
+        "sugarG": 7,
+        "sodiumMg": 669,
+        "raw": [
+          "198",
+          "298",
+          "8 (15%)",
+          "1 (3%)",
+          "7",
+          "669 (33%)"
+        ],
+        "basis": "랩 1개"
+      },
+      "allergens": {
+        "status": "KNOWN",
+        "contains": [
+          "난류",
+          "우유",
+          "대두",
+          "밀",
+          "돼지고기",
+          "토마토"
+        ],
+        "mayContain": [
+          "메밀",
+          "땅콩",
+          "고등어",
+          "게",
+          "새우",
+          "복숭아",
+          "아황산류",
+          "호두",
+          "닭고기",
+          "쇠고기",
+          "오징어",
+          "조개류",
+          "잣"
+        ],
+        "rows": [
+          "아침 메뉴 랩/그릴드 랩/웨스턴, 에그&치즈 랩 or 그릴드 랩",
+          "아침 메뉴 랩/그릴드 랩/웨스턴, 에그&치즈 랩 or 그릴드 랩(J)"
+        ]
+      },
+      "price": {
+        "status": "KNOWN",
+        "price15cm": 4200,
+        "price30cm": null,
+        "checkedAt": "2026-10-08",
+        "checkedWhere": "써브웨이 공식 주문 API (매장 선택 전 기본가)"
+      }
+    },
+    {
+      "id": "menu_1342",
+      "officialIdx": "1342",
+      "name": "스테이크 & 치즈 아보카도 랩",
+      "nameEn": "Steak & Cheese Avocado Wrap",
+      "kind": "WRAP",
+      "label": "SIGNATURE",
+      "summary": "육즙 가득 스테이크에 프레쉬함을 더해줄 아보카도와 슈레드치즈 그리고 모차렐라치즈까지! 최상의 야채와 소스 조합으로 탄생한 스테이크 & 치즈 아보카도 랩!",
+      "nutrition15cm": {
+        "weightG": 249,
+        "energyKcal": 478,
+        "proteinG": 22.3,
+        "saturatedFatG": 9.8,
+        "sugarG": 5.3,
+        "sodiumMg": 1009,
+        "raw": [
+          "249",
+          "478",
+          "22.3 (41%)",
+          "9.8 (65%)",
+          "5.3 (5%)",
+          "1009 (50%)"
+        ],
+        "basis": "랩 1개"
+      },
+      "allergens": {
+        "status": "KNOWN",
+        "contains": [
+          "난류",
+          "우유",
+          "대두",
+          "밀",
+          "토마토",
+          "쇠고기"
+        ],
+        "mayContain": [],
+        "rows": [
+          "랩, 그릴드 랩/스테이크&치즈 아보카도 랩"
+        ]
+      },
+      "price": {
+        "status": "KNOWN",
+        "price15cm": 7100,
+        "price30cm": null,
+        "checkedAt": "2026-10-08",
+        "checkedWhere": "써브웨이 공식 주문 API (매장 선택 전 기본가)"
+      }
+    },
+    {
+      "id": "menu_1382",
+      "officialIdx": "1382",
+      "name": "쉬림프 에그마요 랩",
+      "nameEn": "Shrimp Egg Mayo Wrap",
+      "kind": "WRAP",
+      "label": "SIGNATURE",
+      "summary": "고소한 에그마요와 탱글한 통새우의 만남, 부드럽고 담백한 조화를 즐겨보세요!",
+      "nutrition15cm": {
+        "weightG": 253,
+        "energyKcal": 516,
+        "proteinG": 20.1,
+        "saturatedFatG": 9.5,
+        "sugarG": 7.4,
+        "sodiumMg": 1082,
+        "raw": [
+          "253",
+          "516",
+          "20.1 (29%)",
+          "9.5 (65%)",
+          "7.4 (7%)",
+          "1082 (50%)"
+        ],
+        "basis": "랩 1개"
+      },
+      "allergens": {
+        "status": "KNOWN",
+        "contains": [
+          "난류",
+          "우유",
+          "밀",
+          "새우",
+          "토마토"
+        ],
+        "mayContain": [
+          "대두"
+        ],
+        "rows": [
+          "랩, 그릴드 랩/쉬림프 에그마요 랩"
+        ]
+      },
+      "price": {
+        "status": "KNOWN",
+        "price15cm": 6700,
+        "price30cm": null,
+        "checkedAt": "2026-10-08",
+        "checkedWhere": "써브웨이 공식 주문 API (매장 선택 전 기본가)"
+      }
+    },
+    {
+      "id": "menu_1381",
+      "officialIdx": "1381",
+      "name": "치킨 베이컨 미니 랩",
+      "nameEn": "Chicken Bacon Mini Wrap",
+      "kind": "WRAP",
+      "label": "MINI",
+      "summary": "담백한 치킨, 바삭한 베이컨 비츠가 쫀득한 통밀 랩에 쏘옥! 치킨 베이컨 미니 랩",
+      "nutrition15cm": {
+        "weightG": 161,
+        "energyKcal": 391,
+        "proteinG": 20.8,
+        "saturatedFatG": 7.4,
+        "sugarG": 5.5,
+        "sodiumMg": 1091,
+        "raw": [
+          "161",
+          "391",
+          "20.8 (38%)",
+          "7.4 (49%)",
+          "5.5 (5%)",
+          "1091 (55%)"
+        ],
+        "basis": "랩 1개"
+      },
+      "allergens": {
+        "status": "KNOWN",
+        "contains": [
+          "난류",
+          "우유",
+          "대두",
+          "밀",
+          "돼지고기",
+          "닭고기",
+          "쇠고기"
+        ],
+        "mayContain": [],
+        "rows": [
+          "랩, 그릴드 랩/치킨 베이컨 미니 랩"
+        ]
+      },
+      "price": {
+        "status": "KNOWN",
+        "price15cm": 3900,
+        "price30cm": null,
+        "checkedAt": "2026-10-08",
+        "checkedWhere": "써브웨이 공식 주문 API (매장 선택 전 기본가)"
+      }
+    },
+    {
+      "id": "menu_1565",
+      "officialIdx": "1565",
+      "name": "포테이토 베이컨 수프",
+      "nameEn": "Potato Bacon Soup",
+      "kind": "SIDE",
+      "label": "SMILESUB",
+      "summary": "국내산 감자로 만들어 부드럽고 진한 맛에 베이컨으로 풍미를 더한 포테이토 베이컨 수프",
+      "nutrition15cm": {
+        "weightG": 114,
+        "energyKcal": 80,
+        "proteinG": 2.3,
+        "saturatedFatG": 3.1,
+        "sugarG": 3.4,
+        "sodiumMg": 355,
+        "raw": [
+          "하프_114g",
+          "80",
+          "2.3(4.1%)",
+          "3.1(20.7%)",
+          "3.4",
+          "355(18%)"
+        ],
+        "basis": "1회 제공량"
+      },
+      "allergens": {
+        "status": "KNOWN",
+        "contains": [
+          "우유",
+          "대두",
+          "밀",
+          "돼지고기"
+        ],
+        "mayContain": [],
+        "rows": [
+          "스마일 썹/포테이토 베이컨 수프"
+        ]
+      },
+      "price": {
+        "status": "KNOWN",
+        "price15cm": 4100,
+        "price30cm": null,
+        "checkedAt": "2026-10-08",
+        "checkedWhere": "써브웨이 공식 주문 API (매장 선택 전 기본가)"
+      }
+    },
+    {
+      "id": "menu_1465",
+      "officialIdx": "1465",
+      "name": "콘 수프",
+      "nameEn": "Corn Soup",
+      "kind": "SIDE",
+      "label": "SMILESUB",
+      "summary": "달콤한 옥수수의 깊은 풍미가 느껴지는 콘 수프",
+      "nutrition15cm": {
+        "weightG": 118,
+        "energyKcal": 81,
+        "proteinG": 2.5,
+        "saturatedFatG": 1.4,
+        "sugarG": 5.3,
+        "sodiumMg": 283,
+        "raw": [
+          "하프_118g",
+          "81",
+          "2.5(4.7%)",
+          "1.4(9.4%)",
+          "5.3",
+          "283(14.2%)"
+        ],
+        "basis": "1회 제공량"
+      },
+      "allergens": {
+        "status": "KNOWN",
+        "contains": [
+          "우유",
+          "대두",
+          "밀",
+          "닭고기"
+        ],
+        "mayContain": [],
+        "rows": [
+          "스마일 썹/콘 수프"
+        ]
+      },
+      "price": {
+        "status": "KNOWN",
+        "price15cm": 4100,
+        "price30cm": null,
+        "checkedAt": "2026-10-08",
+        "checkedWhere": "써브웨이 공식 주문 API (매장 선택 전 기본가)"
+      }
+    },
+    {
+      "id": "menu_1317",
+      "officialIdx": "1317",
+      "name": "머쉬룸 수프",
+      "nameEn": "Mushroom Soup",
+      "kind": "SIDE",
+      "label": "SMILESUB",
+      "summary": "부드러운 머쉬룸의 풍미가 가득한 머쉬룸 수프",
+      "nutrition15cm": {
+        "weightG": 118,
+        "energyKcal": 64,
+        "proteinG": 1.5,
+        "saturatedFatG": 2.3,
+        "sugarG": 2.2,
+        "sodiumMg": 336,
+        "raw": [
+          "하프_118g",
+          "64",
+          "1.5(2.8%)",
+          "2.3(15.3%)",
+          "2.2",
+          "336(17%)"
+        ],
+        "basis": "1회 제공량"
+      },
+      "allergens": {
+        "status": "KNOWN",
+        "contains": [
+          "우유",
+          "밀",
+          "조개류"
+        ],
+        "mayContain": [],
+        "rows": [
+          "스마일 썹/머쉬룸 수프(M)"
+        ]
+      },
+      "price": {
+        "status": "KNOWN",
+        "price15cm": 4100,
+        "price30cm": null,
+        "checkedAt": "2026-10-08",
+        "checkedWhere": "써브웨이 공식 주문 API (매장 선택 전 기본가)"
+      }
+    },
+    {
+      "id": "menu_1308",
+      "officialIdx": "1308",
+      "name": "초코칩",
+      "nameEn": "Chocolate Chip",
+      "kind": "SIDE",
+      "label": "SMILESUB",
+      "summary": "알알이 가득한 초코의 가장 클래식한 달콤함",
+      "nutrition15cm": {
+        "weightG": 45,
+        "energyKcal": 228,
+        "proteinG": 2.1,
+        "saturatedFatG": 5.6,
+        "sugarG": 19.3,
+        "sodiumMg": 165,
+        "raw": [
+          "45",
+          "228",
+          "2.1 (4%)",
+          "5.6 (37%)",
+          "19.3 (19%)",
+          "165 (8%)"
+        ],
+        "basis": "1회 제공량"
+      },
+      "allergens": {
+        "status": "KNOWN",
+        "contains": [
+          "난류",
+          "우유",
+          "대두",
+          "밀"
+        ],
+        "mayContain": [
+          "땅콩",
+          "호두"
+        ],
+        "rows": [
+          "스마일 썹/초코칩 쿠키"
+        ]
+      },
+      "price": {
+        "status": "KNOWN",
+        "price15cm": 1600,
+        "price30cm": null,
+        "checkedAt": "2026-10-08",
+        "checkedWhere": "써브웨이 공식 주문 API (매장 선택 전 기본가)"
+      }
+    },
+    {
+      "id": "menu_1307",
+      "officialIdx": "1307",
+      "name": "더블 초코칩",
+      "nameEn": "Double Chocolate Chip",
+      "kind": "SIDE",
+      "label": "SMILESUB",
+      "summary": "부드러운 화이트초콜릿과 다크 초콜릿의 절묘한 조화로 더욱 풍부한 달콤함",
+      "nutrition15cm": {
+        "weightG": 45,
+        "energyKcal": 212,
+        "proteinG": 2,
+        "saturatedFatG": 5.4,
+        "sugarG": 19.9,
+        "sodiumMg": 165,
+        "raw": [
+          "45",
+          "212",
+          "2 (4%)",
+          "5.4 (36%)",
+          "19.9 (20%)",
+          "165 (8%)"
+        ],
+        "basis": "1회 제공량"
+      },
+      "allergens": {
+        "status": "KNOWN",
+        "contains": [
+          "난류",
+          "우유",
+          "대두",
+          "밀"
+        ],
+        "mayContain": [
+          "땅콩",
+          "호두"
+        ],
+        "rows": [
+          "스마일 썹/더블 초코칩 쿠키"
+        ]
+      },
+      "price": {
+        "status": "KNOWN",
+        "price15cm": 1600,
+        "price30cm": null,
+        "checkedAt": "2026-10-08",
+        "checkedWhere": "써브웨이 공식 주문 API (매장 선택 전 기본가)"
+      }
+    },
+    {
+      "id": "menu_1309",
+      "officialIdx": "1309",
+      "name": "오트밀 레이즌",
+      "nameEn": "Oatmeal Raisin",
+      "kind": "SIDE",
+      "label": "SMILESUB",
+      "summary": "건포도와 귀리에 살짝 더해진 계피향의 환상적인 조화",
+      "nutrition15cm": {
+        "weightG": 45,
+        "energyKcal": 200,
+        "proteinG": 2.4,
+        "saturatedFatG": 3.8,
+        "sugarG": 15.8,
+        "sodiumMg": 130,
+        "raw": [
+          "45",
+          "200",
+          "2.4 (4%)",
+          "3.8 (25%)",
+          "15.8 (16%)",
+          "130 (7%)"
+        ],
+        "basis": "1회 제공량"
+      },
+      "allergens": {
+        "status": "KNOWN",
+        "contains": [
+          "난류",
+          "우유",
+          "대두",
+          "밀"
+        ],
+        "mayContain": [
+          "땅콩",
+          "호두"
+        ],
+        "rows": [
+          "스마일 썹/오트밀 레이즌 쿠키"
+        ]
+      },
+      "price": {
+        "status": "KNOWN",
+        "price15cm": 1600,
+        "price30cm": null,
+        "checkedAt": "2026-10-08",
+        "checkedWhere": "써브웨이 공식 주문 API (매장 선택 전 기본가)"
+      }
+    },
+    {
+      "id": "menu_1310",
+      "officialIdx": "1310",
+      "name": "라즈베리 치즈케익",
+      "nameEn": "Raspberry Cheese Cake",
+      "kind": "SIDE",
+      "label": "SMILESUB",
+      "summary": "부드럽고 풍부한 치즈와 새콤달콤 라즈베리의 달콤한 만남",
+      "nutrition15cm": {
+        "weightG": 45,
+        "energyKcal": 204,
+        "proteinG": 2,
+        "saturatedFatG": 5,
+        "sugarG": 15.8,
+        "sodiumMg": 176,
+        "raw": [
+          "45",
+          "204",
+          "2 (4%)",
+          "5 (33%)",
+          "15.8 (16%)",
+          "176 (9%)"
+        ],
+        "basis": "1회 제공량"
+      },
+      "allergens": {
+        "status": "KNOWN",
+        "contains": [
+          "난류",
+          "우유",
+          "대두",
+          "밀"
+        ],
+        "mayContain": [
+          "땅콩",
+          "호두"
+        ],
+        "rows": [
+          "스마일 썹/라즈베리 치즈케이크 쿠키"
+        ]
+      },
+      "price": {
+        "status": "KNOWN",
+        "price15cm": 1600,
+        "price30cm": null,
+        "checkedAt": "2026-10-08",
+        "checkedWhere": "써브웨이 공식 주문 API (매장 선택 전 기본가)"
+      }
+    },
+    {
+      "id": "menu_1311",
+      "officialIdx": "1311",
+      "name": "화이트 초코 마카다미아",
+      "nameEn": "White Choco Macadamia",
+      "kind": "SIDE",
+      "label": "SMILESUB",
+      "summary": "고소함 가득한 마카다미아와 달콤한 화이트 초콜릿의 환상 궁합",
+      "nutrition15cm": {
+        "weightG": 45,
+        "energyKcal": 245,
+        "proteinG": 2.1,
+        "saturatedFatG": 5.7,
+        "sugarG": 18.9,
+        "sodiumMg": 178,
+        "raw": [
+          "45",
+          "245",
+          "2.1 (4%)",
+          "5.7 (38%)",
+          "18.9 (19%)",
+          "178 (9%)"
+        ],
+        "basis": "1회 제공량"
+      },
+      "allergens": {
+        "status": "KNOWN",
+        "contains": [
+          "난류",
+          "우유",
+          "대두",
+          "밀"
+        ],
+        "mayContain": [
+          "땅콩",
+          "호두"
+        ],
+        "rows": [
+          "스마일 썹/화이트 초코 마카다미아 쿠키"
+        ]
+      },
+      "price": {
+        "status": "KNOWN",
+        "price15cm": 1600,
+        "price30cm": null,
+        "checkedAt": "2026-10-08",
+        "checkedWhere": "써브웨이 공식 주문 API (매장 선택 전 기본가)"
+      }
+    },
+    {
+      "id": "menu_1321",
+      "officialIdx": "1321",
+      "name": "웨지 포테이토",
+      "nameEn": "Ovenbaked Wedge Potatoes",
+      "kind": "SIDE",
+      "label": "SMILESUB",
+      "summary": "오븐에 구워 더 담백, 겉은 바삭 속은 촉촉한 건강한 사이드 ※제공시간 : 오전 11시 ~",
+      "nutrition15cm": {
+        "weightG": 100,
+        "energyKcal": 140,
+        "proteinG": 2.5,
+        "saturatedFatG": 1.5,
+        "sugarG": 0.7,
+        "sodiumMg": 369,
+        "raw": [
+          "100",
+          "140",
+          "2.5 (5%)",
+          "1.5 (10%)",
+          "0.7 (1%)",
+          "369 (18%)"
+        ],
+        "basis": "1회 제공량"
+      },
+      "allergens": {
+        "status": "KNOWN",
+        "contains": [
+          "대두",
+          "밀"
+        ],
+        "mayContain": [],
+        "rows": [
+          "스마일 썹/웨지 포테이토"
+        ]
+      },
+      "price": {
+        "status": "KNOWN",
+        "price15cm": 2100,
+        "price30cm": null,
+        "checkedAt": "2026-10-08",
+        "checkedWhere": "써브웨이 공식 주문 API (매장 선택 전 기본가)"
+      }
+    },
+    {
+      "id": "menu_1322",
+      "officialIdx": "1322",
+      "name": "Cheesy 웨지 포테이토",
+      "nameEn": "Cheesy Ovenbaked Wedge Potatoes",
+      "kind": "SIDE",
+      "label": "SMILESUB",
+      "summary": "치즈 풍미 한가득, 오븐에 구워 더 담백한 겉은 바삭 속은 촉촉한 건강한 사이드 ※제공시간 : 오전 11시 ~",
+      "nutrition15cm": {
+        "weightG": 114,
+        "energyKcal": 194,
+        "proteinG": 5.8,
+        "saturatedFatG": 3.9,
+        "sugarG": 0.8,
+        "sodiumMg": 454,
+        "raw": [
+          "114",
+          "194",
+          "5.8 (10%)",
+          "3.9 (26%)",
+          "0.8 (1%)",
+          "454 (23%)"
+        ],
+        "basis": "1회 제공량"
+      },
+      "allergens": {
+        "status": "KNOWN",
+        "contains": [
+          "우유",
+          "대두",
+          "밀"
+        ],
+        "mayContain": [],
+        "rows": [
+          "스마일 썹/Cheesy 웨지 포테이토"
+        ]
+      },
+      "price": {
+        "status": "KNOWN",
+        "price15cm": 2600,
+        "price30cm": null,
+        "checkedAt": "2026-10-08",
+        "checkedWhere": "써브웨이 공식 주문 API (매장 선택 전 기본가)"
+      }
+    },
+    {
+      "id": "menu_1323",
+      "officialIdx": "1323",
+      "name": "Bacon Cheesy 웨지 포테이토",
+      "nameEn": "Bacon Cheesy Ovenbaked Wedge Potatoes",
+      "kind": "SIDE",
+      "label": "SMILESUB",
+      "summary": "짭쪼름한 베이컨과 치즈의 궁합을 더한, 오븐에 구워 더 담백한 겉은 바삭 속은 촉촉한 건강한 사이드 ※제공시간 : 오전 11시 ~",
+      "nutrition15cm": {
+        "weightG": 124,
+        "energyKcal": 247,
+        "proteinG": 9.3,
+        "saturatedFatG": 5.3,
+        "sugarG": 0.9,
+        "sodiumMg": 679,
+        "raw": [
+          "124",
+          "247",
+          "9.3 (17%)",
+          "5.3 (35%)",
+          "0.9 (1%)",
+          "679 (34%)"
+        ],
+        "basis": "1회 제공량"
+      },
+      "allergens": {
+        "status": "KNOWN",
+        "contains": [
+          "우유",
+          "대두",
+          "밀",
+          "돼지고기"
+        ],
+        "mayContain": [],
+        "rows": [
+          "스마일 썹/Bacon Cheesy 웨지 포테이토"
+        ]
+      },
+      "price": {
+        "status": "KNOWN",
+        "price15cm": 3000,
+        "price30cm": null,
+        "checkedAt": "2026-10-08",
+        "checkedWhere": "써브웨이 공식 주문 API (매장 선택 전 기본가)"
+      }
+    },
+    {
+      "id": "menu_1312",
+      "officialIdx": "1312",
+      "name": "칩",
+      "nameEn": "Chip",
+      "kind": "SIDE",
+      "label": "SMILESUB",
+      "summary": "바삭바삭한 칩을 추가해 써브웨이를 즐겨보세요",
+      "nutrition15cm": null,
+      "allergens": {
+        "status": "UNKNOWN",
+        "contains": [],
+        "mayContain": [],
+        "rows": []
+      },
+      "price": {
+        "status": "KNOWN",
+        "price15cm": 1600,
+        "price30cm": null,
+        "checkedAt": "2026-10-08",
+        "checkedWhere": "써브웨이 공식 주문 API (매장 선택 전 기본가)"
+      }
+    },
+    {
+      "id": "menu_1313",
+      "officialIdx": "1313",
+      "name": "탄산음료",
+      "nameEn": "Soda",
+      "kind": "SIDE",
+      "label": "SMILESUB",
+      "summary": "-",
+      "nutrition15cm": null,
+      "allergens": {
+        "status": "UNKNOWN",
+        "contains": [],
+        "mayContain": [],
+        "rows": []
+      },
+      "price": {
+        "status": "KNOWN",
+        "price15cm": 2100,
+        "price30cm": null,
+        "checkedAt": "2026-10-08",
+        "checkedWhere": "써브웨이 공식 주문 API (매장 선택 전 기본가)"
+      }
+    },
+    {
+      "id": "menu_1314",
+      "officialIdx": "1314",
+      "name": "커피",
+      "nameEn": "Coffee",
+      "kind": "SIDE",
+      "label": "SMILESUB",
+      "summary": "-",
+      "nutrition15cm": null,
+      "allergens": {
+        "status": "UNKNOWN",
+        "contains": [],
+        "mayContain": [],
+        "rows": []
+      },
+      "price": {
+        "status": "KNOWN",
+        "price15cm": 2900,
+        "price30cm": null,
+        "checkedAt": "2026-10-08",
+        "checkedWhere": "써브웨이 공식 주문 API (매장 선택 전 기본가)"
+      }
+    }
+  ],
+  "toppings": [
+    {
+      "id": "topping_1383",
+      "officialIdx": "1383",
+      "name": "미트 추가",
+      "appliesTo": "SANDWICH",
+      "allergens": {
+        "status": "UNKNOWN",
+        "contains": [],
+        "mayContain": [],
+        "rows": []
+      },
+      "price": {
+        "status": "KNOWN",
+        "price15cm": 3500,
+        "price30cm": 7000,
+        "checkedAt": "2026-10-08",
+        "checkedWhere": "배달의민족 앱 캡처 (배달·픽업 같은 가격)"
+      }
+    },
+    {
+      "id": "topping_1385",
+      "officialIdx": "1385",
+      "name": "에그마요",
+      "appliesTo": "SANDWICH",
+      "allergens": {
+        "status": "KNOWN",
+        "contains": [
+          "난류"
+        ],
+        "mayContain": [
+          "우유",
+          "대두",
+          "밀",
+          "조개류"
+        ],
+        "rows": [
+          "미트류/에그마요"
+        ]
+      },
+      "price": {
+        "status": "KNOWN",
+        "price15cm": 2500,
+        "price30cm": 5000,
+        "checkedAt": "2026-10-08",
+        "checkedWhere": "배달의민족 앱 캡처 (배달·픽업 같은 가격)"
+      }
+    },
+    {
+      "id": "topping_1386",
+      "officialIdx": "1386",
+      "name": "오믈렛",
+      "appliesTo": "SANDWICH",
+      "allergens": {
+        "status": "KNOWN",
+        "contains": [
+          "난류",
+          "우유",
+          "대두"
+        ],
+        "mayContain": [],
+        "rows": [
+          "미트류/오믈렛"
+        ]
+      },
+      "price": {
+        "status": "KNOWN",
+        "price15cm": 2500,
+        "price30cm": 5000,
+        "checkedAt": "2026-10-08",
+        "checkedWhere": "배달의민족 앱 캡처 (배달·픽업 같은 가격)"
+      }
+    },
+    {
+      "id": "topping_1387",
+      "officialIdx": "1387",
+      "name": "아보카도",
+      "appliesTo": "SANDWICH",
+      "allergens": {
+        "status": "KNOWN",
+        "contains": [],
+        "mayContain": [],
+        "rows": [
+          "야채/아보카도"
+        ]
+      },
+      "price": {
+        "status": "KNOWN",
+        "price15cm": 1800,
+        "price30cm": 3600,
+        "checkedAt": "2026-10-08",
+        "checkedWhere": "배달의민족 앱 캡처 (배달·픽업 같은 가격)"
+      }
+    },
+    {
+      "id": "topping_1388",
+      "officialIdx": "1388",
+      "name": "베이컨",
+      "appliesTo": "SANDWICH",
+      "allergens": {
+        "status": "KNOWN",
+        "contains": [
+          "돼지고기"
+        ],
+        "mayContain": [],
+        "rows": [
+          "미트류/베이컨"
+        ]
+      },
+      "price": {
+        "status": "KNOWN",
+        "price15cm": 1900,
+        "price30cm": 3800,
+        "checkedAt": "2026-10-08",
+        "checkedWhere": "배달의민족 앱 캡처 (배달·픽업 같은 가격)"
+      }
+    },
+    {
+      "id": "topping_1389",
+      "officialIdx": "1389",
+      "name": "페퍼로니",
+      "appliesTo": "SANDWICH",
+      "allergens": {
+        "status": "KNOWN",
+        "contains": [],
+        "mayContain": [],
+        "rows": [
+          "미트류/페퍼로니"
+        ]
+      },
+      "price": {
+        "status": "KNOWN",
+        "price15cm": 1700,
+        "price30cm": 3400,
+        "checkedAt": "2026-10-08",
+        "checkedWhere": "배달의민족 앱 캡처 (배달·픽업 같은 가격)"
+      }
+    },
+    {
+      "id": "topping_1390",
+      "officialIdx": "1390",
+      "name": "치즈 추가",
+      "appliesTo": "SANDWICH",
+      "allergens": {
+        "status": "UNKNOWN",
+        "contains": [],
+        "mayContain": [],
+        "rows": []
+      },
+      "price": {
+        "status": "KNOWN",
+        "price15cm": 1800,
+        "price30cm": 3600,
+        "checkedAt": "2026-10-08",
+        "checkedWhere": "배달의민족 앱 캡처 (배달·픽업 같은 가격)"
+      }
+    },
+    {
+      "id": "topping_1610",
+      "officialIdx": "1610",
+      "name": "그레인 믹스",
+      "appliesTo": "SALAD",
+      "allergens": {
+        "status": "KNOWN",
+        "contains": [
+          "대두"
+        ],
+        "mayContain": [
+          "난류",
+          "우유",
+          "메밀",
+          "땅콩",
+          "밀",
+          "고등어",
+          "게",
+          "새우",
+          "돼지고기",
+          "복숭아",
+          "토마토",
+          "아황산류",
+          "호두",
+          "닭고기",
+          "쇠고기",
+          "오징어",
+          "조개류",
+          "잣"
+        ],
+        "rows": [
+          "샐러드/그레인 믹스"
+        ]
+      },
+      "price": {
+        "status": "KNOWN",
+        "price15cm": 2300,
+        "price30cm": null,
+        "checkedAt": "2026-10-08",
+        "checkedWhere": "배달의민족 그레인 샐러드 화면 값 (일반 샐러드도 같다고 봄)"
+      }
+    },
+    {
+      "id": "topping_1555",
+      "officialIdx": "1555",
+      "name": "치즈 추가",
+      "appliesTo": "SALAD",
+      "allergens": {
+        "status": "UNKNOWN",
+        "contains": [],
+        "mayContain": [],
+        "rows": []
+      },
+      "price": {
+        "status": "KNOWN",
+        "price15cm": 1800,
+        "price30cm": null,
+        "checkedAt": "2026-10-08",
+        "checkedWhere": "배달의민족 그레인 샐러드 화면 값 (일반 샐러드도 같다고 봄)"
+      }
+    },
+    {
+      "id": "topping_1550",
+      "officialIdx": "1550",
+      "name": "에그마요",
+      "appliesTo": "SALAD",
+      "allergens": {
+        "status": "KNOWN",
+        "contains": [
+          "난류"
+        ],
+        "mayContain": [
+          "우유",
+          "대두",
+          "밀",
+          "조개류"
+        ],
+        "rows": [
+          "미트류/에그마요"
+        ]
+      },
+      "price": {
+        "status": "KNOWN",
+        "price15cm": 2500,
+        "price30cm": null,
+        "checkedAt": "2026-10-08",
+        "checkedWhere": "배달의민족 그레인 샐러드 화면 값 (일반 샐러드도 같다고 봄)"
+      }
+    },
+    {
+      "id": "topping_1551",
+      "officialIdx": "1551",
+      "name": "오믈렛",
+      "appliesTo": "SALAD",
+      "allergens": {
+        "status": "KNOWN",
+        "contains": [
+          "난류",
+          "우유",
+          "대두"
+        ],
+        "mayContain": [],
+        "rows": [
+          "미트류/오믈렛"
+        ]
+      },
+      "price": {
+        "status": "KNOWN",
+        "price15cm": 2500,
+        "price30cm": null,
+        "checkedAt": "2026-10-08",
+        "checkedWhere": "배달의민족 그레인 샐러드 화면 값 (일반 샐러드도 같다고 봄)"
+      }
+    },
+    {
+      "id": "topping_1549",
+      "officialIdx": "1549",
+      "name": "베이컨 비츠",
+      "appliesTo": "SALAD",
+      "allergens": {
+        "status": "KNOWN",
+        "contains": [
+          "돼지고기"
+        ],
+        "mayContain": [],
+        "rows": [
+          "미트류/베이컨 비츠"
+        ]
+      },
+      "price": {
+        "status": "KNOWN",
+        "price15cm": 1900,
+        "price30cm": null,
+        "checkedAt": "2026-10-08",
+        "checkedWhere": "배달의민족 그레인 샐러드 화면 값 (일반 샐러드도 같다고 봄)"
+      }
+    },
+    {
+      "id": "topping_1552",
+      "officialIdx": "1552",
+      "name": "아보카도",
+      "appliesTo": "SALAD",
+      "allergens": {
+        "status": "KNOWN",
+        "contains": [],
+        "mayContain": [],
+        "rows": [
+          "야채/아보카도"
+        ]
+      },
+      "price": {
+        "status": "KNOWN",
+        "price15cm": 1800,
+        "price30cm": null,
+        "checkedAt": "2026-10-08",
+        "checkedWhere": "배달의민족 그레인 샐러드 화면 값 (일반 샐러드도 같다고 봄)"
+      }
+    },
+    {
+      "id": "topping_1554",
+      "officialIdx": "1554",
+      "name": "페퍼로니",
+      "appliesTo": "SALAD",
+      "allergens": {
+        "status": "KNOWN",
+        "contains": [],
+        "mayContain": [],
+        "rows": [
+          "미트류/페퍼로니"
+        ]
+      },
+      "price": {
+        "status": "KNOWN",
+        "price15cm": 1700,
+        "price30cm": null,
+        "checkedAt": "2026-10-08",
+        "checkedWhere": "배달의민족 그레인 샐러드 화면 값 (일반 샐러드도 같다고 봄)"
+      }
+    },
+    {
+      "id": "topping_1548",
+      "officialIdx": "1548",
+      "name": "미트 추가",
+      "appliesTo": "SALAD",
+      "allergens": {
+        "status": "UNKNOWN",
+        "contains": [],
+        "mayContain": [],
+        "rows": []
+      },
+      "price": {
+        "status": "NEEDS_CHECK",
+        "price15cm": null,
+        "price30cm": null,
+        "checkedAt": "2026-10-08",
+        "checkedWhere": "배민 일반 샐러드에도 없음 (공식 홈페이지 목록에만 있음, 매장 확인)"
+      }
+    },
+    {
+      "id": "topping_1609",
+      "officialIdx": "1609",
+      "name": "그레인 믹스",
+      "appliesTo": "GRAIN_SALAD",
+      "allergens": {
+        "status": "KNOWN",
+        "contains": [
+          "대두"
+        ],
+        "mayContain": [
+          "난류",
+          "우유",
+          "메밀",
+          "땅콩",
+          "밀",
+          "고등어",
+          "게",
+          "새우",
+          "돼지고기",
+          "복숭아",
+          "토마토",
+          "아황산류",
+          "호두",
+          "닭고기",
+          "쇠고기",
+          "오징어",
+          "조개류",
+          "잣"
+        ],
+        "rows": [
+          "샐러드/그레인 믹스"
+        ]
+      },
+      "price": {
+        "status": "KNOWN",
+        "price15cm": 2300,
+        "price30cm": null,
+        "checkedAt": "2026-10-08",
+        "checkedWhere": "배달의민족 앱 캡처 (그린 그레인 샐러드, 배달·픽업 같은 가격)"
+      }
+    },
+    {
+      "id": "topping_1608",
+      "officialIdx": "1608",
+      "name": "치즈 추가",
+      "appliesTo": "GRAIN_SALAD",
+      "allergens": {
+        "status": "UNKNOWN",
+        "contains": [],
+        "mayContain": [],
+        "rows": []
+      },
+      "price": {
+        "status": "KNOWN",
+        "price15cm": 1800,
+        "price30cm": null,
+        "checkedAt": "2026-10-08",
+        "checkedWhere": "배달의민족 앱 캡처 (그린 그레인 샐러드, 배달·픽업 같은 가격)"
+      }
+    },
+    {
+      "id": "topping_1603",
+      "officialIdx": "1603",
+      "name": "에그마요",
+      "appliesTo": "GRAIN_SALAD",
+      "allergens": {
+        "status": "KNOWN",
+        "contains": [
+          "난류"
+        ],
+        "mayContain": [
+          "우유",
+          "대두",
+          "밀",
+          "조개류"
+        ],
+        "rows": [
+          "미트류/에그마요"
+        ]
+      },
+      "price": {
+        "status": "KNOWN",
+        "price15cm": 2500,
+        "price30cm": null,
+        "checkedAt": "2026-10-08",
+        "checkedWhere": "배달의민족 앱 캡처 (그린 그레인 샐러드, 배달·픽업 같은 가격)"
+      }
+    },
+    {
+      "id": "topping_1604",
+      "officialIdx": "1604",
+      "name": "오믈렛",
+      "appliesTo": "GRAIN_SALAD",
+      "allergens": {
+        "status": "KNOWN",
+        "contains": [
+          "난류",
+          "우유",
+          "대두"
+        ],
+        "mayContain": [],
+        "rows": [
+          "미트류/오믈렛"
+        ]
+      },
+      "price": {
+        "status": "KNOWN",
+        "price15cm": 2500,
+        "price30cm": null,
+        "checkedAt": "2026-10-08",
+        "checkedWhere": "배달의민족 앱 캡처 (그린 그레인 샐러드, 배달·픽업 같은 가격)"
+      }
+    },
+    {
+      "id": "topping_1606",
+      "officialIdx": "1606",
+      "name": "베이컨 비츠",
+      "appliesTo": "GRAIN_SALAD",
+      "allergens": {
+        "status": "KNOWN",
+        "contains": [
+          "돼지고기"
+        ],
+        "mayContain": [],
+        "rows": [
+          "미트류/베이컨 비츠"
+        ]
+      },
+      "price": {
+        "status": "KNOWN",
+        "price15cm": 1900,
+        "price30cm": null,
+        "checkedAt": "2026-10-08",
+        "checkedWhere": "배달의민족 앱 캡처 (그린 그레인 샐러드, 배달·픽업 같은 가격)"
+      }
+    },
+    {
+      "id": "topping_1605",
+      "officialIdx": "1605",
+      "name": "아보카도",
+      "appliesTo": "GRAIN_SALAD",
+      "allergens": {
+        "status": "KNOWN",
+        "contains": [],
+        "mayContain": [],
+        "rows": [
+          "야채/아보카도"
+        ]
+      },
+      "price": {
+        "status": "KNOWN",
+        "price15cm": 1800,
+        "price30cm": null,
+        "checkedAt": "2026-10-08",
+        "checkedWhere": "배달의민족 앱 캡처 (그린 그레인 샐러드, 배달·픽업 같은 가격)"
+      }
+    },
+    {
+      "id": "topping_1607",
+      "officialIdx": "1607",
+      "name": "페퍼로니",
+      "appliesTo": "GRAIN_SALAD",
+      "allergens": {
+        "status": "KNOWN",
+        "contains": [],
+        "mayContain": [],
+        "rows": [
+          "미트류/페퍼로니"
+        ]
+      },
+      "price": {
+        "status": "KNOWN",
+        "price15cm": 1700,
+        "price30cm": null,
+        "checkedAt": "2026-10-08",
+        "checkedWhere": "배달의민족 앱 캡처 (그린 그레인 샐러드, 배달·픽업 같은 가격)"
+      }
+    },
+    {
+      "id": "topping_1602",
+      "officialIdx": "1602",
+      "name": "미트 추가",
+      "appliesTo": "GRAIN_SALAD",
+      "allergens": {
+        "status": "UNKNOWN",
+        "contains": [],
+        "mayContain": [],
+        "rows": []
+      },
+      "price": {
+        "status": "NEEDS_CHECK",
+        "price15cm": null,
+        "price30cm": null,
+        "checkedAt": "2026-10-08",
+        "checkedWhere": "배민 그레인 샐러드 화면에 없음 (공식 홈페이지 목록에만 있음, 매장 확인)"
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "id": "bread:화이트",
+      "category": "BREAD",
+      "name": "화이트",
+      "nameEn": "White",
+      "energyKcal": 195,
+      "allergens": {
+        "status": "KNOWN",
+        "contains": [
+          "대두",
+          "밀"
+        ],
+        "mayContain": [
+          "난류",
+          "우유"
+        ],
+        "rows": [
+          "빵/화이트"
+        ]
+      }
+    },
+    {
+      "id": "bread:위트",
+      "category": "BREAD",
+      "name": "위트",
+      "nameEn": "Wheat",
+      "energyKcal": 195,
+      "allergens": {
+        "status": "KNOWN",
+        "contains": [
+          "대두",
+          "밀"
+        ],
+        "mayContain": [
+          "난류",
+          "우유"
+        ],
+        "rows": [
+          "빵/위트"
+        ]
+      }
+    },
+    {
+      "id": "bread:파마산 오레가노",
+      "category": "BREAD",
+      "name": "파마산 오레가노",
+      "nameEn": "Parmesan Oregano",
+      "energyKcal": 207,
+      "allergens": {
+        "status": "KNOWN",
+        "contains": [
+          "우유",
+          "대두",
+          "밀"
+        ],
+        "mayContain": [
+          "난류"
+        ],
+        "rows": [
+          "빵/파마산 오레가노"
+        ]
+      }
+    },
+    {
+      "id": "bread:허니오트",
+      "category": "BREAD",
+      "name": "허니오트",
+      "nameEn": "Honey Oat",
+      "energyKcal": 237,
+      "allergens": {
+        "status": "KNOWN",
+        "contains": [
+          "대두",
+          "밀"
+        ],
+        "mayContain": [
+          "난류",
+          "우유"
+        ],
+        "rows": [
+          "빵/허니 오트"
+        ]
+      }
+    },
+    {
+      "id": "bread:그레인",
+      "category": "BREAD",
+      "name": "그레인",
+      "nameEn": "Grain",
+      "energyKcal": 213,
+      "allergens": {
+        "status": "KNOWN",
+        "contains": [
+          "대두",
+          "밀"
+        ],
+        "mayContain": [
+          "난류",
+          "우유",
+          "아황산류"
+        ],
+        "rows": [
+          "빵/그레인"
+        ]
+      }
+    },
+    {
+      "id": "bread:플랫브레드",
+      "category": "BREAD",
+      "name": "플랫브레드",
+      "nameEn": "Flat Bread",
+      "energyKcal": 232,
+      "allergens": {
+        "status": "KNOWN",
+        "contains": [
+          "우유",
+          "대두",
+          "밀"
+        ],
+        "mayContain": [
+          "난류"
+        ],
+        "rows": [
+          "빵/플랫 브레드"
+        ]
+      }
+    },
+    {
+      "id": "vegetable:양상추",
+      "category": "VEGETABLE",
+      "name": "양상추",
+      "nameEn": "Lettuce",
+      "energyKcal": 2.9,
+      "allergens": {
+        "status": "KNOWN",
+        "contains": [],
+        "mayContain": [],
+        "rows": [
+          "야채/양상추"
+        ]
+      }
+    },
+    {
+      "id": "vegetable:토마토",
+      "category": "VEGETABLE",
+      "name": "토마토",
+      "nameEn": "Tomatoes",
+      "energyKcal": 7.7,
+      "allergens": {
+        "status": "KNOWN",
+        "contains": [
+          "토마토"
+        ],
+        "mayContain": [],
+        "rows": [
+          "야채/토마토"
+        ]
+      }
+    },
+    {
+      "id": "vegetable:오이",
+      "category": "VEGETABLE",
+      "name": "오이",
+      "nameEn": "Cucumbers",
+      "energyKcal": 1.5,
+      "allergens": {
+        "status": "KNOWN",
+        "contains": [],
+        "mayContain": [],
+        "rows": [
+          "야채/오이"
+        ]
+      }
+    },
+    {
+      "id": "vegetable:피망(파프리카)",
+      "category": "VEGETABLE",
+      "name": "피망(파프리카)",
+      "nameEn": "Peppers",
+      "energyKcal": 1.4,
+      "allergens": {
+        "status": "KNOWN",
+        "contains": [],
+        "mayContain": [],
+        "rows": [
+          "야채/피망"
+        ]
+      }
+    },
+    {
+      "id": "vegetable:양파",
+      "category": "VEGETABLE",
+      "name": "양파",
+      "nameEn": "Red Onions",
+      "energyKcal": 2.8,
+      "allergens": {
+        "status": "KNOWN",
+        "contains": [],
+        "mayContain": [],
+        "rows": [
+          "야채/양파"
+        ]
+      }
+    },
+    {
+      "id": "vegetable:피클",
+      "category": "VEGETABLE",
+      "name": "피클",
+      "nameEn": "Pickles",
+      "energyKcal": 0.4,
+      "allergens": {
+        "status": "UNKNOWN",
+        "contains": [],
+        "mayContain": [],
+        "rows": []
+      }
+    },
+    {
+      "id": "vegetable:올리브",
+      "category": "VEGETABLE",
+      "name": "올리브",
+      "nameEn": "Olives",
+      "energyKcal": 3.9,
+      "allergens": {
+        "status": "KNOWN",
+        "contains": [],
+        "mayContain": [],
+        "rows": [
+          "야채/올리브"
+        ]
+      }
+    },
+    {
+      "id": "vegetable:할라피뇨",
+      "category": "VEGETABLE",
+      "name": "할라피뇨",
+      "nameEn": "Jalapenos",
+      "energyKcal": 0.6,
+      "allergens": {
+        "status": "KNOWN",
+        "contains": [],
+        "mayContain": [],
+        "rows": [
+          "야채/할라피뇨"
+        ]
+      }
+    },
+    {
+      "id": "vegetable:아보카도",
+      "category": "VEGETABLE",
+      "name": "아보카도",
+      "nameEn": "Avocado",
+      "energyKcal": 56.5,
+      "allergens": {
+        "status": "KNOWN",
+        "contains": [],
+        "mayContain": [],
+        "rows": [
+          "야채/아보카도"
+        ]
+      }
+    },
+    {
+      "id": "cheese:아메리칸 치즈",
+      "category": "CHEESE",
+      "name": "아메리칸 치즈",
+      "nameEn": "American Cheese",
+      "energyKcal": 35.3,
+      "allergens": {
+        "status": "KNOWN",
+        "contains": [
+          "우유",
+          "대두"
+        ],
+        "mayContain": [],
+        "rows": [
+          "치즈/아메리칸 치즈"
+        ]
+      }
+    },
+    {
+      "id": "cheese:슈레드 치즈",
+      "category": "CHEESE",
+      "name": "슈레드 치즈",
+      "nameEn": "Shredded Cheese",
+      "energyKcal": 53.6,
+      "allergens": {
+        "status": "KNOWN",
+        "contains": [
+          "우유"
+        ],
+        "mayContain": [],
+        "rows": [
+          "치즈/슈레드 치즈"
+        ]
+      }
+    },
+    {
+      "id": "cheese:모차렐라 치즈",
+      "category": "CHEESE",
+      "name": "모차렐라 치즈",
+      "nameEn": "Mozzarella Cheese",
+      "energyKcal": 43.8,
+      "allergens": {
+        "status": "KNOWN",
+        "contains": [
+          "우유"
+        ],
+        "mayContain": [],
+        "rows": [
+          "치즈/모차렐라 치즈"
+        ]
+      }
+    },
+    {
+      "id": "sauce:랜치",
+      "category": "SAUCE",
+      "name": "랜치",
+      "nameEn": "Ranch",
+      "energyKcal": 116,
+      "allergens": {
+        "status": "KNOWN",
+        "contains": [
+          "난류",
+          "우유",
+          "대두"
+        ],
+        "mayContain": [],
+        "rows": [
+          "소스&드레싱/랜치"
+        ]
+      }
+    },
+    {
+      "id": "sauce:스위트 어니언",
+      "category": "SAUCE",
+      "name": "스위트 어니언",
+      "nameEn": "Sweet Onion",
+      "energyKcal": 40.1,
+      "allergens": {
+        "status": "KNOWN",
+        "contains": [
+          "우유",
+          "대두"
+        ],
+        "mayContain": [],
+        "rows": [
+          "소스&드레싱/스위트 어니언"
+        ]
+      }
+    },
+    {
+      "id": "sauce:마요네즈",
+      "category": "SAUCE",
+      "name": "마요네즈",
+      "nameEn": "Mayonnaise",
+      "energyKcal": 158,
+      "allergens": {
+        "status": "KNOWN",
+        "contains": [
+          "난류",
+          "대두"
+        ],
+        "mayContain": [],
+        "rows": [
+          "소스&드레싱/마요네즈"
+        ]
+      }
+    },
+    {
+      "id": "sauce:스위트 칠리",
+      "category": "SAUCE",
+      "name": "스위트 칠리",
+      "nameEn": "Sweet Chilli",
+      "energyKcal": 40,
+      "allergens": {
+        "status": "KNOWN",
+        "contains": [
+          "토마토"
+        ],
+        "mayContain": [],
+        "rows": [
+          "소스&드레싱/스위트 칠리"
+        ]
+      }
+    },
+    {
+      "id": "sauce:스모크 바비큐",
+      "category": "SAUCE",
+      "name": "스모크 바비큐",
+      "nameEn": "Smoke BBQ",
+      "energyKcal": 32.8,
+      "allergens": {
+        "status": "KNOWN",
+        "contains": [
+          "대두",
+          "밀",
+          "토마토",
+          "아황산류",
+          "조개류"
+        ],
+        "mayContain": [],
+        "rows": [
+          "소스&드레싱/스모크 바비큐"
+        ]
+      }
+    },
+    {
+      "id": "sauce:핫 칠리",
+      "category": "SAUCE",
+      "name": "핫 칠리",
+      "nameEn": "Hot Chilli",
+      "energyKcal": 41.8,
+      "allergens": {
+        "status": "KNOWN",
+        "contains": [
+          "대두",
+          "밀",
+          "토마토"
+        ],
+        "mayContain": [],
+        "rows": [
+          "소스&드레싱/핫 칠리"
+        ]
+      }
+    },
+    {
+      "id": "sauce:허니 머스터드",
+      "category": "SAUCE",
+      "name": "허니 머스터드",
+      "nameEn": "Honey Mustard",
+      "energyKcal": 38.4,
+      "allergens": {
+        "status": "KNOWN",
+        "contains": [
+          "난류",
+          "우유",
+          "대두"
+        ],
+        "mayContain": [],
+        "rows": [
+          "소스&드레싱/허니 머스터드"
+        ]
+      }
+    },
+    {
+      "id": "sauce:사우스웨스트 치폴레",
+      "category": "SAUCE",
+      "name": "사우스웨스트 치폴레",
+      "nameEn": "Southwest Chipotle",
+      "energyKcal": 96.5,
+      "allergens": {
+        "status": "KNOWN",
+        "contains": [
+          "난류",
+          "대두",
+          "밀",
+          "토마토"
+        ],
+        "mayContain": [],
+        "rows": [
+          "소스&드레싱/사우스웨스트 치폴레"
+        ]
+      }
+    },
+    {
+      "id": "sauce:홀스래디쉬",
+      "category": "SAUCE",
+      "name": "홀스래디쉬",
+      "nameEn": "Horseradish",
+      "energyKcal": 106,
+      "allergens": {
+        "status": "KNOWN",
+        "contains": [
+          "난류",
+          "대두",
+          "쇠고기"
+        ],
+        "mayContain": [],
+        "rows": [
+          "소스&드레싱/홀스 래디쉬"
+        ]
+      }
+    },
+    {
+      "id": "sauce:저당 크리미 어니언",
+      "category": "SAUCE",
+      "name": "저당 크리미 어니언",
+      "nameEn": "Low Sugar Creamy Onion",
+      "energyKcal": 51,
+      "allergens": {
+        "status": "KNOWN",
+        "contains": [
+          "난류",
+          "우유",
+          "대두"
+        ],
+        "mayContain": [],
+        "rows": [
+          "소스&드레싱/저당 크리미 어니언"
+        ]
+      }
+    },
+    {
+      "id": "sauce:저칼로리 오리엔탈",
+      "category": "SAUCE",
+      "name": "저칼로리 오리엔탈",
+      "nameEn": "Oriental",
+      "energyKcal": 21,
+      "allergens": {
+        "status": "KNOWN",
+        "contains": [
+          "대두",
+          "밀"
+        ],
+        "mayContain": [
+          "난류",
+          "우유",
+          "메밀",
+          "땅콩",
+          "고등어",
+          "게",
+          "새우",
+          "돼지고기",
+          "복숭아",
+          "토마토",
+          "아황산류",
+          "호두",
+          "닭고기",
+          "쇠고기",
+          "오징어",
+          "조개류",
+          "잣"
+        ],
+        "rows": [
+          "소스&드레싱/저칼로리 오리엔탈"
+        ]
+      }
+    },
+    {
+      "id": "sauce:엑스트라 버진 올리브 오일",
+      "category": "SAUCE",
+      "name": "엑스트라 버진 올리브 오일",
+      "nameEn": "Extra Virgin Olive Oil",
+      "energyKcal": 29,
+      "allergens": {
+        "status": "KNOWN",
+        "contains": [],
+        "mayContain": [],
+        "rows": [
+          "소스&드레싱/엑스트라 버진 올리브 오일"
+        ]
+      }
+    },
+    {
+      "id": "sauce:레드 와인 식초",
+      "category": "SAUCE",
+      "name": "레드 와인 식초",
+      "nameEn": "Red Wine Vinaigrette",
+      "energyKcal": 0.7,
+      "allergens": {
+        "status": "KNOWN",
+        "contains": [
+          "아황산류"
+        ],
+        "mayContain": [],
+        "rows": [
+          "소스&드레싱/레드와인 식초"
+        ]
+      }
+    },
+    {
+      "id": "sauce:소금",
+      "category": "SAUCE",
+      "name": "소금",
+      "nameEn": "Salt",
+      "energyKcal": null,
+      "allergens": {
+        "status": "UNKNOWN",
+        "contains": [],
+        "mayContain": [],
+        "rows": []
+      }
+    },
+    {
+      "id": "sauce:후추",
+      "category": "SAUCE",
+      "name": "후추",
+      "nameEn": "Black Pepper",
+      "energyKcal": null,
+      "allergens": {
+        "status": "UNKNOWN",
+        "contains": [],
+        "mayContain": [],
+        "rows": []
+      }
+    }
+  ],
+  "mains": [
+    {
+      "id": "main:베이컨 비츠",
+      "name": "베이컨 비츠",
+      "allergens": {
+        "status": "KNOWN",
+        "contains": [
+          "돼지고기"
+        ],
+        "mayContain": [],
+        "rows": [
+          "미트류/베이컨 비츠"
+        ]
+      }
+    },
+    {
+      "id": "main:베이컨",
+      "name": "베이컨",
+      "allergens": {
+        "status": "KNOWN",
+        "contains": [
+          "돼지고기"
+        ],
+        "mayContain": [],
+        "rows": [
+          "미트류/베이컨"
+        ]
+      }
+    },
+    {
+      "id": "main:치킨 데리야끼",
+      "name": "치킨 데리야끼",
+      "allergens": {
+        "status": "KNOWN",
+        "contains": [
+          "대두",
+          "밀",
+          "닭고기"
+        ],
+        "mayContain": [],
+        "rows": [
+          "미트류/치킨 데리야끼"
+        ]
+      }
+    },
+    {
+      "id": "main:에그마요",
+      "name": "에그마요",
+      "allergens": {
+        "status": "KNOWN",
+        "contains": [
+          "난류"
+        ],
+        "mayContain": [
+          "우유",
+          "대두",
+          "밀",
+          "조개류"
+        ],
+        "rows": [
+          "미트류/에그마요"
+        ]
+      }
+    },
+    {
+      "id": "main:오믈렛",
+      "name": "오믈렛",
+      "allergens": {
+        "status": "KNOWN",
+        "contains": [
+          "난류",
+          "우유",
+          "대두"
+        ],
+        "mayContain": [],
+        "rows": [
+          "미트류/오믈렛"
+        ]
+      }
+    },
+    {
+      "id": "main:햄",
+      "name": "햄",
+      "allergens": {
+        "status": "KNOWN",
+        "contains": [
+          "돼지고기"
+        ],
+        "mayContain": [],
+        "rows": [
+          "미트류/햄"
+        ]
+      }
+    },
+    {
+      "id": "main:페퍼로니",
+      "name": "페퍼로니",
+      "allergens": {
+        "status": "KNOWN",
+        "contains": [],
+        "mayContain": [],
+        "rows": [
+          "미트류/페퍼로니"
+        ]
+      }
+    },
+    {
+      "id": "main:풀드 포크 바비큐",
+      "name": "풀드 포크 바비큐",
+      "allergens": {
+        "status": "KNOWN",
+        "contains": [
+          "대두",
+          "밀",
+          "돼지고기"
+        ],
+        "mayContain": [],
+        "rows": [
+          "미트류/풀드 포크 바비큐"
+        ]
+      }
+    },
+    {
+      "id": "main:로스트 치킨",
+      "name": "로스트 치킨",
+      "allergens": {
+        "status": "KNOWN",
+        "contains": [
+          "닭고기",
+          "쇠고기"
+        ],
+        "mayContain": [],
+        "rows": [
+          "미트류/로스트 치킨"
+        ]
+      }
+    },
+    {
+      "id": "main:로티세리 바비큐 치킨",
+      "name": "로티세리 바비큐 치킨",
+      "allergens": {
+        "status": "KNOWN",
+        "contains": [
+          "대두"
+        ],
+        "mayContain": [],
+        "rows": [
+          "미트류/로티세리 바비큐 치킨"
+        ]
+      }
+    },
+    {
+      "id": "main:살라미",
+      "name": "살라미",
+      "allergens": {
+        "status": "KNOWN",
+        "contains": [
+          "돼지고기"
+        ],
+        "mayContain": [],
+        "rows": [
+          "미트류/살라미"
+        ]
+      }
+    },
+    {
+      "id": "main:쉬림프",
+      "name": "쉬림프",
+      "allergens": {
+        "status": "KNOWN",
+        "contains": [
+          "새우"
+        ],
+        "mayContain": [],
+        "rows": [
+          "미트류/쉬림프"
+        ]
+      }
+    },
+    {
+      "id": "main:스테이크",
+      "name": "스테이크",
+      "allergens": {
+        "status": "KNOWN",
+        "contains": [
+          "대두",
+          "쇠고기"
+        ],
+        "mayContain": [],
+        "rows": [
+          "미트류/스테이크"
+        ]
+      }
+    },
+    {
+      "id": "main:참치",
+      "name": "참치",
+      "allergens": {
+        "status": "KNOWN",
+        "contains": [],
+        "mayContain": [],
+        "rows": [
+          "미트류/참치"
+        ]
+      }
+    },
+    {
+      "id": "main:터키",
+      "name": "터키",
+      "allergens": {
+        "status": "KNOWN",
+        "contains": [],
+        "mayContain": [],
+        "rows": [
+          "미트류/터키"
+        ]
+      }
+    },
+    {
+      "id": "main:스파이시 쉬림프",
+      "name": "스파이시 쉬림프",
+      "allergens": {
+        "status": "KNOWN",
+        "contains": [
+          "우유",
+          "새우"
+        ],
+        "mayContain": [],
+        "rows": [
+          "미트류/스파이시 쉬림프"
+        ]
+      }
+    },
+    {
+      "id": "main:에그 슬라이스",
+      "name": "에그 슬라이스",
+      "allergens": {
+        "status": "KNOWN",
+        "contains": [
+          "난류"
+        ],
+        "mayContain": [],
+        "rows": [
+          "미트류/에그 슬라이스"
+        ]
+      }
+    },
+    {
+      "id": "main:안창 비프",
+      "name": "안창 비프",
+      "allergens": {
+        "status": "KNOWN",
+        "contains": [
+          "대두",
+          "쇠고기"
+        ],
+        "mayContain": [],
+        "rows": [
+          "미트류/안창 비프"
+        ]
+      }
+    },
+    {
+      "id": "main:머쉬룸",
+      "name": "머쉬룸",
+      "allergens": {
+        "status": "KNOWN",
+        "contains": [],
+        "mayContain": [
+          "우유",
+          "대두",
+          "밀",
+          "토마토",
+          "쇠고기",
+          "조개류"
+        ],
+        "rows": [
+          "미트류/머쉬룸"
+        ]
+      }
+    },
+    {
+      "id": "main:잠봉",
+      "name": "잠봉",
+      "allergens": {
+        "status": "KNOWN",
+        "contains": [
+          "돼지고기"
+        ],
+        "mayContain": [],
+        "rows": [
+          "미트류/잠봉"
+        ]
+      }
+    },
+    {
+      "id": "main:치킨 슬라이스 햄",
+      "name": "치킨 슬라이스 햄",
+      "allergens": {
+        "status": "KNOWN",
+        "contains": [
+          "닭고기"
+        ],
+        "mayContain": [],
+        "rows": [
+          "미트류/치킨 슬라이스 햄"
+        ]
+      }
+    }
+  ],
+  "optionRules": [
+    {
+      "group": "크기",
+      "appliesTo": "샌드위치",
+      "min": 1,
+      "max": 1,
+      "note": "15cm 또는 30cm 중 하나",
+      "status": "CONFIRMED",
+      "source": "공식 이용방법: 샌드위치는 15cm 또는 30cm 중에 선택 가능"
+    },
+    {
+      "group": "빵",
+      "appliesTo": "샌드위치",
+      "min": 1,
+      "max": 1,
+      "note": "6종(화이트·위트·파마산 오레가노·허니오트·그레인·플랫브레드) 중 하나, 추가 비용 없음",
+      "status": "CONFIRMED",
+      "source": "공식 이용방법: 6가지 종류 중 원하는 빵으로 추가비용 없이 선택"
+    },
+    {
+      "group": "치즈",
+      "appliesTo": "샌드위치",
+      "min": 0,
+      "max": 1,
+      "note": "3종(아메리칸·슈레드·모차렐라) 중 하나 또는 없음, 더 원하면 치즈 추가 토핑",
+      "status": "CONFIRMED",
+      "source": "공식 주문 시스템 추천 조합 23개 모두 치즈 1개 + 나무위키 \"택1\" (2026-10-08)"
+    },
+    {
+      "group": "야채",
+      "appliesTo": "샌드위치",
+      "min": 0,
+      "max": null,
+      "note": "9종 중 원하지 않는 것은 빼고(최대 8개 제외) 좋아하는 것은 더함",
+      "status": "CONFIRMED",
+      "source": "공식 이용방법 + 배달의민족 앱 캡처 (2026-10-08)"
+    },
+    {
+      "group": "소스",
+      "appliesTo": "샌드위치·샐러드",
+      "min": 0,
+      "max": 3,
+      "note": "15종 중 최대 3개, 소스 개수에 따른 추가 요금 없음 (매장에 따라 더 주기도 함)",
+      "status": "CONFIRMED",
+      "source": "공식 주문 시스템 추천 조합 23개 최대 3개 + 나무위키 \"대부분 지점 최대 3개\" (2026-10-08)"
+    },
+    {
+      "group": "추가 토핑",
+      "appliesTo": "샌드위치·샐러드",
+      "min": 0,
+      "max": 8,
+      "note": "샌드위치 최대 8개 (미트·에그마요·오믈렛·베이컨·아보카도·치즈 3종·페퍼로니·에그 슬라이스), 샐러드 재료 추가 최대 11개 (그레인 믹스·꼬마빵·베이컨 비츠 포함). 30cm는 15cm의 2배. 소포장 소스 추가(랜치 +300, 치폴레 +400)",
+      "status": "CONFIRMED",
+      "source": "배달의민족 앱 캡처 (2026-10-08)"
+    },
+    {
+      "group": "샐러드 구성",
+      "appliesTo": "샐러드·그레인 샐러드",
+      "min": null,
+      "max": null,
+      "note": "기본 재료는 추천 조합 그대로. 소스 선택(최대 3)과 추가 토핑(최대 11)만 가능",
+      "status": "CONFIRMED",
+      "source": "공식 이용방법 + 배달의민족 앱 캡처 (2026-10-08)"
+    },
+    {
+      "group": "세트",
+      "appliesTo": "샌드위치·샐러드",
+      "min": 0,
+      "max": 1,
+      "note": "쿠키 음료 +3000원, 칩 음료 +3000원, 웨지 음료 +3500원, 수프 음료 +3900원. 사이드 바꾸기: Cheesy 웨지 +1000, Bacon Cheesy 웨지 +1400 (쿠키 세트 기준). 음료 바꾸기: 토레타 +200, 미닛메이드 +900, 셀렉스 +1300",
+      "status": "CONFIRMED",
+      "source": "공식 주문 API 세트 구성 + 배달의민족 앱 캡처 (2026-10-08)"
+    },
+    {
+      "group": "아침 메뉴",
+      "appliesTo": "아침 샌드위치·아침 랩",
+      "min": null,
+      "max": null,
+      "note": "판매 시간 06:00~11:00 (공식 홈페이지: 오전 11시까지, 매장 여는 시각부터)",
+      "status": "CONFIRMED",
+      "source": "공식 주문 시스템 판매 시간 + 공식 메뉴 설명 (2026-10-08)"
+    },
+    {
+      "group": "토스팅",
+      "appliesTo": "샌드위치",
+      "min": 1,
+      "max": 1,
+      "note": "빵·미트 토스팅 함(기본) 또는 안 함, 추가 요금 없음",
+      "status": "CONFIRMED",
+      "source": "배달의민족 앱 캡처 (2026-10-08)"
+    }
+  ],
+  "sets": [
+    {
+      "name": "음료 콤보",
+      "item": "음료 콤보",
+      "addPrice": 1500,
+      "checkedAt": "2026-10-19"
+    },
+    {
+      "name": "쿠키 음료 세트",
+      "item": "쿠키+음료(16oz)",
+      "addPrice": 3000,
+      "checkedAt": "2026-10-19"
+    },
+    {
+      "name": "웨지 음료 세트",
+      "item": "웨지+음료(16oz)",
+      "addPrice": 3500,
+      "checkedAt": "2026-10-19"
+    },
+    {
+      "name": "칩 음료 세트",
+      "item": "칩+음료(16oz)",
+      "addPrice": 3000,
+      "checkedAt": "2026-10-19"
+    },
+    {
+      "name": "수프 음료 세트",
+      "item": "오늘의 수프(하프)+음료(16oz)",
+      "addPrice": 3900,
+      "checkedAt": "2026-10-19"
+    }
+  ],
+  "singles": [
+    {
+      "id": "single_17",
+      "name": "탄산음료 16oz",
+      "group": "DRINK",
+      "price": 2100,
+      "checkedAt": "2026-10-19",
+      "nutrition": null,
+      "allergens": {
+        "status": "UNKNOWN",
+        "contains": [],
+        "mayContain": [],
+        "rows": []
+      }
+    },
+    {
+      "id": "single_16",
+      "name": "아메리카노",
+      "group": "DRINK",
+      "price": 2900,
+      "checkedAt": "2026-10-19",
+      "nutrition": null,
+      "allergens": {
+        "status": "UNKNOWN",
+        "contains": [],
+        "mayContain": [],
+        "rows": []
+      }
+    },
+    {
+      "id": "single_15",
+      "name": "아이스 아메리카노",
+      "group": "DRINK",
+      "price": 2900,
+      "checkedAt": "2026-10-19",
+      "nutrition": null,
+      "allergens": {
+        "status": "NEEDS_CHECK",
+        "contains": [],
+        "mayContain": [],
+        "rows": []
+      }
+    },
+    {
+      "id": "single_304",
+      "name": "코카콜라 제로 레몬라임 (350ml)",
+      "group": "DRINK",
+      "price": 2200,
+      "checkedAt": "2026-10-19",
+      "nutrition": null,
+      "allergens": {
+        "status": "NEEDS_CHECK",
+        "contains": [],
+        "mayContain": [],
+        "rows": []
+      }
+    },
+    {
+      "id": "single_201",
+      "name": "오늘의 수프(레귤러), 꼬마빵",
+      "group": "SOUP",
+      "price": 5300,
+      "checkedAt": "2026-10-19",
+      "nutrition": null,
+      "allergens": {
+        "status": "NEEDS_CHECK",
+        "contains": [],
+        "mayContain": [],
+        "rows": []
+      }
+    },
+    {
+      "id": "single_200",
+      "name": "오늘의 수프(하프), 꼬마빵",
+      "group": "SOUP",
+      "price": 3700,
+      "checkedAt": "2026-10-19",
+      "nutrition": null,
+      "allergens": {
+        "status": "NEEDS_CHECK",
+        "contains": [],
+        "mayContain": [],
+        "rows": []
+      }
+    },
+    {
+      "id": "single_5",
+      "name": "오늘의 수프 (레귤러)",
+      "group": "SOUP",
+      "price": 4100,
+      "checkedAt": "2026-10-19",
+      "nutrition": null,
+      "allergens": {
+        "status": "NEEDS_CHECK",
+        "contains": [],
+        "mayContain": [],
+        "rows": []
+      }
+    },
+    {
+      "id": "single_4",
+      "name": "오늘의 수프 (하프)",
+      "group": "SOUP",
+      "price": 2500,
+      "checkedAt": "2026-10-19",
+      "nutrition": null,
+      "allergens": {
+        "status": "NEEDS_CHECK",
+        "contains": [],
+        "mayContain": [],
+        "rows": []
+      }
+    },
+    {
+      "id": "single_27",
+      "name": "초코칩 쿠키",
+      "group": "COOKIE",
+      "price": 1600,
+      "checkedAt": "2026-10-19",
+      "nutrition": {
+        "weightG": 45,
+        "energyKcal": 228,
+        "proteinG": 2.1,
+        "saturatedFatG": 5.6,
+        "sugarG": 19.3,
+        "sodiumMg": 165,
+        "raw": [
+          "45",
+          "228",
+          "2.1 (4%)",
+          "5.6 (37%)",
+          "19.3 (19%)",
+          "165 (8%)"
+        ],
+        "basis": "1회 제공량"
+      },
+      "allergens": {
+        "status": "KNOWN",
+        "contains": [
+          "난류",
+          "우유",
+          "대두",
+          "밀"
+        ],
+        "mayContain": [
+          "땅콩",
+          "호두"
+        ],
+        "rows": [
+          "스마일 썹/초코칩 쿠키"
+        ]
+      }
+    },
+    {
+      "id": "single_26",
+      "name": "더블 초코칩 쿠키",
+      "group": "COOKIE",
+      "price": 1600,
+      "checkedAt": "2026-10-19",
+      "nutrition": {
+        "weightG": 45,
+        "energyKcal": 212,
+        "proteinG": 2,
+        "saturatedFatG": 5.4,
+        "sugarG": 19.9,
+        "sodiumMg": 165,
+        "raw": [
+          "45",
+          "212",
+          "2 (4%)",
+          "5.4 (36%)",
+          "19.9 (20%)",
+          "165 (8%)"
+        ],
+        "basis": "1회 제공량"
+      },
+      "allergens": {
+        "status": "KNOWN",
+        "contains": [
+          "난류",
+          "우유",
+          "대두",
+          "밀"
+        ],
+        "mayContain": [
+          "땅콩",
+          "호두"
+        ],
+        "rows": [
+          "스마일 썹/더블 초코칩 쿠키"
+        ]
+      }
+    },
+    {
+      "id": "single_25",
+      "name": "오트밀 레이즌 쿠키",
+      "group": "COOKIE",
+      "price": 1600,
+      "checkedAt": "2026-10-19",
+      "nutrition": {
+        "weightG": 45,
+        "energyKcal": 200,
+        "proteinG": 2.4,
+        "saturatedFatG": 3.8,
+        "sugarG": 15.8,
+        "sodiumMg": 130,
+        "raw": [
+          "45",
+          "200",
+          "2.4 (4%)",
+          "3.8 (25%)",
+          "15.8 (16%)",
+          "130 (7%)"
+        ],
+        "basis": "1회 제공량"
+      },
+      "allergens": {
+        "status": "KNOWN",
+        "contains": [
+          "난류",
+          "우유",
+          "대두",
+          "밀"
+        ],
+        "mayContain": [
+          "땅콩",
+          "호두"
+        ],
+        "rows": [
+          "스마일 썹/오트밀 레이즌 쿠키"
+        ]
+      }
+    },
+    {
+      "id": "single_24",
+      "name": "라즈베리 치즈케익 쿠키",
+      "group": "COOKIE",
+      "price": 1600,
+      "checkedAt": "2026-10-19",
+      "nutrition": {
+        "weightG": 45,
+        "energyKcal": 204,
+        "proteinG": 2,
+        "saturatedFatG": 5,
+        "sugarG": 15.8,
+        "sodiumMg": 176,
+        "raw": [
+          "45",
+          "204",
+          "2 (4%)",
+          "5 (33%)",
+          "15.8 (16%)",
+          "176 (9%)"
+        ],
+        "basis": "1회 제공량"
+      },
+      "allergens": {
+        "status": "KNOWN",
+        "contains": [
+          "난류",
+          "우유",
+          "대두",
+          "밀"
+        ],
+        "mayContain": [
+          "땅콩",
+          "호두"
+        ],
+        "rows": [
+          "스마일 썹/라즈베리 치즈케이크 쿠키"
+        ]
+      }
+    },
+    {
+      "id": "single_23",
+      "name": "화이트 초코 마카다미아 쿠키",
+      "group": "COOKIE",
+      "price": 1600,
+      "checkedAt": "2026-10-19",
+      "nutrition": {
+        "weightG": 45,
+        "energyKcal": 245,
+        "proteinG": 2.1,
+        "saturatedFatG": 5.7,
+        "sugarG": 18.9,
+        "sodiumMg": 178,
+        "raw": [
+          "45",
+          "245",
+          "2.1 (4%)",
+          "5.7 (38%)",
+          "18.9 (19%)",
+          "178 (9%)"
+        ],
+        "basis": "1회 제공량"
+      },
+      "allergens": {
+        "status": "KNOWN",
+        "contains": [
+          "난류",
+          "우유",
+          "대두",
+          "밀"
+        ],
+        "mayContain": [
+          "땅콩",
+          "호두"
+        ],
+        "rows": [
+          "스마일 썹/화이트 초코 마카다미아 쿠키"
+        ]
+      }
+    },
+    {
+      "id": "single_21",
+      "name": "쿠키박스 (12개입)",
+      "group": "COOKIE",
+      "price": 17700,
+      "checkedAt": "2026-10-19",
+      "nutrition": null,
+      "allergens": {
+        "status": "NEEDS_CHECK",
+        "contains": [],
+        "mayContain": [],
+        "rows": []
+      }
+    },
+    {
+      "id": "single_20",
+      "name": "쿠키팩 (6개입)",
+      "group": "COOKIE",
+      "price": 8900,
+      "checkedAt": "2026-10-19",
+      "nutrition": null,
+      "allergens": {
+        "status": "NEEDS_CHECK",
+        "contains": [],
+        "mayContain": [],
+        "rows": []
+      }
+    },
+    {
+      "id": "single_22",
+      "name": "쿠키 3개",
+      "group": "COOKIE",
+      "price": 4600,
+      "checkedAt": "2026-10-19",
+      "nutrition": null,
+      "allergens": {
+        "status": "NEEDS_CHECK",
+        "contains": [],
+        "mayContain": [],
+        "rows": []
+      }
+    },
+    {
+      "id": "single_18",
+      "name": "칩 (랜덤발송)",
+      "group": "CHIP",
+      "price": 1600,
+      "checkedAt": "2026-10-19",
+      "nutrition": null,
+      "allergens": {
+        "status": "UNKNOWN",
+        "contains": [],
+        "mayContain": [],
+        "rows": []
+      }
+    },
+    {
+      "id": "single_14",
+      "name": "코카콜라 (355ml)",
+      "group": "DRINK",
+      "price": 2200,
+      "checkedAt": "2026-10-19",
+      "nutrition": null,
+      "allergens": {
+        "status": "NEEDS_CHECK",
+        "contains": [],
+        "mayContain": [],
+        "rows": []
+      }
+    },
+    {
+      "id": "single_13",
+      "name": "스프라이트 (355ml)",
+      "group": "DRINK",
+      "price": 2200,
+      "checkedAt": "2026-10-19",
+      "nutrition": null,
+      "allergens": {
+        "status": "NEEDS_CHECK",
+        "contains": [],
+        "mayContain": [],
+        "rows": []
+      }
+    },
+    {
+      "id": "single_12",
+      "name": "코카콜라 제로 (355ml)",
+      "group": "DRINK",
+      "price": 2200,
+      "checkedAt": "2026-10-19",
+      "nutrition": null,
+      "allergens": {
+        "status": "NEEDS_CHECK",
+        "contains": [],
+        "mayContain": [],
+        "rows": []
+      }
+    },
+    {
+      "id": "single_11",
+      "name": "스프라이트 제로 (355ml)",
+      "group": "DRINK",
+      "price": 2200,
+      "checkedAt": "2026-10-19",
+      "nutrition": null,
+      "allergens": {
+        "status": "NEEDS_CHECK",
+        "contains": [],
+        "mayContain": [],
+        "rows": []
+      }
+    },
+    {
+      "id": "single_10",
+      "name": "닥터페퍼 (355ml)",
+      "group": "DRINK",
+      "price": 2200,
+      "checkedAt": "2026-10-19",
+      "nutrition": null,
+      "allergens": {
+        "status": "NEEDS_CHECK",
+        "contains": [],
+        "mayContain": [],
+        "rows": []
+      }
+    },
+    {
+      "id": "single_9",
+      "name": "씨그램",
+      "group": "DRINK",
+      "price": 2200,
+      "checkedAt": "2026-10-19",
+      "nutrition": null,
+      "allergens": {
+        "status": "NEEDS_CHECK",
+        "contains": [],
+        "mayContain": [],
+        "rows": []
+      }
+    },
+    {
+      "id": "single_8",
+      "name": "미닛메이드",
+      "group": "DRINK",
+      "price": 3100,
+      "checkedAt": "2026-10-19",
+      "nutrition": null,
+      "allergens": {
+        "status": "NEEDS_CHECK",
+        "contains": [],
+        "mayContain": [],
+        "rows": []
+      }
+    },
+    {
+      "id": "single_7",
+      "name": "토레타",
+      "group": "DRINK",
+      "price": 2400,
+      "checkedAt": "2026-10-19",
+      "nutrition": null,
+      "allergens": {
+        "status": "NEEDS_CHECK",
+        "contains": [],
+        "mayContain": [],
+        "rows": []
+      }
+    },
+    {
+      "id": "single_6",
+      "name": "생수",
+      "group": "DRINK",
+      "price": 1100,
+      "checkedAt": "2026-10-19",
+      "nutrition": null,
+      "allergens": {
+        "status": "NEEDS_CHECK",
+        "contains": [],
+        "mayContain": [],
+        "rows": []
+      }
+    },
+    {
+      "id": "single_139",
+      "name": "바리스타룰스 아메리카노",
+      "group": "DRINK",
+      "price": 2500,
+      "checkedAt": "2026-10-19",
+      "nutrition": null,
+      "allergens": {
+        "status": "NEEDS_CHECK",
+        "contains": [],
+        "mayContain": [],
+        "rows": []
+      }
+    },
+    {
+      "id": "single_140",
+      "name": "바리스타룰스 저당 라떼(350ml)",
+      "group": "DRINK",
+      "price": 3300,
+      "checkedAt": "2026-10-19",
+      "nutrition": null,
+      "allergens": {
+        "status": "NEEDS_CHECK",
+        "contains": [],
+        "mayContain": [],
+        "rows": []
+      }
+    },
+    {
+      "id": "single_189",
+      "name": "셀렉스 프로핏 초콜릿(330ml)",
+      "group": "DRINK",
+      "price": 3500,
+      "checkedAt": "2026-10-19",
+      "nutrition": null,
+      "allergens": {
+        "status": "NEEDS_CHECK",
+        "contains": [],
+        "mayContain": [],
+        "rows": []
+      }
+    },
+    {
+      "id": "single_2",
+      "name": "웨지 포테이토",
+      "group": "WEDGE",
+      "price": 2100,
+      "checkedAt": "2026-10-19",
+      "nutrition": {
+        "weightG": 100,
+        "energyKcal": 140,
+        "proteinG": 2.5,
+        "saturatedFatG": 1.5,
+        "sugarG": 0.7,
+        "sodiumMg": 369,
+        "raw": [
+          "100",
+          "140",
+          "2.5 (5%)",
+          "1.5 (10%)",
+          "0.7 (1%)",
+          "369 (18%)"
+        ],
+        "basis": "1회 제공량"
+      },
+      "allergens": {
+        "status": "KNOWN",
+        "contains": [
+          "대두",
+          "밀"
+        ],
+        "mayContain": [],
+        "rows": [
+          "스마일 썹/웨지 포테이토"
+        ]
+      },
+      "fromMinute": 660
+    },
+    {
+      "id": "single_3",
+      "name": "Cheesy 웨지 포테이토",
+      "group": "WEDGE",
+      "price": 2600,
+      "checkedAt": "2026-10-19",
+      "nutrition": {
+        "weightG": 114,
+        "energyKcal": 194,
+        "proteinG": 5.8,
+        "saturatedFatG": 3.9,
+        "sugarG": 0.8,
+        "sodiumMg": 454,
+        "raw": [
+          "114",
+          "194",
+          "5.8 (10%)",
+          "3.9 (26%)",
+          "0.8 (1%)",
+          "454 (23%)"
+        ],
+        "basis": "1회 제공량"
+      },
+      "allergens": {
+        "status": "KNOWN",
+        "contains": [
+          "우유",
+          "대두",
+          "밀"
+        ],
+        "mayContain": [],
+        "rows": [
+          "스마일 썹/Cheesy 웨지 포테이토"
+        ]
+      },
+      "fromMinute": 660
+    },
+    {
+      "id": "single_1",
+      "name": "Bacon Cheesy 웨지 포테이토",
+      "group": "WEDGE",
+      "price": 3000,
+      "checkedAt": "2026-10-19",
+      "nutrition": {
+        "weightG": 124,
+        "energyKcal": 247,
+        "proteinG": 9.3,
+        "saturatedFatG": 5.3,
+        "sugarG": 0.9,
+        "sodiumMg": 679,
+        "raw": [
+          "124",
+          "247",
+          "9.3 (17%)",
+          "5.3 (35%)",
+          "0.9 (1%)",
+          "679 (34%)"
+        ],
+        "basis": "1회 제공량"
+      },
+      "allergens": {
+        "status": "KNOWN",
+        "contains": [
+          "우유",
+          "대두",
+          "밀",
+          "돼지고기"
+        ],
+        "mayContain": [],
+        "rows": [
+          "스마일 썹/Bacon Cheesy 웨지 포테이토"
+        ]
+      },
+      "fromMinute": 660
+    }
+  ],
+  "ended": [
+    {
+      "officialIdx": "1613",
+      "name": "로스트 치킨 아보카도",
+      "kind": "샌드위치",
+      "checkedAt": "2026-10-19"
+    },
+    {
+      "officialIdx": "1612",
+      "name": "아기맹새우",
+      "kind": "샌드위치",
+      "checkedAt": "2026-10-19"
+    },
+    {
+      "officialIdx": "1601",
+      "name": "에그 슬라이스",
+      "kind": "그레인 샐러드 추가 토핑",
+      "checkedAt": "2026-10-19"
+    }
+  ]
+}

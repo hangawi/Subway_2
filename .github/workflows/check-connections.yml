@@ -1,0 +1,20 @@
+name: Check Subway Connections
+
+# 써브웨이용 키만 점검 (카카오·Google·카카오모빌리티, ODsay는 하루 한도 아끼려고 손으로 돌릴 때만).
+# 운영 컨테이너 안에서 돌린다 → 키는 서버 설정 파일에만 있고 GitHub에는 없다.
+on:
+  schedule:
+    - cron: '17 23 * * *' # 매일 08:17 (서울)
+  workflow_dispatch:
+    inputs:
+      odsay:
+        description: 'ODsay도 확인 (하루 한도 1회 씀)'
+        type: boolean
+        default: false
+
+jobs:
+  check:
+    runs-on: [self-hosted, subway-prod]
+    steps:
+      - name: Check connections inside subway-prod
+        run: docker exec subway-prod node dist/check-connections.mjs ${{ inputs.odsay && '--odsay' || '' }}

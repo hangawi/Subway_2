@@ -1,0 +1,47 @@
+name: Deploy Subway to Production
+
+# sophia-core-01 의 self-hosted runner(라벨 subway-prod)에서 돈다. runner 등록은 예형님(저장소 관리자)이 한다.
+# 순서: 소스를 서버 폴더로 → deploy/deploy.sh (되돌리기 지점 → 만들기(검사·시험) → 띄우기 → 커밋 확인 → SOPHIA 200 확인)
+on:
+  push:
+    branches: [main]
+  workflow_dispatch: {}
+
+concurrency:
+  group: subway-prod-deploy
+  cancel-in-progress: false
+
+env:
+  APP_DIR: /srv/metasolveai/apps/subway/production/app
+
+jobs:
+  deploy:
+    runs-on: [self-hosted, subway-prod]
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Sync source into deploy directory
+        run: |
+          set -e
+          mkdir -p "$APP_DIR"
+          rsync -rlt --no-perms --no-owner --no-group --omit-dir-times --delete \
+            --exclude 'var/' --exclude 'node_modules/' --exclude '.git/' \
+            "$GITHUB_WORKSPACE"/ "$APP_DIR"/
+
+      - name: Build, deploy and verify (rolls back on failure)
+        env:
+          SUBWAY_BUILD_COMMIT: ${{ github.sha }}
+        run: bash "$APP_DIR/deploy/deploy.sh"
+
+      - name: Verify through the domain (after DNS)
+        continue-on-error: true
+        env:
+          EXPECTED_COMMIT: ${{ github.sha }}
+        run: |
+          set -euo pipefail
+          for i in $(seq 1 6); do
+            v=$(curl -fsS https://subway.metasolveai.com/version.json || true)
+            if echo "$v" | grep -q "\"commit\":\"$EXPECTED_COMMIT\""; then echo "도메인 확인: $v"; exit 0; fi
+            sleep 5
+          done
+          echo "도메인으로는 아직 확인 안 됨 (DNS·nginx 확인)"; exit 1

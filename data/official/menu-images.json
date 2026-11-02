@@ -1,0 +1,392 @@
+{
+  "source": {
+    "site": "https://www.subway.co.kr",
+    "retrievedAt": "2026-10-19T01:43:39.196Z"
+  },
+  "images": [
+    {
+      "idx": "1611",
+      "name": "피자썹",
+      "bytes": 14404,
+      "from": "https://www.subway.co.kr/upload/menu/1781152604561_TA6XRx.png"
+    },
+    {
+      "idx": "1514",
+      "name": "안창 비프&머쉬룸",
+      "bytes": 18012,
+      "from": "https://www.subway.co.kr/upload/menu/안창-비프&머쉬룸_20240912031749239.png"
+    },
+    {
+      "idx": "1519",
+      "name": "스테이크 & 치즈",
+      "bytes": 19724,
+      "from": "https://www.subway.co.kr/upload/menu/Steak-&-Cheese_20211231095455613.png"
+    },
+    {
+      "idx": "1528",
+      "name": "이탈리안 비엠티",
+      "bytes": 19154,
+      "from": "https://www.subway.co.kr/upload/menu/Italian_B.M.T_20211231094910899.png"
+    },
+    {
+      "idx": "1406",
+      "name": "로티세리 바비큐 치킨",
+      "bytes": 17504,
+      "from": "https://www.subway.co.kr/upload/menu/Rotisserie-Barbecue-Chicken_20211231023137878.png"
+    },
+    {
+      "idx": "1530",
+      "name": "에그마요",
+      "bytes": 15556,
+      "from": "https://www.subway.co.kr/upload/menu/Egg-Mayo_20211231094817112.png"
+    },
+    {
+      "idx": "1515",
+      "name": "안창 비프",
+      "bytes": 18752,
+      "from": "https://www.subway.co.kr/upload/menu/안창-비프_20240912031758775.png"
+    },
+    {
+      "idx": "1571",
+      "name": "잠봉 플러스",
+      "bytes": 13916,
+      "from": "https://www.subway.co.kr/upload/menu/1775028694110_UEczXJ.png"
+    },
+    {
+      "idx": "1448",
+      "name": "치킨 베이컨 아보카도",
+      "bytes": 17366,
+      "from": "https://www.subway.co.kr/upload/menu/1775029949721_F6B8G2.png"
+    },
+    {
+      "idx": "1518",
+      "name": "스파이시 쉬림프",
+      "bytes": 20200,
+      "from": "https://www.subway.co.kr/upload/menu/Spicy_Shrimp_front_20230703125534663.png"
+    },
+    {
+      "idx": "1520",
+      "name": "쉬림프",
+      "bytes": 16790,
+      "from": "https://www.subway.co.kr/upload/menu/Shrimp_front_20230703123439107.png"
+    },
+    {
+      "idx": "1401",
+      "name": "로스트 치킨",
+      "bytes": 16504,
+      "from": "https://www.subway.co.kr/upload/menu/Roasted-Chicken_20211231095032718.png"
+    },
+    {
+      "idx": "1524",
+      "name": "풀드포크 바비큐",
+      "bytes": 19980,
+      "from": "https://www.subway.co.kr/upload/menu/Pulled-Pork+cheese_20211231095012512.png"
+    },
+    {
+      "idx": "1511",
+      "name": "써브웨이 클럽",
+      "bytes": 19734,
+      "from": "https://www.subway.co.kr/upload/menu/써브웨이 클럽(치킨)_20241107120457089.png"
+    },
+    {
+      "idx": "1521",
+      "name": "치킨 데리야끼",
+      "bytes": 18496,
+      "from": "https://www.subway.co.kr/upload/menu/Chicken-Teriyaki_20211231094803381.png"
+    },
+    {
+      "idx": "1522",
+      "name": "스파이시 이탈리안",
+      "bytes": 21230,
+      "from": "https://www.subway.co.kr/upload/menu/spicy_italian_20211231095435532.png"
+    },
+    {
+      "idx": "1570",
+      "name": "잠봉",
+      "bytes": 13720,
+      "from": "https://www.subway.co.kr/upload/menu/1775028649948_aR4ERo.png"
+    },
+    {
+      "idx": "1529",
+      "name": "비엘티",
+      "bytes": 16642,
+      "from": "https://www.subway.co.kr/upload/menu/B.L.T_20211231094744175.png"
+    },
+    {
+      "idx": "1449",
+      "name": "치킨 슬라이스",
+      "bytes": 16754,
+      "from": "https://www.subway.co.kr/upload/menu/1775029900211_BC6sgL.png"
+    },
+    {
+      "idx": "1526",
+      "name": "머쉬룸",
+      "bytes": 12416,
+      "from": "https://www.subway.co.kr/upload/menu/1757375591323_zQLUtM.png"
+    },
+    {
+      "idx": "1532",
+      "name": "참치",
+      "bytes": 18940,
+      "from": "https://www.subway.co.kr/upload/menu/Tuna_20211231095535268.png"
+    },
+    {
+      "idx": "1403",
+      "name": "베지",
+      "bytes": 15094,
+      "from": "https://www.subway.co.kr/upload/menu/Veggie-Delite_20211231095658375.png"
+    },
+    {
+      "idx": "1585",
+      "name": "스테이크 & 머쉬룸 샐러드",
+      "bytes": 33084,
+      "from": "https://www.subway.co.kr/upload/menu/1780053845700_O4gV5S.png"
+    },
+    {
+      "idx": "1584",
+      "name": "쉬림프 아보카도 샐러드",
+      "bytes": 32546,
+      "from": "https://www.subway.co.kr/upload/menu/1780053990778_UPYE2R.png"
+    },
+    {
+      "idx": "1582",
+      "name": "로티세리 치킨 더블치즈 샐러드",
+      "bytes": 33404,
+      "from": "https://www.subway.co.kr/upload/menu/1780054312268_XvxurJ.png"
+    },
+    {
+      "idx": "1587",
+      "name": "풀드포크 타코 샐러드",
+      "bytes": 33162,
+      "from": "https://www.subway.co.kr/upload/menu/1780245800755_EKmpXa.png"
+    },
+    {
+      "idx": "1589",
+      "name": "스파이시 쉬림프 타코 샐러드",
+      "bytes": 32514,
+      "from": "https://www.subway.co.kr/upload/menu/1780245593336_L9IxX5.png"
+    },
+    {
+      "idx": "1588",
+      "name": "로티세리 치킨 타코 샐러드",
+      "bytes": 31966,
+      "from": "https://www.subway.co.kr/upload/menu/1781526219541_vmWvWu.png"
+    },
+    {
+      "idx": "1583",
+      "name": "로스트 치킨 베이컨 샐러드",
+      "bytes": 31822,
+      "from": "https://www.subway.co.kr/upload/menu/1780054181135_F8I2en.png"
+    },
+    {
+      "idx": "1581",
+      "name": "에그마요 베이컨 샐러드",
+      "bytes": 32628,
+      "from": "https://www.subway.co.kr/upload/menu/1780054419393_n9ZR4X.png"
+    },
+    {
+      "idx": "1580",
+      "name": "참치 아보카도 샐러드",
+      "bytes": 32532,
+      "from": "https://www.subway.co.kr/upload/menu/1780054522284_QUZRYs.png"
+    },
+    {
+      "idx": "1579",
+      "name": "그린 샐러드",
+      "bytes": 31162,
+      "from": "https://www.subway.co.kr/upload/menu/1780054599695_Smoqn0.png"
+    },
+    {
+      "idx": "1473",
+      "name": "미니 로티세리 치킨 샐러드",
+      "bytes": 8912,
+      "from": "https://www.subway.co.kr/upload/menu/미니 로티세리 치킨 샐러드_20240415094842327.png"
+    },
+    {
+      "idx": "1590",
+      "name": "스테이크 & 머쉬룸 그레인 샐러드",
+      "bytes": 33104,
+      "from": "https://www.subway.co.kr/upload/menu/1780247247143_ct1BTq.png"
+    },
+    {
+      "idx": "1591",
+      "name": "쉬림프 아보카도 그레인 샐러드",
+      "bytes": 33120,
+      "from": "https://www.subway.co.kr/upload/menu/1781490060879_VpDzDc.png"
+    },
+    {
+      "idx": "1594",
+      "name": "로티세리 치킨 더블치즈 그레인 샐러드",
+      "bytes": 35604,
+      "from": "https://www.subway.co.kr/upload/menu/1780246803058_9tvYFJ.png"
+    },
+    {
+      "idx": "1599",
+      "name": "풀드포크 타코 그레인 샐러드",
+      "bytes": 33974,
+      "from": "https://www.subway.co.kr/upload/menu/1780247327402_DgoO1R.png"
+    },
+    {
+      "idx": "1597",
+      "name": "스파이시 쉬림프 타코 그레인 샐러드",
+      "bytes": 34676,
+      "from": "https://www.subway.co.kr/upload/menu/1780247474536_coGrkI.png"
+    },
+    {
+      "idx": "1598",
+      "name": "로티세리 치킨 타코 그레인 샐러드",
+      "bytes": 33808,
+      "from": "https://www.subway.co.kr/upload/menu/1780247409860_8i3Db9.png"
+    },
+    {
+      "idx": "1593",
+      "name": "로스트 치킨 베이컨 그레인 샐러드",
+      "bytes": 34258,
+      "from": "https://www.subway.co.kr/upload/menu/1780246887800_yVSmx5.png"
+    },
+    {
+      "idx": "1592",
+      "name": "에그마요 베이컨 그레인 샐러드",
+      "bytes": 33074,
+      "from": "https://www.subway.co.kr/upload/menu/1780246974321_HcYRnL.png"
+    },
+    {
+      "idx": "1595",
+      "name": "참치 아보카도 그레인 샐러드",
+      "bytes": 33370,
+      "from": "https://www.subway.co.kr/upload/menu/1780246705509_nO9R10.png"
+    },
+    {
+      "idx": "1596",
+      "name": "그린 그레인 샐러드",
+      "bytes": 32992,
+      "from": "https://www.subway.co.kr/upload/menu/1780246369197_6hSKF4.png"
+    },
+    {
+      "idx": "1339",
+      "name": "잠봉, 에그&치즈",
+      "bytes": 14486,
+      "from": "https://www.subway.co.kr/upload/menu/햄, 에그&치즈 단품_20220407064307837.png"
+    },
+    {
+      "idx": "1340",
+      "name": "웨스턴, 에그 & 치즈",
+      "bytes": 14666,
+      "from": "https://www.subway.co.kr/upload/menu/웨스턴, 에그 & 치즈 단품_20220407064319864.png"
+    },
+    {
+      "idx": "1335",
+      "name": "잠봉, 에그 & 치즈 랩",
+      "bytes": 10504,
+      "from": "https://www.subway.co.kr/upload/menu/ham_egg_n_cheese_wrap_20210315010301754.png"
+    },
+    {
+      "idx": "1336",
+      "name": "웨스턴, 에그 & 치즈 랩",
+      "bytes": 10814,
+      "from": "https://www.subway.co.kr/upload/menu/western_egg_n_cheese_wrap_20210315125949618.png"
+    },
+    {
+      "idx": "1342",
+      "name": "스테이크 & 치즈 아보카도 랩",
+      "bytes": 9938,
+      "from": "https://www.subway.co.kr/upload/menu/steak_n_cheese_avocado_wrap_20210315105638140.jpg"
+    },
+    {
+      "idx": "1382",
+      "name": "쉬림프 에그마요 랩",
+      "bytes": 8816,
+      "from": "https://www.subway.co.kr/upload/menu/shrimp_egg_mayo_wrap_20210315105650669.jpg"
+    },
+    {
+      "idx": "1381",
+      "name": "치킨 베이컨 미니 랩",
+      "bytes": 9536,
+      "from": "https://www.subway.co.kr/upload/menu/chicken_bacon_mini_wrap_20210315105919945.jpg"
+    },
+    {
+      "idx": "1565",
+      "name": "포테이토 베이컨 수프",
+      "bytes": 9656,
+      "from": "https://www.subway.co.kr/upload/menu/1763518099882_7YKwTk.png"
+    },
+    {
+      "idx": "1465",
+      "name": "콘 수프",
+      "bytes": 9194,
+      "from": "https://www.subway.co.kr/upload/menu/corn-soup_20231204124355500.png"
+    },
+    {
+      "idx": "1317",
+      "name": "머쉬룸 수프",
+      "bytes": 9794,
+      "from": "https://www.subway.co.kr/upload/menu/Mushroom-soup_20231204012446176.png"
+    },
+    {
+      "idx": "1308",
+      "name": "초코칩",
+      "bytes": 20808,
+      "from": "https://www.subway.co.kr/upload/menu/chocolate_chip_20210315021446423.jpg"
+    },
+    {
+      "idx": "1307",
+      "name": "더블 초코칩",
+      "bytes": 24920,
+      "from": "https://www.subway.co.kr/upload/menu/double_chocolate_chip_20210315021500386.jpg"
+    },
+    {
+      "idx": "1309",
+      "name": "오트밀 레이즌",
+      "bytes": 29594,
+      "from": "https://www.subway.co.kr/upload/menu/oatmeal_rasin_20210315021428482.jpg"
+    },
+    {
+      "idx": "1310",
+      "name": "라즈베리 치즈케익",
+      "bytes": 19508,
+      "from": "https://www.subway.co.kr/upload/menu/raspberry_cheese_cake_20210315021413854.jpg"
+    },
+    {
+      "idx": "1311",
+      "name": "화이트 초코 마카다미아",
+      "bytes": 25562,
+      "from": "https://www.subway.co.kr/upload/menu/white_choco_macadamia_20210315021402115.jpg"
+    },
+    {
+      "idx": "1321",
+      "name": "웨지 포테이토",
+      "bytes": 10980,
+      "from": "https://www.subway.co.kr/upload/menu/웨지포테이토_20220916104739353.jpg"
+    },
+    {
+      "idx": "1322",
+      "name": "Cheesy 웨지 포테이토",
+      "bytes": 9352,
+      "from": "https://www.subway.co.kr/upload/menu/치지웨지포테이토_20220916104711296.jpg"
+    },
+    {
+      "idx": "1323",
+      "name": "Bacon Cheesy 웨지 포테이토",
+      "bytes": 13258,
+      "from": "https://www.subway.co.kr/upload/menu/베이컨치지웨지포테이토_20220916104811767.jpg"
+    },
+    {
+      "idx": "1312",
+      "name": "칩",
+      "bytes": 11796,
+      "from": "https://www.subway.co.kr/upload/menu/chips_20210315021347952.jpg"
+    },
+    {
+      "idx": "1313",
+      "name": "탄산음료",
+      "bytes": 8610,
+      "from": "https://www.subway.co.kr/upload/menu/음료_20220706095155463.png"
+    },
+    {
+      "idx": "1314",
+      "name": "커피",
+      "bytes": 6578,
+      "from": "https://www.subway.co.kr/upload/menu/새 프로젝트_20220706094947135.png"
+    }
+  ]
+}

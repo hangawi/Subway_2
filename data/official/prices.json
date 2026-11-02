@@ -1,0 +1,708 @@
+{
+  "source": {
+    "api": "https://api.subway.co.kr",
+    "query": "storCd=00001&orderType=T&preMenuYn=Y",
+    "retrievedAt": "2026-10-19T08:32:31.571Z"
+  },
+  "menus": [
+    {
+      "category": "샌드위치",
+      "menuIdx": 300,
+      "name": "램 & 후무스",
+      "price15cm": 11900,
+      "price30cm": 22400,
+      "priceOne": null
+    },
+    {
+      "category": "샌드위치",
+      "menuIdx": 301,
+      "name": "램",
+      "price15cm": 13900,
+      "price30cm": 26200,
+      "priceOne": null
+    },
+    {
+      "category": "샌드위치",
+      "menuIdx": 42,
+      "name": "안창 비프&머쉬룸",
+      "price15cm": 9200,
+      "price30cm": 17400,
+      "priceOne": null
+    },
+    {
+      "category": "샌드위치",
+      "menuIdx": 46,
+      "name": "스테이크 & 치즈",
+      "price15cm": 8800,
+      "price30cm": 16600,
+      "priceOne": null
+    },
+    {
+      "category": "샌드위치",
+      "menuIdx": 45,
+      "name": "이탈리안 비엠티",
+      "price15cm": 7500,
+      "price30cm": 14200,
+      "priceOne": null
+    },
+    {
+      "category": "샌드위치",
+      "menuIdx": 44,
+      "name": "로티세리 바비큐 치킨",
+      "price15cm": 8000,
+      "price30cm": 15100,
+      "priceOne": null
+    },
+    {
+      "category": "샌드위치",
+      "menuIdx": 41,
+      "name": "안창 비프",
+      "price15cm": 11100,
+      "price30cm": 20900,
+      "priceOne": null
+    },
+    {
+      "category": "샌드위치",
+      "menuIdx": 43,
+      "name": "에그마요",
+      "price15cm": 6200,
+      "price30cm": 11800,
+      "priceOne": null
+    },
+    {
+      "category": "샌드위치",
+      "menuIdx": 220,
+      "name": "피자썹",
+      "price15cm": 4300,
+      "price30cm": null,
+      "priceOne": null
+    },
+    {
+      "category": "샌드위치",
+      "menuIdx": 235,
+      "name": "잠봉 플러스",
+      "price15cm": 8900,
+      "price30cm": 16800,
+      "priceOne": null
+    },
+    {
+      "category": "샌드위치",
+      "menuIdx": 239,
+      "name": "치킨 베이컨 아보카도",
+      "price15cm": 8500,
+      "price30cm": 16100,
+      "priceOne": null
+    },
+    {
+      "category": "샌드위치",
+      "menuIdx": 40,
+      "name": "스파이시 쉬림프",
+      "price15cm": 8400,
+      "price30cm": 15900,
+      "priceOne": null
+    },
+    {
+      "category": "샌드위치",
+      "menuIdx": 39,
+      "name": "쉬림프",
+      "price15cm": 8200,
+      "price30cm": 15500,
+      "priceOne": null
+    },
+    {
+      "category": "샌드위치",
+      "menuIdx": 38,
+      "name": "로스트 치킨",
+      "price15cm": 8000,
+      "price30cm": 15100,
+      "priceOne": null
+    },
+    {
+      "category": "샌드위치",
+      "menuIdx": 37,
+      "name": "풀드포크",
+      "price15cm": 7900,
+      "price30cm": 14900,
+      "priceOne": null
+    },
+    {
+      "category": "샌드위치",
+      "menuIdx": 36,
+      "name": "써브웨이 클럽",
+      "price15cm": 7800,
+      "price30cm": 14700,
+      "priceOne": null
+    },
+    {
+      "category": "샌드위치",
+      "menuIdx": 35,
+      "name": "치킨 데리야끼",
+      "price15cm": 7600,
+      "price30cm": 14400,
+      "priceOne": null
+    },
+    {
+      "category": "샌드위치",
+      "menuIdx": 34,
+      "name": "스파이시 이탈리안",
+      "price15cm": 7500,
+      "price30cm": 14200,
+      "priceOne": null
+    },
+    {
+      "category": "샌드위치",
+      "menuIdx": 234,
+      "name": "잠봉",
+      "price15cm": 7400,
+      "price30cm": 14100,
+      "priceOne": null
+    },
+    {
+      "category": "샌드위치",
+      "menuIdx": 33,
+      "name": "비엘티",
+      "price15cm": 7300,
+      "price30cm": 13800,
+      "priceOne": null
+    },
+    {
+      "category": "샌드위치",
+      "menuIdx": 238,
+      "name": "치킨 슬라이스",
+      "price15cm": 6600,
+      "price30cm": 12500,
+      "priceOne": null
+    },
+    {
+      "category": "샌드위치",
+      "menuIdx": 32,
+      "name": "머쉬룸",
+      "price15cm": 6600,
+      "price30cm": 12500,
+      "priceOne": null
+    },
+    {
+      "category": "샌드위치",
+      "menuIdx": 31,
+      "name": "참치",
+      "price15cm": 6400,
+      "price30cm": 12100,
+      "priceOne": null
+    },
+    {
+      "category": "샌드위치",
+      "menuIdx": 19,
+      "name": "베지",
+      "price15cm": 5200,
+      "price30cm": 9900,
+      "priceOne": null
+    },
+    {
+      "category": "샐러드",
+      "menuIdx": 266,
+      "name": "스테이크 & 머쉬룸 샐러드",
+      "price15cm": null,
+      "price30cm": null,
+      "priceOne": 13700
+    },
+    {
+      "category": "샐러드",
+      "menuIdx": 267,
+      "name": "쉬림프 아보카도 샐러드",
+      "price15cm": null,
+      "price30cm": null,
+      "priceOne": 12900
+    },
+    {
+      "category": "샐러드",
+      "menuIdx": 269,
+      "name": "로티세리 치킨 더블치즈 샐러드",
+      "price15cm": null,
+      "price30cm": null,
+      "priceOne": 11200
+    },
+    {
+      "category": "샐러드",
+      "menuIdx": 274,
+      "name": "풀드포크 타코 샐러드",
+      "price15cm": null,
+      "price30cm": null,
+      "priceOne": 11900
+    },
+    {
+      "category": "샐러드",
+      "menuIdx": 273,
+      "name": "스파이시 쉬림프 타코 샐러드",
+      "price15cm": null,
+      "price30cm": null,
+      "priceOne": 13200
+    },
+    {
+      "category": "샐러드",
+      "menuIdx": 272,
+      "name": "로티세리 치킨 타코 샐러드",
+      "price15cm": null,
+      "price30cm": null,
+      "priceOne": 12500
+    },
+    {
+      "category": "샐러드",
+      "menuIdx": 268,
+      "name": "로스트 치킨 베이컨 샐러드",
+      "price15cm": null,
+      "price30cm": null,
+      "priceOne": 11200
+    },
+    {
+      "category": "샐러드",
+      "menuIdx": 270,
+      "name": "에그마요 베이컨 샐러드",
+      "price15cm": null,
+      "price30cm": null,
+      "priceOne": 10400
+    },
+    {
+      "category": "샐러드",
+      "menuIdx": 271,
+      "name": "참치 아보카도 샐러드",
+      "price15cm": null,
+      "price30cm": null,
+      "priceOne": 9800
+    },
+    {
+      "category": "샐러드",
+      "menuIdx": 265,
+      "name": "그린 샐러드",
+      "price15cm": null,
+      "price30cm": null,
+      "priceOne": 7400
+    },
+    {
+      "category": "샐러드",
+      "menuIdx": 53,
+      "name": "미니 로티세리 치킨 샐러드",
+      "price15cm": null,
+      "price30cm": null,
+      "priceOne": 2900
+    },
+    {
+      "category": "랩.기타",
+      "menuIdx": 52,
+      "name": "치킨 베이컨 미니 랩",
+      "price15cm": null,
+      "price30cm": null,
+      "priceOne": 3900
+    },
+    {
+      "category": "랩.기타",
+      "menuIdx": 51,
+      "name": "쉬림프 에그마요 랩",
+      "price15cm": null,
+      "price30cm": null,
+      "priceOne": 6700
+    },
+    {
+      "category": "랩.기타",
+      "menuIdx": 50,
+      "name": "스테이크 & 치즈 아보카도 랩",
+      "price15cm": null,
+      "price30cm": null,
+      "priceOne": 7100
+    },
+    {
+      "category": "사이드.음료",
+      "menuIdx": 17,
+      "name": "탄산음료 16oz",
+      "price15cm": null,
+      "price30cm": null,
+      "priceOne": 2100
+    },
+    {
+      "category": "사이드.음료",
+      "menuIdx": 16,
+      "name": "아메리카노",
+      "price15cm": null,
+      "price30cm": null,
+      "priceOne": 2900
+    },
+    {
+      "category": "사이드.음료",
+      "menuIdx": 15,
+      "name": "아이스 아메리카노",
+      "price15cm": null,
+      "price30cm": null,
+      "priceOne": 2900
+    },
+    {
+      "category": "사이드.음료",
+      "menuIdx": 304,
+      "name": "코카콜라 제로 레몬라임 (350ml)",
+      "price15cm": null,
+      "price30cm": null,
+      "priceOne": 2200
+    },
+    {
+      "category": "사이드.음료",
+      "menuIdx": 201,
+      "name": "오늘의 수프(레귤러), 꼬마빵",
+      "price15cm": null,
+      "price30cm": null,
+      "priceOne": 5300
+    },
+    {
+      "category": "사이드.음료",
+      "menuIdx": 200,
+      "name": "오늘의 수프(하프), 꼬마빵",
+      "price15cm": null,
+      "price30cm": null,
+      "priceOne": 3700
+    },
+    {
+      "category": "사이드.음료",
+      "menuIdx": 5,
+      "name": "오늘의 수프 (레귤러)",
+      "price15cm": null,
+      "price30cm": null,
+      "priceOne": 4100
+    },
+    {
+      "category": "사이드.음료",
+      "menuIdx": 4,
+      "name": "오늘의 수프 (하프)",
+      "price15cm": null,
+      "price30cm": null,
+      "priceOne": 2500
+    },
+    {
+      "category": "사이드.음료",
+      "menuIdx": 27,
+      "name": "초코칩 쿠키",
+      "price15cm": null,
+      "price30cm": null,
+      "priceOne": 1600
+    },
+    {
+      "category": "사이드.음료",
+      "menuIdx": 26,
+      "name": "더블 초코칩 쿠키",
+      "price15cm": null,
+      "price30cm": null,
+      "priceOne": 1600
+    },
+    {
+      "category": "사이드.음료",
+      "menuIdx": 25,
+      "name": "오트밀 레이즌 쿠키",
+      "price15cm": null,
+      "price30cm": null,
+      "priceOne": 1600
+    },
+    {
+      "category": "사이드.음료",
+      "menuIdx": 24,
+      "name": "라즈베리 치즈케익 쿠키",
+      "price15cm": null,
+      "price30cm": null,
+      "priceOne": 1600
+    },
+    {
+      "category": "사이드.음료",
+      "menuIdx": 23,
+      "name": "화이트 초코 마카다미아 쿠키",
+      "price15cm": null,
+      "price30cm": null,
+      "priceOne": 1600
+    },
+    {
+      "category": "사이드.음료",
+      "menuIdx": 21,
+      "name": "쿠키박스 (12개입)",
+      "price15cm": null,
+      "price30cm": null,
+      "priceOne": 17700
+    },
+    {
+      "category": "사이드.음료",
+      "menuIdx": 20,
+      "name": "쿠키팩 (6개입)",
+      "price15cm": null,
+      "price30cm": null,
+      "priceOne": 8900
+    },
+    {
+      "category": "사이드.음료",
+      "menuIdx": 22,
+      "name": "쿠키 3개",
+      "price15cm": null,
+      "price30cm": null,
+      "priceOne": 4600
+    },
+    {
+      "category": "사이드.음료",
+      "menuIdx": 18,
+      "name": "칩 (랜덤발송)",
+      "price15cm": null,
+      "price30cm": null,
+      "priceOne": 1600
+    },
+    {
+      "category": "사이드.음료",
+      "menuIdx": 14,
+      "name": "코카콜라 (355ml)",
+      "price15cm": null,
+      "price30cm": null,
+      "priceOne": 2200
+    },
+    {
+      "category": "사이드.음료",
+      "menuIdx": 13,
+      "name": "스프라이트 (355ml)",
+      "price15cm": null,
+      "price30cm": null,
+      "priceOne": 2200
+    },
+    {
+      "category": "사이드.음료",
+      "menuIdx": 12,
+      "name": "코카콜라 제로 (355ml)",
+      "price15cm": null,
+      "price30cm": null,
+      "priceOne": 2200
+    },
+    {
+      "category": "사이드.음료",
+      "menuIdx": 11,
+      "name": "스프라이트 제로 (355ml)",
+      "price15cm": null,
+      "price30cm": null,
+      "priceOne": 2200
+    },
+    {
+      "category": "사이드.음료",
+      "menuIdx": 10,
+      "name": "닥터페퍼 (355ml)",
+      "price15cm": null,
+      "price30cm": null,
+      "priceOne": 2200
+    },
+    {
+      "category": "사이드.음료",
+      "menuIdx": 9,
+      "name": "씨그램",
+      "price15cm": null,
+      "price30cm": null,
+      "priceOne": 2200
+    },
+    {
+      "category": "사이드.음료",
+      "menuIdx": 8,
+      "name": "미닛메이드",
+      "price15cm": null,
+      "price30cm": null,
+      "priceOne": 3100
+    },
+    {
+      "category": "사이드.음료",
+      "menuIdx": 7,
+      "name": "토레타",
+      "price15cm": null,
+      "price30cm": null,
+      "priceOne": 2400
+    },
+    {
+      "category": "사이드.음료",
+      "menuIdx": 6,
+      "name": "생수",
+      "price15cm": null,
+      "price30cm": null,
+      "priceOne": 1100
+    },
+    {
+      "category": "사이드.음료",
+      "menuIdx": 139,
+      "name": "바리스타룰스 아메리카노",
+      "price15cm": null,
+      "price30cm": null,
+      "priceOne": 2500
+    },
+    {
+      "category": "사이드.음료",
+      "menuIdx": 140,
+      "name": "바리스타룰스 저당 라떼(350ml)",
+      "price15cm": null,
+      "price30cm": null,
+      "priceOne": 3300
+    },
+    {
+      "category": "사이드.음료",
+      "menuIdx": 189,
+      "name": "셀렉스 프로핏 초콜릿(330ml)",
+      "price15cm": null,
+      "price30cm": null,
+      "priceOne": 3500
+    },
+    {
+      "category": "사이드.음료",
+      "menuIdx": 2,
+      "name": "웨지 포테이토",
+      "price15cm": null,
+      "price30cm": null,
+      "priceOne": 2100
+    },
+    {
+      "category": "사이드.음료",
+      "menuIdx": 3,
+      "name": "Cheesy 웨지 포테이토",
+      "price15cm": null,
+      "price30cm": null,
+      "priceOne": 2600
+    },
+    {
+      "category": "사이드.음료",
+      "menuIdx": 1,
+      "name": "Bacon Cheesy 웨지 포테이토",
+      "price15cm": null,
+      "price30cm": null,
+      "priceOne": 3000
+    },
+    {
+      "category": "아침메뉴",
+      "menuIdx": 132,
+      "name": "웨스턴 에그&치즈",
+      "price15cm": null,
+      "price30cm": null,
+      "priceOne": null
+    },
+    {
+      "category": "아침메뉴",
+      "menuIdx": 133,
+      "name": "잠봉, 에그 & 치즈",
+      "price15cm": null,
+      "price30cm": null,
+      "priceOne": null
+    },
+    {
+      "category": "아침메뉴",
+      "menuIdx": 134,
+      "name": "웨스턴, 에그 &치즈 랩",
+      "price15cm": null,
+      "price30cm": null,
+      "priceOne": null
+    },
+    {
+      "category": "아침메뉴",
+      "menuIdx": 135,
+      "name": "잠봉, 에그 & 치즈 랩",
+      "price15cm": null,
+      "price30cm": null,
+      "priceOne": null
+    },
+    {
+      "category": "그레인 샐러드",
+      "menuIdx": 257,
+      "name": "스테이크 & 머쉬룸 그레인 샐러드",
+      "price15cm": null,
+      "price30cm": null,
+      "priceOne": 14900
+    },
+    {
+      "category": "그레인 샐러드",
+      "menuIdx": 261,
+      "name": "쉬림프 아보카도 그레인 샐러드",
+      "price15cm": null,
+      "price30cm": null,
+      "priceOne": 14100
+    },
+    {
+      "category": "그레인 샐러드",
+      "menuIdx": 259,
+      "name": "로티세리 치킨 더블치즈 그레인 샐러드",
+      "price15cm": null,
+      "price30cm": null,
+      "priceOne": 12400
+    },
+    {
+      "category": "그레인 샐러드",
+      "menuIdx": 264,
+      "name": "풀드포크 타코 그레인 샐러드",
+      "price15cm": null,
+      "price30cm": null,
+      "priceOne": 13100
+    },
+    {
+      "category": "그레인 샐러드",
+      "menuIdx": 263,
+      "name": "스파이시 쉬림프 타코 그레인 샐러드",
+      "price15cm": null,
+      "price30cm": null,
+      "priceOne": 14400
+    },
+    {
+      "category": "그레인 샐러드",
+      "menuIdx": 262,
+      "name": "로티세리 치킨 타코 그레인 샐러드",
+      "price15cm": null,
+      "price30cm": null,
+      "priceOne": 13700
+    },
+    {
+      "category": "그레인 샐러드",
+      "menuIdx": 260,
+      "name": "로스트 치킨 베이컨 그레인 샐러드",
+      "price15cm": null,
+      "price30cm": null,
+      "priceOne": 12400
+    },
+    {
+      "category": "그레인 샐러드",
+      "menuIdx": 258,
+      "name": "에그마요 베이컨 그레인 샐러드",
+      "price15cm": null,
+      "price30cm": null,
+      "priceOne": 11600
+    },
+    {
+      "category": "그레인 샐러드",
+      "menuIdx": 256,
+      "name": "참치 아보카도 그레인 샐러드",
+      "price15cm": null,
+      "price30cm": null,
+      "priceOne": 11000
+    },
+    {
+      "category": "그레인 샐러드",
+      "menuIdx": 255,
+      "name": "그린 그레인 샐러드",
+      "price15cm": null,
+      "price30cm": null,
+      "priceOne": 8600
+    }
+  ],
+  "sets": [
+    {
+      "name": "음료 콤보",
+      "item": "음료 콤보",
+      "addPrice": 1500
+    },
+    {
+      "name": "쿠키 음료 세트",
+      "item": "쿠키+음료(16oz)",
+      "addPrice": 3000
+    },
+    {
+      "name": "웨지 음료 세트",
+      "item": "웨지+음료(16oz)",
+      "addPrice": 3500
+    },
+    {
+      "name": "칩 음료 세트",
+      "item": "칩+음료(16oz)",
+      "addPrice": 3000
+    },
+    {
+      "name": "수프 음료 세트",
+      "item": "오늘의 수프(하프)+음료(16oz)",
+      "addPrice": 3900
+    }
+  ]
+}

@@ -1,0 +1,1829 @@
+{
+  "source": {
+    "site": "https://www.subway.co.kr",
+    "retrievedAt": "2026-10-08T01:51:25.902Z"
+  },
+  "menus": [
+    {
+      "page": "sandwich",
+      "category": "SANDWICH.NEW",
+      "menuItemIdx": "1613",
+      "name": "로스트 치킨 아보카도",
+      "nameEn": "Roasted Chicken Avocado",
+      "summary": "오븐에 구운 촉촉한 닭가슴살에 부드러운 아보카도를 더해, 맛과 영양을 모두 잡은 든든한 메뉴",
+      "nutrition": {
+        "weightG": 267,
+        "energyKcal": 356,
+        "proteinG": 26.6,
+        "saturatedFatG": 2.1,
+        "sugarG": 9,
+        "sodiumMg": 694,
+        "raw": [
+          "267",
+          "356",
+          "26.6(48%)",
+          "2.1(14%)",
+          "9",
+          "694(35%)"
+        ]
+      }
+    },
+    {
+      "page": "sandwich",
+      "category": "SANDWICH.NEW",
+      "menuItemIdx": "1612",
+      "name": "아기맹새우",
+      "nameEn": "Little Tiger's Shrimp",
+      "summary": "아기맹수 스페셜! 쉬림프 7마리(담백4+매콤3)와 부드러운 아보카도, 고소상큼 소스의 맹렬한 조합! (고정레시피 제품입니다)",
+      "nutrition": {
+        "weightG": 301,
+        "energyKcal": 511,
+        "proteinG": 22,
+        "saturatedFatG": 6.4,
+        "sugarG": 10.5,
+        "sodiumMg": 1028,
+        "raw": [
+          "301",
+          "511",
+          "22(40%)",
+          "6.4(43%)",
+          "10.5",
+          "1028(51%)"
+        ]
+      }
+    },
+    {
+      "page": "sandwich",
+      "category": "SANDWICH.NEW",
+      "menuItemIdx": "1611",
+      "name": "피자썹",
+      "nameEn": "Pizza Sub",
+      "summary": "토마토살사에 모차렐라치즈가 듬뿍, 간편하고 맛있게 즐기는 피자썹 (고정레시피 제품입니다)",
+      "nutrition": {
+        "weightG": 205,
+        "energyKcal": 551,
+        "proteinG": 22.9,
+        "saturatedFatG": 9.5,
+        "sugarG": 5.9,
+        "sodiumMg": 1183,
+        "raw": [
+          "205",
+          "551",
+          "22.9(42%)",
+          "9.5(63%)",
+          "5.9",
+          "1183(59%)"
+        ]
+      }
+    },
+    {
+      "page": "sandwich",
+      "category": "SANDWICH.PREMIUM",
+      "menuItemIdx": "1514",
+      "name": "안창 비프&머쉬룸",
+      "nameEn": "Beef & Mushroom",
+      "summary": "부드럽고 풍미 넘치는 안창살과 담백하고 건강한 머쉬룸이 함께 어우러져 이루는 맛있는 조합의 샌드위치",
+      "nutrition": {
+        "weightG": 235,
+        "energyKcal": 292,
+        "proteinG": 16.5,
+        "saturatedFatG": 2.5,
+        "sugarG": 8,
+        "sodiumMg": 598,
+        "raw": [
+          "안창비프&머쉬룸(F):235g",
+          "292",
+          "16.5(30%)",
+          "2.5(16%)",
+          "8",
+          "598(30%)"
+        ]
+      }
+    },
+    {
+      "page": "sandwich",
+      "category": "SANDWICH.PREMIUM",
+      "menuItemIdx": "1519",
+      "name": "스테이크 & 치즈",
+      "nameEn": "Steak & Cheese",
+      "summary": "육즙이 쫙~풍부한 비프 스테이크의 풍미가 입안 한가득",
+      "nutrition": {
+        "weightG": 245,
+        "energyKcal": 355,
+        "proteinG": 28.1,
+        "saturatedFatG": 4.2,
+        "sugarG": 8.8,
+        "sodiumMg": 780,
+        "raw": [
+          "245",
+          "355",
+          "28.1 (51%)",
+          "4.2 (28%)",
+          "8.8 (9%)",
+          "780 (39%)"
+        ]
+      }
+    },
+    {
+      "page": "sandwich",
+      "category": "SANDWICH.CLASSIC",
+      "menuItemIdx": "1528",
+      "name": "이탈리안 비엠티",
+      "nameEn": "Italian B.M.T.™",
+      "summary": "페퍼로니, 살라미 그리고 햄이 만들어내는 최상의 조화 전세계가 사랑하는 써브웨이의 베스트셀러 Biggest Meatiest Tastiest, its’ B.M.T.",
+      "nutrition": {
+        "weightG": 228,
+        "energyKcal": 388,
+        "proteinG": 21,
+        "saturatedFatG": 5.9,
+        "sugarG": 8.6,
+        "sodiumMg": 1064,
+        "raw": [
+          "228",
+          "388",
+          "21 (38%)",
+          "5.9 (39%)",
+          "8.6 (9%)",
+          "1064 (53%)"
+        ]
+      }
+    },
+    {
+      "page": "sandwich",
+      "category": "SANDWICH.FLASH",
+      "menuItemIdx": "1406",
+      "name": "로티세리 바비큐 치킨",
+      "nameEn": "Rotisserie Barbecue Chicken",
+      "summary": "촉촉한 바비큐 치킨의 풍미가득. 손으로 찢어 더욱 부드러운 치킨의 혁명",
+      "nutrition": {
+        "weightG": 249,
+        "energyKcal": 327,
+        "proteinG": 29.1,
+        "saturatedFatG": 2.5,
+        "sugarG": 7.8,
+        "sodiumMg": 542,
+        "raw": [
+          "249",
+          "327",
+          "29.1 (53%)",
+          "2.5 (17%)",
+          "7.8 (8%)",
+          "542 (27%)"
+        ]
+      }
+    },
+    {
+      "page": "sandwich",
+      "category": "SANDWICH.CLASSIC",
+      "menuItemIdx": "1530",
+      "name": "에그마요",
+      "nameEn": "Egg Mayo",
+      "summary": "부드러운 달걀과 고소한 마요네즈가 만나 더 부드러운 스테디셀러",
+      "nutrition": {
+        "weightG": 238,
+        "energyKcal": 416,
+        "proteinG": 16.4,
+        "saturatedFatG": 4.8,
+        "sugarG": 7.7,
+        "sodiumMg": 554,
+        "raw": [
+          "238",
+          "416",
+          "16.4 (30%)",
+          "4.8 (32%)",
+          "7.7 (8%)",
+          "554 (28%)"
+        ]
+      }
+    },
+    {
+      "page": "sandwich",
+      "category": "SANDWICH.PREMIUM",
+      "menuItemIdx": "1515",
+      "name": "안창 비프",
+      "nameEn": "Beef",
+      "summary": "안창살을 써브웨의만의 이국적인 특제 시즈닝을 더해 더 부드럽고, 더 풍미있게 즐기는 프리미엄 샌드위치",
+      "nutrition": {
+        "weightG": 235,
+        "energyKcal": 342,
+        "proteinG": 21.6,
+        "saturatedFatG": 4.3,
+        "sugarG": 8.3,
+        "sodiumMg": 830,
+        "raw": [
+          "235",
+          "342",
+          "21.6(39%)",
+          "4.3(29%)",
+          "8.3",
+          "830(42%)"
+        ]
+      }
+    },
+    {
+      "page": "sandwich",
+      "category": "SANDWICH.NEW",
+      "menuItemIdx": "1571",
+      "name": "잠봉 플러스",
+      "nameEn": "Jambon Plus",
+      "summary": "깊게 번지는 잠봉의 풍미를 더욱 풍성하게 느껴보세요.",
+      "nutrition": {
+        "weightG": 251,
+        "energyKcal": 475,
+        "proteinG": 24.3,
+        "saturatedFatG": 7.3,
+        "sugarG": 6.4,
+        "sodiumMg": 828,
+        "raw": [
+          "251",
+          "475",
+          "24.3(44%)",
+          "7.3(48%)",
+          "6.4",
+          "828(41%)"
+        ]
+      }
+    },
+    {
+      "page": "sandwich",
+      "category": "SANDWICH.FLASH",
+      "menuItemIdx": "1448",
+      "name": "치킨 베이컨 아보카도",
+      "nameEn": "Chicken Bacon Avocado",
+      "summary": "담백한 치킨 슬라이스에 고소한 베이컨과 아보카도까지 건강하고 든든하게",
+      "nutrition": {
+        "weightG": 246,
+        "energyKcal": 355,
+        "proteinG": 20.2,
+        "saturatedFatG": 3.2,
+        "sugarG": 9,
+        "sodiumMg": 940,
+        "raw": [
+          "246",
+          "355",
+          "20.2 (36%)",
+          "3.2 (21%)",
+          "9.0 (9%)",
+          "940 (47%)"
+        ]
+      }
+    },
+    {
+      "page": "sandwich",
+      "category": "SANDWICH.PREMIUM",
+      "menuItemIdx": "1518",
+      "name": "스파이시 쉬림프",
+      "nameEn": "Spicy Shrimp",
+      "summary": "탱글한 쉬림프에 이국적인 시즈닝을 더해 색다른 매콤함을 만나보세요!",
+      "nutrition": {
+        "weightG": 213,
+        "energyKcal": 245,
+        "proteinG": 16.5,
+        "saturatedFatG": 0.9,
+        "sugarG": 9.1,
+        "sodiumMg": 570,
+        "raw": [
+          "213",
+          "245",
+          "16.5 (30%)",
+          "0.9 (6%)",
+          "9.1 (9%)",
+          "570 (29%)"
+        ]
+      }
+    },
+    {
+      "page": "sandwich",
+      "category": "SANDWICH.PREMIUM",
+      "menuItemIdx": "1520",
+      "name": "쉬림프",
+      "nameEn": "Shrimp",
+      "summary": "탱글한 쉬림프 5마리가 그대로, 신선하고 담백한 쉬림프의 맛 그대로 즐겨보세요!",
+      "nutrition": {
+        "weightG": 209,
+        "energyKcal": 241,
+        "proteinG": 16.3,
+        "saturatedFatG": 0.6,
+        "sugarG": 7.9,
+        "sodiumMg": 415,
+        "raw": [
+          "209",
+          "241",
+          "16.3 (30%)",
+          "0.6 (4%)",
+          "7.9 (8%)",
+          "415 (21%)"
+        ]
+      }
+    },
+    {
+      "page": "sandwich",
+      "category": "SANDWICH.FLASH",
+      "menuItemIdx": "1401",
+      "name": "로스트 치킨",
+      "nameEn": "Roasted Chicken",
+      "summary": "오븐에 구워 담백한 저칼로리 닭가슴살의 건강한 풍미",
+      "nutrition": {
+        "weightG": 237,
+        "energyKcal": 300,
+        "proteinG": 26,
+        "saturatedFatG": 1.3,
+        "sugarG": 8.7,
+        "sodiumMg": 605,
+        "raw": [
+          "237",
+          "300",
+          "26 (47%)",
+          "1.3 (9%)",
+          "8.7 (9%)",
+          "605 (30%)"
+        ]
+      }
+    },
+    {
+      "page": "sandwich",
+      "category": "SANDWICH.PREMIUM",
+      "menuItemIdx": "1524",
+      "name": "풀드포크 바비큐",
+      "nameEn": "Pulled Pork Barbecue",
+      "summary": "미국 스타일의 풀드 포크 바비큐가 가득 들어간 샌드위치",
+      "nutrition": {
+        "weightG": 235,
+        "energyKcal": 327,
+        "proteinG": 24.8,
+        "saturatedFatG": 2.1,
+        "sugarG": 7.8,
+        "sodiumMg": 689,
+        "raw": [
+          "235",
+          "327",
+          "24.8 (45%)",
+          "2.1 (14%)",
+          "7.8 (8%)",
+          "689 (34%)"
+        ]
+      }
+    },
+    {
+      "page": "sandwich",
+      "category": "SANDWICH.PREMIUM",
+      "menuItemIdx": "1511",
+      "name": "써브웨이 클럽",
+      "nameEn": "Subway Club",
+      "summary": "고소한 베이컨, 담백한 터키에 햄까지 더해 완벽해진 조화를 즐겨보세요.",
+      "nutrition": {
+        "weightG": 216,
+        "energyKcal": 299,
+        "proteinG": 19.8,
+        "saturatedFatG": 2.4,
+        "sugarG": 8.53,
+        "sodiumMg": 853,
+        "raw": [
+          "216",
+          "299",
+          "19.8 (36%)",
+          "2.4 (16%)",
+          "8.53 (8%)",
+          "853 (43%)"
+        ]
+      }
+    },
+    {
+      "page": "sandwich",
+      "category": "SANDWICH.PREMIUM",
+      "menuItemIdx": "1521",
+      "name": "치킨 데리야끼",
+      "nameEn": "Chicken Teriyaki",
+      "summary": "담백한 치킨 스트립에 달콤짭쪼름한 써브웨이 특제 데리야끼 소스와의 환상적인 만남",
+      "nutrition": {
+        "weightG": 255,
+        "energyKcal": 314,
+        "proteinG": 26.5,
+        "saturatedFatG": 1.2,
+        "sugarG": 10.1,
+        "sodiumMg": 698,
+        "raw": [
+          "255",
+          "314",
+          "26.5 (48%)",
+          "1.2 (8%)",
+          "10.1 (10%)",
+          "698 (35%)"
+        ]
+      }
+    },
+    {
+      "page": "sandwich",
+      "category": "SANDWICH.PREMIUM",
+      "menuItemIdx": "1522",
+      "name": "스파이시 이탈리안",
+      "nameEn": "Spicy Italian",
+      "summary": "페퍼로니 & 살라미가 입안 가득, 페퍼로니의 부드러운 매콤함을 만나보세요!",
+      "nutrition": {
+        "weightG": 224,
+        "energyKcal": 464,
+        "proteinG": 20.7,
+        "saturatedFatG": 9.1,
+        "sugarG": 8.7,
+        "sodiumMg": 1250,
+        "raw": [
+          "224",
+          "464",
+          "20.7 (38%)",
+          "9.1 (60%)",
+          "8.7 (9%)",
+          "1250 (63%)"
+        ]
+      }
+    },
+    {
+      "page": "sandwich",
+      "category": "SANDWICH.CLASSIC",
+      "menuItemIdx": "1570",
+      "name": "잠봉",
+      "nameEn": "Jambon",
+      "summary": "깊게 번지는 잠봉의 풍미를 느껴보세요.",
+      "nutrition": {
+        "weightG": 215,
+        "energyKcal": 376,
+        "proteinG": 18.3,
+        "saturatedFatG": 4.7,
+        "sugarG": 6,
+        "sodiumMg": 621,
+        "raw": [
+          "215",
+          "376",
+          "18.3(33%)",
+          "4.7(31%)",
+          "6",
+          "621(31%)"
+        ]
+      }
+    },
+    {
+      "page": "sandwich",
+      "category": "SANDWICH.CLASSIC",
+      "menuItemIdx": "1529",
+      "name": "비엘티",
+      "nameEn": "B.L.T.",
+      "summary": "오리지널 아메리칸 스타일 베이컨의 풍미와 바삭함 그대로~",
+      "nutrition": {
+        "weightG": 182,
+        "energyKcal": 300,
+        "proteinG": 15.9,
+        "saturatedFatG": 3.7,
+        "sugarG": 7.9,
+        "sodiumMg": 666,
+        "raw": [
+          "182",
+          "300",
+          "15.9 (29%)",
+          "3.7 (25%)",
+          "7.9 (8%)",
+          "666 (33%)"
+        ]
+      }
+    },
+    {
+      "page": "sandwich",
+      "category": "SANDWICH.FLASH",
+      "menuItemIdx": "1449",
+      "name": "치킨 슬라이스",
+      "nameEn": "Chicken Slice",
+      "summary": "담백한 치킨 슬라이스로 맛과 건강까지 한입에",
+      "nutrition": {
+        "weightG": 221,
+        "energyKcal": 265,
+        "proteinG": 18.6,
+        "saturatedFatG": 0.9,
+        "sugarG": 8.7,
+        "sodiumMg": 751,
+        "raw": [
+          "221",
+          "265",
+          "18.6 (34%)",
+          "0.9 (6%)",
+          "8.7 (9%)",
+          "751 (37%)"
+        ]
+      }
+    },
+    {
+      "page": "sandwich",
+      "category": "SANDWICH.FLASH",
+      "menuItemIdx": "1526",
+      "name": "머쉬룸",
+      "nameEn": "Mushroom",
+      "summary": "버섯의 건강함을 그대로 담아 신선한 야채와 함께 담백하게 즐기는 샌드위치",
+      "nutrition": {
+        "weightG": 235,
+        "energyKcal": 245,
+        "proteinG": 11.8,
+        "saturatedFatG": 0.6,
+        "sugarG": 7.7,
+        "sodiumMg": 376,
+        "raw": [
+          "머쉬룸(F):235g",
+          "245",
+          "11.8(21%)",
+          "0.6(4%)",
+          "7.7",
+          "376(19%)"
+        ]
+      }
+    },
+    {
+      "page": "sandwich",
+      "category": "SANDWICH.CLASSIC",
+      "menuItemIdx": "1532",
+      "name": "참치",
+      "nameEn": "Tuna",
+      "summary": "남녀노소 누구나 좋아하는 담백한 참치와 고소한 마요네즈의 완벽한 조화",
+      "nutrition": {
+        "weightG": 238,
+        "energyKcal": 316,
+        "proteinG": 26.9,
+        "saturatedFatG": 1.4,
+        "sugarG": 7.6,
+        "sodiumMg": 535,
+        "raw": [
+          "238",
+          "316",
+          "26.9 (49%)",
+          "1.4 (9%)",
+          "7.6 (8%)",
+          "535 (27%)"
+        ]
+      }
+    },
+    {
+      "page": "sandwich",
+      "category": "SANDWICH.FLASH",
+      "menuItemIdx": "1469",
+      "name": "에그 슬라이스",
+      "nameEn": "Egg Slice",
+      "summary": "달걀의 신선함과 담백함을 그대로 담아 맛도, 영양도 사로잡은 샌드위치를 만나보세요.",
+      "nutrition": {
+        "weightG": 214,
+        "energyKcal": 279,
+        "proteinG": 15.2,
+        "saturatedFatG": 2.3,
+        "sugarG": 7.6,
+        "sodiumMg": 447,
+        "raw": [
+          "214",
+          "279",
+          "15.2(28%)",
+          "2.3(16%)",
+          "7.6(7.6%)",
+          "447(22%)"
+        ]
+      }
+    },
+    {
+      "page": "sandwich",
+      "category": "SANDWICH.FLASH",
+      "menuItemIdx": "1403",
+      "name": "베지",
+      "nameEn": "Veggie Delite",
+      "summary": "갓 구운 빵과 신선한 8가지 야채로 즐기는 깔끔한 한끼",
+      "nutrition": {
+        "weightG": 164,
+        "energyKcal": 209,
+        "proteinG": 9.2,
+        "saturatedFatG": 0.6,
+        "sugarG": 7.6,
+        "sodiumMg": 262,
+        "raw": [
+          "164",
+          "209",
+          "9.2 (17%)",
+          "0.6 (4%)",
+          "7.6 (8%)",
+          "262 (13%)"
+        ]
+      }
+    },
+    {
+      "page": "sandwich",
+      "category": "SANDWICH.TOPPING",
+      "menuItemIdx": "1383",
+      "name": "미트 추가",
+      "nameEn": "Meat",
+      "summary": "주 재료를 2배로 더 푸짐하게 즐기세요",
+      "nutrition": null
+    },
+    {
+      "page": "sandwich",
+      "category": "SANDWICH.TOPPING",
+      "menuItemIdx": "1385",
+      "name": "에그마요",
+      "nameEn": "Egg Mayo",
+      "summary": "신선한 달걀과 고소한 마요네즈의 만남",
+      "nutrition": null
+    },
+    {
+      "page": "sandwich",
+      "category": "SANDWICH.TOPPING",
+      "menuItemIdx": "1386",
+      "name": "오믈렛",
+      "nameEn": "Omelet",
+      "summary": "더 부드럽게, 더 고소하게",
+      "nutrition": null
+    },
+    {
+      "page": "sandwich",
+      "category": "SANDWICH.TOPPING",
+      "menuItemIdx": "1387",
+      "name": "아보카도",
+      "nameEn": "Avocado",
+      "summary": "숲속의 버터 아보카도로 영양 UP",
+      "nutrition": null
+    },
+    {
+      "page": "sandwich",
+      "category": "SANDWICH.TOPPING",
+      "menuItemIdx": "1388",
+      "name": "베이컨",
+      "nameEn": "Bacon",
+      "summary": "진한 풍미와 바삭한 베이컨으로 특별한 나만의 써브웨이~ ※ 샌드위치와 샐러드 메뉴에 기본으로 제공되는 베이컨은 샌드위치(베이컨), 샐러드(베이컨 비츠)로 제공됩니다.",
+      "nutrition": null
+    },
+    {
+      "page": "sandwich",
+      "category": "SANDWICH.TOPPING",
+      "menuItemIdx": "1389",
+      "name": "페퍼로니",
+      "nameEn": "Pepperoni",
+      "summary": "입맛 당기는 페퍼로니로 써브웨이를 더 맛있게!",
+      "nutrition": null
+    },
+    {
+      "page": "sandwich",
+      "category": "SANDWICH.TOPPING",
+      "menuItemIdx": "1390",
+      "name": "치즈 추가",
+      "nameEn": "Cheese",
+      "summary": "고소한 치즈를 2배로!",
+      "nutrition": null
+    },
+    {
+      "page": "sandwich",
+      "category": "SANDWICH.TOPPING",
+      "menuItemIdx": "1471",
+      "name": "에그 슬라이스",
+      "nameEn": "Egg Slice",
+      "summary": "신선한 달걀의 담백함을 추가해, 더 든든하게 즐겨보세요.",
+      "nutrition": null
+    },
+    {
+      "page": "salad",
+      "category": "SALAD.CLASSIC",
+      "menuItemIdx": "1585",
+      "name": "스테이크 & 머쉬룸 샐러드",
+      "nameEn": "Steak & Mushroom Salad",
+      "summary": "스테이크, 머쉬룸, 슈레드 치즈와 5가지 야채, 블랙올리브 (소스 선택)",
+      "nutrition": {
+        "weightG": 314,
+        "energyKcal": 193,
+        "proteinG": 20.2,
+        "saturatedFatG": 4,
+        "sugarG": 5.8,
+        "sodiumMg": 514,
+        "raw": [
+          "314",
+          "193",
+          "20.2 (37%)",
+          "4(27%)",
+          "5.8",
+          "514(26%)"
+        ]
+      }
+    },
+    {
+      "page": "salad",
+      "category": "SALAD.CLASSIC",
+      "menuItemIdx": "1584",
+      "name": "쉬림프 아보카도 샐러드",
+      "nameEn": "Shrimp Avocado Salad",
+      "summary": "쉬림프, 아보카도, 슈레드 치즈와 5가지 야채, 블랙올리브 (소스 선택)",
+      "nutrition": {
+        "weightG": 290,
+        "energyKcal": 182,
+        "proteinG": 12.6,
+        "saturatedFatG": 3.3,
+        "sugarG": 5.8,
+        "sodiumMg": 357,
+        "raw": [
+          "290",
+          "182",
+          "12.6(23%)",
+          "3.3(22%)",
+          "5.8",
+          "357(18%)"
+        ]
+      }
+    },
+    {
+      "page": "salad",
+      "category": "SALAD.CLASSIC",
+      "menuItemIdx": "1582",
+      "name": "로티세리 치킨 더블치즈 샐러드",
+      "nameEn": "Rotisserie Chicken Double Cheese Salad",
+      "summary": "로티세리 치킨, 더블 슈레드 치즈와 5가지 야채, 블랙올리브 (소스 선택)",
+      "nutrition": {
+        "weightG": 318,
+        "energyKcal": 294,
+        "proteinG": 30.4,
+        "saturatedFatG": 6.2,
+        "sugarG": 5.3,
+        "sodiumMg": 640,
+        "raw": [
+          "318",
+          "294",
+          "30.4(55%)",
+          "6.2(41%)",
+          "5.3",
+          "640(32%)"
+        ]
+      }
+    },
+    {
+      "page": "salad",
+      "category": "SALAD.TACO",
+      "menuItemIdx": "1587",
+      "name": "풀드포크 타코 샐러드",
+      "nameEn": "Pulled Pork Taco Salad",
+      "summary": "풀드포크, 더블 슈레드 치즈, 아보카도, 살사, 각종 야채와 치폴레 & 랜치, 또띠야",
+      "nutrition": {
+        "weightG": 526,
+        "energyKcal": 820,
+        "proteinG": 35.9,
+        "saturatedFatG": 15.9,
+        "sugarG": 12.5,
+        "sodiumMg": 1947,
+        "raw": [
+          "526",
+          "820",
+          "35.9(65%)",
+          "15.9(106%)",
+          "12.5",
+          "1947(97%)"
+        ]
+      }
+    },
+    {
+      "page": "salad",
+      "category": "SALAD.TACO",
+      "menuItemIdx": "1589",
+      "name": "스파이시 쉬림프 타코 샐러드",
+      "nameEn": "Spicy Shrimp Taco Salad",
+      "summary": "스파이시 쉬림프, 더블 슈레드 치즈, 아보카도, 살사, 각종 야채와 치폴레 & 랜치, 또띠야",
+      "nutrition": {
+        "weightG": 520,
+        "energyKcal": 713,
+        "proteinG": 27.4,
+        "saturatedFatG": 13.6,
+        "sugarG": 15.6,
+        "sodiumMg": 1841,
+        "raw": [
+          "520",
+          "713",
+          "27.4(50%)",
+          "13.6(91%)",
+          "15.6",
+          "1841(92%)"
+        ]
+      }
+    },
+    {
+      "page": "salad",
+      "category": "SALAD.TACO",
+      "menuItemIdx": "1588",
+      "name": "로티세리 치킨 타코 샐러드",
+      "nameEn": "Rotisserie chicken Taco Salad",
+      "summary": "로티세리 치킨, 더블 슈레드 치즈, 아보카도, 살사,각종 야채와 치폴레 & 랜치, 또띠야",
+      "nutrition": {
+        "weightG": 526,
+        "energyKcal": 802,
+        "proteinG": 37.8,
+        "saturatedFatG": 14.4,
+        "sugarG": 12.4,
+        "sodiumMg": 1881,
+        "raw": [
+          "526",
+          "802",
+          "37.8(69%)",
+          "14.4(96%)",
+          "12.4",
+          "1881(94%)"
+        ]
+      }
+    },
+    {
+      "page": "salad",
+      "category": "SALAD.CLASSIC",
+      "menuItemIdx": "1583",
+      "name": "로스트 치킨 베이컨 샐러드",
+      "nameEn": "Roast Chicken Bacon Salad",
+      "summary": "로스트 치킨, 베이컨 비츠, 슈레드 치즈와 5가지 야채, 블랙올리브 (소스 선택)",
+      "nutrition": {
+        "weightG": 296,
+        "energyKcal": 216,
+        "proteinG": 22.5,
+        "saturatedFatG": 4.1,
+        "sugarG": 5.8,
+        "sodiumMg": 704,
+        "raw": [
+          "296",
+          "216",
+          "22.5(41%)",
+          "4.1(28%)",
+          "5.8",
+          "704(35%)"
+        ]
+      }
+    },
+    {
+      "page": "salad",
+      "category": "SALAD.CLASSIC",
+      "menuItemIdx": "1581",
+      "name": "에그마요 베이컨 샐러드",
+      "nameEn": "Egg Mayo Bacon Salad",
+      "summary": "에그마요, 베이컨 비츠, 슈레드 치즈와 5가지 야채, 블랙올리브 (소스 선택)",
+      "nutrition": {
+        "weightG": 299,
+        "energyKcal": 352,
+        "proteinG": 15.5,
+        "saturatedFatG": 8.1,
+        "sugarG": 5.4,
+        "sodiumMg": 629,
+        "raw": [
+          "299",
+          "352",
+          "15.5(28%)",
+          "8.1(54%)",
+          "5.4",
+          "629(31%)"
+        ]
+      }
+    },
+    {
+      "page": "salad",
+      "category": "SALAD.CLASSIC",
+      "menuItemIdx": "1580",
+      "name": "참치 아보카도 샐러드",
+      "nameEn": "Tuna Avocado Salad",
+      "summary": "참치, 아보카도, 슈레드 치즈와 5가지 야채, 블랙올리브 (소스 선택)",
+      "nutrition": {
+        "weightG": 319,
+        "energyKcal": 255,
+        "proteinG": 23,
+        "saturatedFatG": 4.1,
+        "sugarG": 5.5,
+        "sodiumMg": 496,
+        "raw": [
+          "319",
+          "255",
+          "23(42%)",
+          "4.1(27%)",
+          "5.5",
+          "496(25%)"
+        ]
+      }
+    },
+    {
+      "page": "salad",
+      "category": "SALAD.CLASSIC",
+      "menuItemIdx": "1579",
+      "name": "그린 샐러드",
+      "nameEn": "Green Salad",
+      "summary": "슈레드 치즈와 5가지 야채, 블랙올리브 (소스 선택)",
+      "nutrition": {
+        "weightG": 214,
+        "energyKcal": 91.8,
+        "proteinG": 4.8,
+        "saturatedFatG": 2.5,
+        "sugarG": 5.1,
+        "sodiumMg": 111,
+        "raw": [
+          "214",
+          "91.8",
+          "4.8(9%)",
+          "2.5(17%)",
+          "5.1",
+          "111(6%)"
+        ]
+      }
+    },
+    {
+      "page": "salad",
+      "category": "SALAD.NEW",
+      "menuItemIdx": "1473",
+      "name": "미니 로티세리 치킨 샐러드",
+      "nameEn": "Mini Rotisserie Chicken Salad",
+      "summary": "신선함과 간편함을 한 컵에 담아, 가볍고 건강하게 즐기는 미니 샐러드",
+      "nutrition": {
+        "weightG": 94,
+        "energyKcal": 42,
+        "proteinG": 5.3,
+        "saturatedFatG": 0.6,
+        "sugarG": 3,
+        "sodiumMg": 72,
+        "raw": [
+          "94",
+          "42",
+          "5.3(9.7%)",
+          "0.6(3.3%)",
+          "3",
+          "72(3.6%)"
+        ]
+      }
+    },
+    {
+      "page": "salad",
+      "category": "SALAD.TOPPING",
+      "menuItemIdx": "1610",
+      "name": "그레인 믹스",
+      "nameEn": "Grain Mix",
+      "summary": "그레인 믹스로 든든하게",
+      "nutrition": null
+    },
+    {
+      "page": "salad",
+      "category": "SALAD.TOPPING",
+      "menuItemIdx": "1555",
+      "name": "치즈 추가",
+      "nameEn": "Cheese",
+      "summary": "고소한 치즈를 2배로!",
+      "nutrition": null
+    },
+    {
+      "page": "salad",
+      "category": "SALAD.TOPPING",
+      "menuItemIdx": "1550",
+      "name": "에그마요",
+      "nameEn": "Egg Mayo",
+      "summary": "신선한 달걀과 고소한 마요네즈의 만남",
+      "nutrition": null
+    },
+    {
+      "page": "salad",
+      "category": "SALAD.TOPPING",
+      "menuItemIdx": "1551",
+      "name": "오믈렛",
+      "nameEn": "Omelet",
+      "summary": "더 부드럽게, 더 고소하게",
+      "nutrition": null
+    },
+    {
+      "page": "salad",
+      "category": "SALAD.TOPPING",
+      "menuItemIdx": "1549",
+      "name": "베이컨 비츠",
+      "nameEn": "Bacon Bits",
+      "summary": "짭쪼름한 베이컨 비츠로 맛의 화룡점정을! ※ 샌드위치와 샐러드 메뉴에 기본으로 제공되는 베이컨은 샌드위치(베이컨), 샐러드(베이컨 비츠)로 제공됩니다.",
+      "nutrition": null
+    },
+    {
+      "page": "salad",
+      "category": "SALAD.TOPPING",
+      "menuItemIdx": "1552",
+      "name": "아보카도",
+      "nameEn": "Avocado",
+      "summary": "숲속의 버터 아보카도로 영양 UP",
+      "nutrition": null
+    },
+    {
+      "page": "salad",
+      "category": "SALAD.TOPPING",
+      "menuItemIdx": "1554",
+      "name": "페퍼로니",
+      "nameEn": "Pepperoni",
+      "summary": "입맛 당기는 페퍼로니로 써브웨이를 더 맛있게!",
+      "nutrition": null
+    },
+    {
+      "page": "salad",
+      "category": "SALAD.TOPPING",
+      "menuItemIdx": "1547",
+      "name": "에그 슬라이스",
+      "nameEn": "Egg Slice",
+      "summary": "신선한 달걀의 담백함을 추가해, 더 든든하게 즐겨보세요.",
+      "nutrition": null
+    },
+    {
+      "page": "salad",
+      "category": "SALAD.TOPPING",
+      "menuItemIdx": "1548",
+      "name": "미트 추가",
+      "nameEn": "Meat",
+      "summary": "주 재료를 2배로 더 푸짐하게 즐기세요",
+      "nutrition": null
+    },
+    {
+      "page": "grain_salad",
+      "category": "GRAIN_SALAD.CLASSIC",
+      "menuItemIdx": "1590",
+      "name": "스테이크 & 머쉬룸 그레인 샐러드",
+      "nameEn": "Steak & Mushroom Grain Salad",
+      "summary": "스테이크, 머쉬룸, 그레인 믹스, 슈레드 치즈와 5가지 야채, 블랙올리브 (소스 선택)",
+      "nutrition": {
+        "weightG": 374,
+        "energyKcal": 338,
+        "proteinG": 24,
+        "saturatedFatG": 4.4,
+        "sugarG": 6.2,
+        "sodiumMg": 568,
+        "raw": [
+          "374",
+          "338",
+          "24(44%)",
+          "4.4(29%)",
+          "6.2",
+          "568(28%)"
+        ]
+      }
+    },
+    {
+      "page": "grain_salad",
+      "category": "GRAIN_SALAD.CLASSIC",
+      "menuItemIdx": "1591",
+      "name": "쉬림프 아보카도 그레인 샐러드",
+      "nameEn": "Shrimp Avocado Grain Salad",
+      "summary": "쉬림프, 아보카도, 그레인 믹스, 슈레드 치즈와 5가지 야채, 블랙올리브 (소스 선택)",
+      "nutrition": {
+        "weightG": 350,
+        "energyKcal": 327,
+        "proteinG": 16.5,
+        "saturatedFatG": 3.7,
+        "sugarG": 6.2,
+        "sodiumMg": 411,
+        "raw": [
+          "350",
+          "327",
+          "16.5(30%)",
+          "3.7(25%)",
+          "6.2",
+          "411(21%)"
+        ]
+      }
+    },
+    {
+      "page": "grain_salad",
+      "category": "GRAIN_SALAD.CLASSIC",
+      "menuItemIdx": "1594",
+      "name": "로티세리 치킨 더블치즈 그레인 샐러드",
+      "nameEn": "Rotisserie Chicken Double Cheese Grain Salad",
+      "summary": "로티세리 치킨, 그레인 믹스, 더블 슈레드 치즈와 5가지 야채, 블랙올리브 (소스 선택)",
+      "nutrition": {
+        "weightG": 378,
+        "energyKcal": 439,
+        "proteinG": 34.2,
+        "saturatedFatG": 6.6,
+        "sugarG": 5.7,
+        "sodiumMg": 694,
+        "raw": [
+          "378",
+          "439",
+          "34.2(62%)",
+          "6.6(44%)",
+          "5.7",
+          "694(35%)"
+        ]
+      }
+    },
+    {
+      "page": "grain_salad",
+      "category": "GRAIN_SALAD.TACO",
+      "menuItemIdx": "1599",
+      "name": "풀드포크 타코 그레인 샐러드",
+      "nameEn": "Pulled Pork Taco Grain Salad",
+      "summary": "풀드포크, 더블 슈레드 치즈, 아보카도, 그레인 믹스, 살사,각종 야채와 치폴레 & 랜치, 또띠야",
+      "nutrition": {
+        "weightG": 606,
+        "energyKcal": 968,
+        "proteinG": 39.9,
+        "saturatedFatG": 16.3,
+        "sugarG": 13.3,
+        "sodiumMg": 2003,
+        "raw": [
+          "606",
+          "968",
+          "39.9(72%)",
+          "16.3(108%)",
+          "13.3",
+          "2003(100%)"
+        ]
+      }
+    },
+    {
+      "page": "grain_salad",
+      "category": "GRAIN_SALAD.TACO",
+      "menuItemIdx": "1597",
+      "name": "스파이시 쉬림프 타코 그레인 샐러드",
+      "nameEn": "Spicy Shrimp Taco Grain Salad",
+      "summary": "스파이시 쉬림프, 더블 슈레드 치즈, 아보카도, 그레인 믹스, 살사, 각종 야채와 치폴레 & 랜치, 또띠야",
+      "nutrition": {
+        "weightG": 600,
+        "energyKcal": 861,
+        "proteinG": 31.4,
+        "saturatedFatG": 14,
+        "sugarG": 16.4,
+        "sodiumMg": 2136,
+        "raw": [
+          "600",
+          "861",
+          "31.4(57%)",
+          "14(94%)",
+          "16.4",
+          "2136(107%)"
+        ]
+      }
+    },
+    {
+      "page": "grain_salad",
+      "category": "GRAIN_SALAD.TACO",
+      "menuItemIdx": "1598",
+      "name": "로티세리 치킨 타코 그레인 샐러드",
+      "nameEn": "Rotisserie chicken Taco Grain Salad",
+      "summary": "로티세리 치킨, 더블 슈레드 치즈, 아보카도, 그레인 믹스, 살사, 각종 야채와 치폴레 & 랜치, 또띠야",
+      "nutrition": {
+        "weightG": 606,
+        "energyKcal": 951,
+        "proteinG": 41.8,
+        "saturatedFatG": 14.8,
+        "sugarG": 13.2,
+        "sodiumMg": 1937,
+        "raw": [
+          "606",
+          "951",
+          "41.8(76%)",
+          "14.8(98%)",
+          "13.2",
+          "1937(97%)"
+        ]
+      }
+    },
+    {
+      "page": "grain_salad",
+      "category": "GRAIN_SALAD.CLASSIC",
+      "menuItemIdx": "1593",
+      "name": "로스트 치킨 베이컨 그레인 샐러드",
+      "nameEn": "Roast Chicken Bacon Grain Salad",
+      "summary": "로스트 치킨, 베이컨 비츠, 그레인 믹스, 슈레드 치즈와 5가지 야채, 블랙올리브 (소스 선택)",
+      "nutrition": {
+        "weightG": 356,
+        "energyKcal": 362,
+        "proteinG": 26.3,
+        "saturatedFatG": 4.5,
+        "sugarG": 6.2,
+        "sodiumMg": 758,
+        "raw": [
+          "356",
+          "362",
+          "26.3(48%)",
+          "4.5(30%)",
+          "6.2",
+          "758(38%)"
+        ]
+      }
+    },
+    {
+      "page": "grain_salad",
+      "category": "GRAIN_SALAD.CLASSIC",
+      "menuItemIdx": "1592",
+      "name": "에그마요 베이컨 그레인 샐러드",
+      "nameEn": "Egg Mayo Bacon Grain Salad",
+      "summary": "에그마요, 베이컨 비츠, 그레인 믹스, 슈레드 치즈와 5가지 야채, 블랙올리브 (소스 선택)",
+      "nutrition": {
+        "weightG": 359,
+        "energyKcal": 497,
+        "proteinG": 19.3,
+        "saturatedFatG": 8.5,
+        "sugarG": 5.8,
+        "sodiumMg": 683,
+        "raw": [
+          "359",
+          "497",
+          "19.3(35%)",
+          "8.5(57%)",
+          "5.8",
+          "683(34%)"
+        ]
+      }
+    },
+    {
+      "page": "grain_salad",
+      "category": "GRAIN_SALAD.CLASSIC",
+      "menuItemIdx": "1595",
+      "name": "참치 아보카도 그레인 샐러드",
+      "nameEn": "Tuna Avocado Grain Salad",
+      "summary": "참치, 아보카도, 그레인 믹스, 슈레드 치즈와 5가지 야채, 블랙올리브 (소스 선택)",
+      "nutrition": {
+        "weightG": 379,
+        "energyKcal": 400,
+        "proteinG": 26.9,
+        "saturatedFatG": 4.5,
+        "sugarG": 5.9,
+        "sodiumMg": 550,
+        "raw": [
+          "379",
+          "400",
+          "26.9(49%)",
+          "4.5(30%)",
+          "5.9",
+          "550(28%)"
+        ]
+      }
+    },
+    {
+      "page": "grain_salad",
+      "category": "GRAIN_SALAD.CLASSIC",
+      "menuItemIdx": "1596",
+      "name": "그린 그레인 샐러드",
+      "nameEn": "Green Grain Salad",
+      "summary": "그레인 믹스, 슈레드 치즈와 5가지 야채, 블랙올리브 (소스 선택)",
+      "nutrition": {
+        "weightG": 274,
+        "energyKcal": 237,
+        "proteinG": 8.6,
+        "saturatedFatG": 2.9,
+        "sugarG": 5.5,
+        "sodiumMg": 165,
+        "raw": [
+          "274",
+          "237",
+          "8.6(16%)",
+          "2.9(19%)",
+          "5.5",
+          "165(8%)"
+        ]
+      }
+    },
+    {
+      "page": "grain_salad",
+      "category": "GRAIN_SALAD.ETC",
+      "menuItemIdx": "1609",
+      "name": "그레인 믹스",
+      "nameEn": "Grain Mix",
+      "summary": "그레인 믹스로 든든하게",
+      "nutrition": null
+    },
+    {
+      "page": "grain_salad",
+      "category": "GRAIN_SALAD.ETC",
+      "menuItemIdx": "1608",
+      "name": "치즈 추가",
+      "nameEn": "Cheese",
+      "summary": "고소한 치즈를 2배로!",
+      "nutrition": null
+    },
+    {
+      "page": "grain_salad",
+      "category": "GRAIN_SALAD.ETC",
+      "menuItemIdx": "1603",
+      "name": "에그마요",
+      "nameEn": "Egg Mayo",
+      "summary": "신선한 달걀과 고소한 마요네즈의 만남",
+      "nutrition": null
+    },
+    {
+      "page": "grain_salad",
+      "category": "GRAIN_SALAD.ETC",
+      "menuItemIdx": "1604",
+      "name": "오믈렛",
+      "nameEn": "Omelet",
+      "summary": "더 부드럽게, 더 고소하게",
+      "nutrition": null
+    },
+    {
+      "page": "grain_salad",
+      "category": "GRAIN_SALAD.ETC",
+      "menuItemIdx": "1606",
+      "name": "베이컨 비츠",
+      "nameEn": "Bacon Bits",
+      "summary": "진한 풍미와 바삭한 베이컨으로 특별한 나만의 써브웨이~ ※ 샌드위치와 샐러드 메뉴에 기본으로 제공되는 베이컨은 샌드위치(베이컨), 샐러드(베이컨 비츠)로 제공됩니다.",
+      "nutrition": null
+    },
+    {
+      "page": "grain_salad",
+      "category": "GRAIN_SALAD.ETC",
+      "menuItemIdx": "1605",
+      "name": "아보카도",
+      "nameEn": "Avocado",
+      "summary": "숲속의 버터 아보카도로 영양 UP",
+      "nutrition": null
+    },
+    {
+      "page": "grain_salad",
+      "category": "GRAIN_SALAD.ETC",
+      "menuItemIdx": "1607",
+      "name": "페퍼로니",
+      "nameEn": "Pepperoni",
+      "summary": "입맛 당기는 페퍼로니로 써브웨이를 더 맛있게!",
+      "nutrition": null
+    },
+    {
+      "page": "grain_salad",
+      "category": "GRAIN_SALAD.ETC",
+      "menuItemIdx": "1601",
+      "name": "에그 슬라이스",
+      "nameEn": "Egg Slice",
+      "summary": "신선한 달걀의 담백함을 추가해, 더 든든하게 즐겨보세요.",
+      "nutrition": null
+    },
+    {
+      "page": "grain_salad",
+      "category": "GRAIN_SALAD.ETC",
+      "menuItemIdx": "1602",
+      "name": "미트 추가",
+      "nameEn": "Meat",
+      "summary": "주 재료를 2배로 더 푸짐하게 즐기세요",
+      "nutrition": null
+    },
+    {
+      "page": "morning",
+      "category": "MORNING.SANDWICH",
+      "menuItemIdx": "1339",
+      "name": "잠봉, 에그&치즈",
+      "nameEn": "Jambon, Egg & Cheese",
+      "summary": "푹신한 오믈렛과 잠봉의 가장 클래식한 조화 ※ 아침메뉴 제공시간 : 오전 11시까지 ※ 본 메뉴에는 야채가 포함되지 않습니다.",
+      "nutrition": {
+        "weightG": 181,
+        "energyKcal": 319,
+        "proteinG": 20.3,
+        "saturatedFatG": 3.2,
+        "sugarG": 6.5,
+        "sodiumMg": 951,
+        "raw": [
+          "181",
+          "319",
+          "20.3 (37%)",
+          "3.2 (22%)",
+          "6.5 (6%)",
+          "951 (48%)"
+        ]
+      }
+    },
+    {
+      "page": "morning",
+      "category": "MORNING.SANDWICH",
+      "menuItemIdx": "1340",
+      "name": "웨스턴, 에그 & 치즈",
+      "nameEn": "Western, Egg & Cheese",
+      "summary": "토마토, 피망, 양파 세가지 야채가 더해져 더욱 신선한 하루 시작 ※ 아침메뉴 제공시간 : 오전 11시까지 ※ 본 메뉴에는 토마토, 피망, 양파 이외의 야채가 포함되지 않습니다.",
+      "nutrition": {
+        "weightG": 208,
+        "energyKcal": 315,
+        "proteinG": 18.2,
+        "saturatedFatG": 3.1,
+        "sugarG": 7.8,
+        "sodiumMg": 849,
+        "raw": [
+          "208",
+          "315",
+          "18.2 (33%)",
+          "3.1 (21%)",
+          "7.8 (8%)",
+          "849 (42%)"
+        ]
+      }
+    },
+    {
+      "page": "morning",
+      "category": "MORNING.WRAP",
+      "menuItemIdx": "1335",
+      "name": "잠봉, 에그 & 치즈 랩",
+      "nameEn": "Jambon, Egg & Cheese Wrap",
+      "summary": "이제 랩으로 즐기세요! 푹신한 오믈렛과 잠봉의 가장 클래식한 조화 ※아침메뉴 제공시간 : 오전 11시까지",
+      "nutrition": {
+        "weightG": 171,
+        "energyKcal": 288,
+        "proteinG": 8,
+        "saturatedFatG": 1,
+        "sugarG": 6,
+        "sodiumMg": 667,
+        "raw": [
+          "171",
+          "288",
+          "8 (15%)",
+          "1 (3%)",
+          "6",
+          "667 (33%)"
+        ]
+      }
+    },
+    {
+      "page": "morning",
+      "category": "MORNING.WRAP",
+      "menuItemIdx": "1336",
+      "name": "웨스턴, 에그 & 치즈 랩",
+      "nameEn": "Western, Egg & Cheese Wrap",
+      "summary": "이제 랩으로 즐기세요! 토마토, 피망, 양파 세가지 야채가 더해져 더욱 신선한 하루 시작 ※아침메뉴 제공시간 : 오전 11시까지",
+      "nutrition": {
+        "weightG": 198,
+        "energyKcal": 298,
+        "proteinG": 8,
+        "saturatedFatG": 1,
+        "sugarG": 7,
+        "sodiumMg": 669,
+        "raw": [
+          "198",
+          "298",
+          "8 (15%)",
+          "1 (3%)",
+          "7",
+          "669 (33%)"
+        ]
+      }
+    },
+    {
+      "page": "unit",
+      "category": "WRAP.SIGNATURE",
+      "menuItemIdx": "1342",
+      "name": "스테이크 & 치즈 아보카도 랩",
+      "nameEn": "Steak & Cheese Avocado Wrap",
+      "summary": "육즙 가득 스테이크에 프레쉬함을 더해줄 아보카도와 슈레드치즈 그리고 모차렐라치즈까지! 최상의 야채와 소스 조합으로 탄생한 스테이크 & 치즈 아보카도 랩!",
+      "nutrition": {
+        "weightG": 249,
+        "energyKcal": 478,
+        "proteinG": 22.3,
+        "saturatedFatG": 9.8,
+        "sugarG": 5.3,
+        "sodiumMg": 1009,
+        "raw": [
+          "249",
+          "478",
+          "22.3 (41%)",
+          "9.8 (65%)",
+          "5.3 (5%)",
+          "1009 (50%)"
+        ]
+      }
+    },
+    {
+      "page": "unit",
+      "category": "WRAP.SIGNATURE",
+      "menuItemIdx": "1382",
+      "name": "쉬림프 에그마요 랩",
+      "nameEn": "Shrimp Egg Mayo Wrap",
+      "summary": "고소한 에그마요와 탱글한 통새우의 만남, 부드럽고 담백한 조화를 즐겨보세요!",
+      "nutrition": {
+        "weightG": 253,
+        "energyKcal": 516,
+        "proteinG": 20.1,
+        "saturatedFatG": 9.5,
+        "sugarG": 7.4,
+        "sodiumMg": 1082,
+        "raw": [
+          "253",
+          "516",
+          "20.1 (29%)",
+          "9.5 (65%)",
+          "7.4 (7%)",
+          "1082 (50%)"
+        ]
+      }
+    },
+    {
+      "page": "unit",
+      "category": "WRAP.MINI",
+      "menuItemIdx": "1381",
+      "name": "치킨 베이컨 미니 랩",
+      "nameEn": "Chicken Bacon Mini Wrap",
+      "summary": "담백한 치킨, 바삭한 베이컨 비츠가 쫀득한 통밀 랩에 쏘옥! 치킨 베이컨 미니 랩",
+      "nutrition": {
+        "weightG": 161,
+        "energyKcal": 391,
+        "proteinG": 20.8,
+        "saturatedFatG": 7.4,
+        "sugarG": 5.5,
+        "sodiumMg": 1091,
+        "raw": [
+          "161",
+          "391",
+          "20.8 (38%)",
+          "7.4 (49%)",
+          "5.5 (5%)",
+          "1091 (55%)"
+        ]
+      }
+    },
+    {
+      "page": "sidedrink",
+      "category": "SIDEDRINK.SMILESUB",
+      "menuItemIdx": "1565",
+      "name": "포테이토 베이컨 수프",
+      "nameEn": "Potato Bacon Soup",
+      "summary": "국내산 감자로 만들어 부드럽고 진한 맛에 베이컨으로 풍미를 더한 포테이토 베이컨 수프",
+      "nutrition": {
+        "weightG": 114,
+        "energyKcal": 80,
+        "proteinG": 2.3,
+        "saturatedFatG": 3.1,
+        "sugarG": 3.4,
+        "sodiumMg": 355,
+        "raw": [
+          "하프_114g",
+          "80",
+          "2.3(4.1%)",
+          "3.1(20.7%)",
+          "3.4",
+          "355(18%)"
+        ]
+      }
+    },
+    {
+      "page": "sidedrink",
+      "category": "SIDEDRINK.SMILESUB",
+      "menuItemIdx": "1465",
+      "name": "콘 수프",
+      "nameEn": "Corn Soup",
+      "summary": "달콤한 옥수수의 깊은 풍미가 느껴지는 콘 수프",
+      "nutrition": {
+        "weightG": 118,
+        "energyKcal": 81,
+        "proteinG": 2.5,
+        "saturatedFatG": 1.4,
+        "sugarG": 5.3,
+        "sodiumMg": 283,
+        "raw": [
+          "하프_118g",
+          "81",
+          "2.5(4.7%)",
+          "1.4(9.4%)",
+          "5.3",
+          "283(14.2%)"
+        ]
+      }
+    },
+    {
+      "page": "sidedrink",
+      "category": "SIDEDRINK.SMILESUB",
+      "menuItemIdx": "1317",
+      "name": "머쉬룸 수프",
+      "nameEn": "Mushroom Soup",
+      "summary": "부드러운 머쉬룸의 풍미가 가득한 머쉬룸 수프",
+      "nutrition": {
+        "weightG": 118,
+        "energyKcal": 64,
+        "proteinG": 1.5,
+        "saturatedFatG": 2.3,
+        "sugarG": 2.2,
+        "sodiumMg": 336,
+        "raw": [
+          "하프_118g",
+          "64",
+          "1.5(2.8%)",
+          "2.3(15.3%)",
+          "2.2",
+          "336(17%)"
+        ]
+      }
+    },
+    {
+      "page": "sidedrink",
+      "category": "SIDEDRINK.SMILESUB",
+      "menuItemIdx": "1308",
+      "name": "초코칩",
+      "nameEn": "Chocolate Chip",
+      "summary": "알알이 가득한 초코의 가장 클래식한 달콤함",
+      "nutrition": {
+        "weightG": 45,
+        "energyKcal": 228,
+        "proteinG": 2.1,
+        "saturatedFatG": 5.6,
+        "sugarG": 19.3,
+        "sodiumMg": 165,
+        "raw": [
+          "45",
+          "228",
+          "2.1 (4%)",
+          "5.6 (37%)",
+          "19.3 (19%)",
+          "165 (8%)"
+        ]
+      }
+    },
+    {
+      "page": "sidedrink",
+      "category": "SIDEDRINK.SMILESUB",
+      "menuItemIdx": "1307",
+      "name": "더블 초코칩",
+      "nameEn": "Double Chocolate Chip",
+      "summary": "부드러운 화이트초콜릿과 다크 초콜릿의 절묘한 조화로 더욱 풍부한 달콤함",
+      "nutrition": {
+        "weightG": 45,
+        "energyKcal": 212,
+        "proteinG": 2,
+        "saturatedFatG": 5.4,
+        "sugarG": 19.9,
+        "sodiumMg": 165,
+        "raw": [
+          "45",
+          "212",
+          "2 (4%)",
+          "5.4 (36%)",
+          "19.9 (20%)",
+          "165 (8%)"
+        ]
+      }
+    },
+    {
+      "page": "sidedrink",
+      "category": "SIDEDRINK.SMILESUB",
+      "menuItemIdx": "1309",
+      "name": "오트밀 레이즌",
+      "nameEn": "Oatmeal Raisin",
+      "summary": "건포도와 귀리에 살짝 더해진 계피향의 환상적인 조화",
+      "nutrition": {
+        "weightG": 45,
+        "energyKcal": 200,
+        "proteinG": 2.4,
+        "saturatedFatG": 3.8,
+        "sugarG": 15.8,
+        "sodiumMg": 130,
+        "raw": [
+          "45",
+          "200",
+          "2.4 (4%)",
+          "3.8 (25%)",
+          "15.8 (16%)",
+          "130 (7%)"
+        ]
+      }
+    },
+    {
+      "page": "sidedrink",
+      "category": "SIDEDRINK.SMILESUB",
+      "menuItemIdx": "1310",
+      "name": "라즈베리 치즈케익",
+      "nameEn": "Raspberry Cheese Cake",
+      "summary": "부드럽고 풍부한 치즈와 새콤달콤 라즈베리의 달콤한 만남",
+      "nutrition": {
+        "weightG": 45,
+        "energyKcal": 204,
+        "proteinG": 2,
+        "saturatedFatG": 5,
+        "sugarG": 15.8,
+        "sodiumMg": 176,
+        "raw": [
+          "45",
+          "204",
+          "2 (4%)",
+          "5 (33%)",
+          "15.8 (16%)",
+          "176 (9%)"
+        ]
+      }
+    },
+    {
+      "page": "sidedrink",
+      "category": "SIDEDRINK.SMILESUB",
+      "menuItemIdx": "1311",
+      "name": "화이트 초코 마카다미아",
+      "nameEn": "White Choco Macadamia",
+      "summary": "고소함 가득한 마카다미아와 달콤한 화이트 초콜릿의 환상 궁합",
+      "nutrition": {
+        "weightG": 45,
+        "energyKcal": 245,
+        "proteinG": 2.1,
+        "saturatedFatG": 5.7,
+        "sugarG": 18.9,
+        "sodiumMg": 178,
+        "raw": [
+          "45",
+          "245",
+          "2.1 (4%)",
+          "5.7 (38%)",
+          "18.9 (19%)",
+          "178 (9%)"
+        ]
+      }
+    },
+    {
+      "page": "sidedrink",
+      "category": "SIDEDRINK.SMILESUB",
+      "menuItemIdx": "1321",
+      "name": "웨지 포테이토",
+      "nameEn": "Ovenbaked Wedge Potatoes",
+      "summary": "오븐에 구워 더 담백, 겉은 바삭 속은 촉촉한 건강한 사이드 ※제공시간 : 오전 11시 ~",
+      "nutrition": {
+        "weightG": 100,
+        "energyKcal": 140,
+        "proteinG": 2.5,
+        "saturatedFatG": 1.5,
+        "sugarG": 0.7,
+        "sodiumMg": 369,
+        "raw": [
+          "100",
+          "140",
+          "2.5 (5%)",
+          "1.5 (10%)",
+          "0.7 (1%)",
+          "369 (18%)"
+        ]
+      }
+    },
+    {
+      "page": "sidedrink",
+      "category": "SIDEDRINK.SMILESUB",
+      "menuItemIdx": "1322",
+      "name": "Cheesy 웨지 포테이토",
+      "nameEn": "Cheesy Ovenbaked Wedge Potatoes",
+      "summary": "치즈 풍미 한가득, 오븐에 구워 더 담백한 겉은 바삭 속은 촉촉한 건강한 사이드 ※제공시간 : 오전 11시 ~",
+      "nutrition": {
+        "weightG": 114,
+        "energyKcal": 194,
+        "proteinG": 5.8,
+        "saturatedFatG": 3.9,
+        "sugarG": 0.8,
+        "sodiumMg": 454,
+        "raw": [
+          "114",
+          "194",
+          "5.8 (10%)",
+          "3.9 (26%)",
+          "0.8 (1%)",
+          "454 (23%)"
+        ]
+      }
+    },
+    {
+      "page": "sidedrink",
+      "category": "SIDEDRINK.SMILESUB",
+      "menuItemIdx": "1323",
+      "name": "Bacon Cheesy 웨지 포테이토",
+      "nameEn": "Bacon Cheesy Ovenbaked Wedge Potatoes",
+      "summary": "짭쪼름한 베이컨과 치즈의 궁합을 더한, 오븐에 구워 더 담백한 겉은 바삭 속은 촉촉한 건강한 사이드 ※제공시간 : 오전 11시 ~",
+      "nutrition": {
+        "weightG": 124,
+        "energyKcal": 247,
+        "proteinG": 9.3,
+        "saturatedFatG": 5.3,
+        "sugarG": 0.9,
+        "sodiumMg": 679,
+        "raw": [
+          "124",
+          "247",
+          "9.3 (17%)",
+          "5.3 (35%)",
+          "0.9 (1%)",
+          "679 (34%)"
+        ]
+      }
+    },
+    {
+      "page": "sidedrink",
+      "category": "SIDEDRINK.SMILESUB",
+      "menuItemIdx": "1320",
+      "name": "치킨 베이컨 미니 랩",
+      "nameEn": "Chicken Bacon Mini Wrap",
+      "summary": "담백한 치킨, 바삭한 베이컨 비츠가 쫀득한 통밀 랩에 쏘옥! 치킨 베이컨 미니 랩",
+      "nutrition": {
+        "weightG": 161,
+        "energyKcal": 391,
+        "proteinG": 20.8,
+        "saturatedFatG": 7.4,
+        "sugarG": 5.5,
+        "sodiumMg": 1091,
+        "raw": [
+          "161",
+          "391",
+          "20.8 (38%)",
+          "7.4 (49%)",
+          "5.5 (5%)",
+          "1091 (55%)"
+        ]
+      }
+    },
+    {
+      "page": "sidedrink",
+      "category": "SIDEDRINK.SMILESUB",
+      "menuItemIdx": "1312",
+      "name": "칩",
+      "nameEn": "Chip",
+      "summary": "바삭바삭한 칩을 추가해 써브웨이를 즐겨보세요",
+      "nutrition": null
+    },
+    {
+      "page": "sidedrink",
+      "category": "SIDEDRINK.SMILESUB",
+      "menuItemIdx": "1313",
+      "name": "탄산음료",
+      "nameEn": "Soda",
+      "summary": "-",
+      "nutrition": null
+    },
+    {
+      "page": "sidedrink",
+      "category": "SIDEDRINK.SMILESUB",
+      "menuItemIdx": "1314",
+      "name": "커피",
+      "nameEn": "Coffee",
+      "summary": "-",
+      "nutrition": null
+    }
+  ]
+}

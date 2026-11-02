@@ -1,0 +1,35 @@
+# 써브웨이 운영 컨테이너 (sophia-core-01: /srv/metasolveai/apps/subway/production/app/deploy/docker-compose.yml)
+# - 포트는 서버 안(127.0.0.1:4174)에만 연다. 밖에서는 NAS 프록시(HTTPS) → 서버 nginx → 4174
+# - 키는 ../../secrets/subway.env (권한 600, Git 금지)
+# - 자원 제한: SOPHIA에 영향 없게 CPU 1, 메모리 512MB
+# - SOPHIA 컨테이너·네트워크·DB와 섞지 않는다 (별도 프로젝트 이름 subway)
+name: subway
+services:
+  subway:
+    build:
+      context: ..
+      args:
+        SUBWAY_BUILD_COMMIT: ${SUBWAY_BUILD_COMMIT:-UNCOMMITTED}
+        SUBWAY_BUILT_AT: ${SUBWAY_BUILT_AT:-unknown}
+    image: subway-app:latest
+    container_name: subway-prod
+    restart: unless-stopped
+    env_file:
+      - ../../secrets/subway.env
+    ports:
+      - "127.0.0.1:4174:4174"
+    volumes:
+      - ../../data/var:/app/var
+    cpus: 1
+    mem_limit: 512m
+    pids_limit: 256
+    read_only: true
+    tmpfs:
+      - /tmp
+    security_opt:
+      - no-new-privileges:true
+    logging:
+      driver: json-file
+      options:
+        max-size: "10m"
+        max-file: "3"

@@ -1,0 +1,29 @@
+# 서버 nginx: subway.metasolveai.com → 127.0.0.1:4174 (SOPHIA infrastructure/proxy/sophia-location.conf.example 방식)
+# HTTPS는 NAS 프록시(192.168.0.99)가 끝내고 서버 nginx로 넘긴다.
+# 설치는 DNS가 된 뒤 사용자 확인을 받고 한다 (nginx는 SOPHIA와 같이 쓰므로 nginx -t 통과 후에만 reload).
+server {
+    listen 80;
+    server_name subway.metasolveai.com;
+
+    client_max_body_size 32k;
+
+    location / {
+        proxy_pass http://127.0.0.1:4174;
+        proxy_http_version 1.1;
+        proxy_set_header Host $host;
+        proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
+        proxy_set_header X-Forwarded-Proto https;
+        proxy_read_timeout 30s;
+    }
+
+    # 🎤 녹음 → 글 (10/15): 녹음만 1MB까지 (앱도 1MB에서 자름). 나머지는 위 32k 그대로
+    location = /api/transcribe {
+        client_max_body_size 1100k;
+        proxy_pass http://127.0.0.1:4174;
+        proxy_http_version 1.1;
+        proxy_set_header Host $host;
+        proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
+        proxy_set_header X-Forwarded-Proto https;
+        proxy_read_timeout 30s;
+    }
+}

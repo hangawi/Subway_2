@@ -1,0 +1,206 @@
+{
+  "source": {
+    "site": "https://www.subway.co.kr",
+    "retrievedAt": "2026-10-08T01:51:25.902Z"
+  },
+  "ingredients": [
+    {
+      "category": "bread",
+      "name": "화이트",
+      "nameEn": "White",
+      "energyKcal": 195
+    },
+    {
+      "category": "bread",
+      "name": "위트",
+      "nameEn": "Wheat",
+      "energyKcal": 195
+    },
+    {
+      "category": "bread",
+      "name": "파마산 오레가노",
+      "nameEn": "Parmesan Oregano",
+      "energyKcal": 207
+    },
+    {
+      "category": "bread",
+      "name": "허니오트",
+      "nameEn": "Honey Oat",
+      "energyKcal": 237
+    },
+    {
+      "category": "bread",
+      "name": "그레인",
+      "nameEn": "Grain",
+      "energyKcal": 213
+    },
+    {
+      "category": "bread",
+      "name": "플랫브레드",
+      "nameEn": "Flat Bread",
+      "energyKcal": 232
+    },
+    {
+      "category": "vegetable",
+      "name": "양상추",
+      "nameEn": "Lettuce",
+      "energyKcal": 2.9
+    },
+    {
+      "category": "vegetable",
+      "name": "토마토",
+      "nameEn": "Tomatoes",
+      "energyKcal": 7.7
+    },
+    {
+      "category": "vegetable",
+      "name": "오이",
+      "nameEn": "Cucumbers",
+      "energyKcal": 1.5
+    },
+    {
+      "category": "vegetable",
+      "name": "피망(파프리카)",
+      "nameEn": "Peppers",
+      "energyKcal": 1.4
+    },
+    {
+      "category": "vegetable",
+      "name": "양파",
+      "nameEn": "Red Onions",
+      "energyKcal": 2.8
+    },
+    {
+      "category": "vegetable",
+      "name": "피클",
+      "nameEn": "Pickles",
+      "energyKcal": 0.4
+    },
+    {
+      "category": "vegetable",
+      "name": "올리브",
+      "nameEn": "Olives",
+      "energyKcal": 3.9
+    },
+    {
+      "category": "vegetable",
+      "name": "할라피뇨",
+      "nameEn": "Jalapenos",
+      "energyKcal": 0.6
+    },
+    {
+      "category": "vegetable",
+      "name": "아보카도",
+      "nameEn": "Avocado",
+      "energyKcal": 56.5
+    },
+    {
+      "category": "cheese",
+      "name": "아메리칸 치즈",
+      "nameEn": "American Cheese",
+      "energyKcal": 35.3
+    },
+    {
+      "category": "cheese",
+      "name": "슈레드 치즈",
+      "nameEn": "Shredded Cheese",
+      "energyKcal": 53.6
+    },
+    {
+      "category": "cheese",
+      "name": "모차렐라 치즈",
+      "nameEn": "Mozzarella Cheese",
+      "energyKcal": 43.8
+    },
+    {
+      "category": "sauce",
+      "name": "랜치",
+      "nameEn": "Ranch",
+      "energyKcal": 116
+    },
+    {
+      "category": "sauce",
+      "name": "스위트 어니언",
+      "nameEn": "Sweet Onion",
+      "energyKcal": 40.1
+    },
+    {
+      "category": "sauce",
+      "name": "마요네즈",
+      "nameEn": "Mayonnaise",
+      "energyKcal": 158
+    },
+    {
+      "category": "sauce",
+      "name": "스위트 칠리",
+      "nameEn": "Sweet Chilli",
+      "energyKcal": 40
+    },
+    {
+      "category": "sauce",
+      "name": "스모크 바비큐",
+      "nameEn": "Smoke BBQ",
+      "energyKcal": 32.8
+    },
+    {
+      "category": "sauce",
+      "name": "핫 칠리",
+      "nameEn": "Hot Chilli",
+      "energyKcal": 41.8
+    },
+    {
+      "category": "sauce",
+      "name": "허니 머스터드",
+      "nameEn": "Honey Mustard",
+      "energyKcal": 38.4
+    },
+    {
+      "category": "sauce",
+      "name": "사우스웨스트 치폴레",
+      "nameEn": "Southwest Chipotle",
+      "energyKcal": 96.5
+    },
+    {
+      "category": "sauce",
+      "name": "홀스래디쉬",
+      "nameEn": "Horseradish",
+      "energyKcal": 106
+    },
+    {
+      "category": "sauce",
+      "name": "저당 크리미 어니언",
+      "nameEn": "Low Sugar Creamy Onion",
+      "energyKcal": 51
+    },
+    {
+      "category": "sauce",
+      "name": "저칼로리 오리엔탈",
+      "nameEn": "Oriental",
+      "energyKcal": 21
+    },
+    {
+      "category": "sauce",
+      "name": "엑스트라 버진 올리브 오일",
+      "nameEn": "Extra Virgin Olive Oil",
+      "energyKcal": 29
+    },
+    {
+      "category": "sauce",
+      "name": "레드 와인 식초",
+      "nameEn": "Red Wine Vinaigrette",
+      "energyKcal": 0.7
+    },
+    {
+      "category": "sauce",
+      "name": "소금",
+      "nameEn": "Salt",
+      "energyKcal": null
+    },
+    {
+      "category": "sauce",
+      "name": "후추",
+      "nameEn": "Black Pepper",
+      "energyKcal": null
+    }
+  ]
+}
